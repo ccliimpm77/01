@@ -1,51 +1,65 @@
 import requests
 import xml.etree.ElementTree as ET
+import gzip
 import sys
+import io
 
 def main():
+    # URL di EPGItalia (che è un file GZ)
+    EPG_URL = "https://www.epgitalia.tv/gzip"
+    CHANNELS_FILE = "canali.txt"
+    OUTPUT_FILE = "epg.xml"
+
+    # 1. Impostiamo un "User-Agent" per non farci bloccare dal sito
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
+
     try:
-        EPG_URL = "https://www.epgitalia.tv/gzip"
-        
-        print("1. Lettura canali.txt...")
+        # 2. Leggiamo i canali scelti
+        with open(CHANNELS_FILE, "r") as f:
+            wanted = set(line.strip() for line in f if line.strip())
+        print(f"Cerco i canali: {wanted}")
+
+        # 3. Scarichiamo il file
+        print(f"Scaricamento da {EPG_URL}...")
+        response = requests.get(EPG_URL, headers=headers, timeout=60)
+        response.raise_for_status()
+
+        # 4. Decomprimiamo il file GZIP
+        print("Decompressione file GZIP...")
         try:
-            with open("canali.txt", "r") as f:
-                wanted = set(line.strip() for line in f if line.strip())
-        except FileNotFoundError:
-            print("ERRORE: file canali.txt non trovato!")
-            sys.exit(1)
+            content = gzip.decompress(response.content)
+        except Exception:
+            # Se il file non fosse compresso per qualche motivo, usiamo il contenuto grezzo
+            content = response.content
 
-        print(f"Canali da cercare: {wanted}")
-
-        print("2. Scaricamento EPG (potrebbe volerci un po')...")
-        r = requests.get(EPG_URL, timeout=60)
-        r.raise_for_status()
-        
-        print("3. Analisi XML...")
-        root = ET.fromstring(r.content)
+        # 5. Analisi XML
+        print("Analisi XML e filtraggio...")
+        root = ET.fromstring(content)
         new_root = ET.Element("tv", root.attrib)
 
-        # Filtro canali
-        canali_trovati = 0
+        c_count = 0
         for c in root.findall("channel"):
             if c.get("id") in wanted:
                 new_root.append(c)
-                canali_trovati += 1
+                c_count += 1
         
-        # Filtro programmi
-        programmi_trovati = 0
+        p_count = 0
         for p in root.findall("programme"):
             if p.get("channel") in wanted:
                 new_root.append(p)
-                programmi_trovati += 1
+                p_count += 1
 
-        print(f"Risultato: Trovati {canali_trovati} canali e {programmi_trovati} programmi.")
+        print(f"Trovati {c_count} canali e {p_count} programmi.")
 
-        # Scrive il file in ogni caso, anche se vuoto, per non far fallire Git
-        ET.ElementTree(new_root).write("epg.xml", encoding="utf-8", xml_declaration=True)
-        print("4. File epg.xml creato correttamente.")
+        # 6. Salvataggio
+        tree = ET.ElementTree(new_root)
+        tree.write(OUTPUT_FILE, encoding="utf-8", xml_declaration=True)
+        print(f"File {OUTPUT_FILE} creato correttamente!")
 
     except Exception as e:
-        print(f"ERRORE CRITICO: {e}")
+        print(f"ERRORE: {e}")
         sys.exit(1)
 
 if __name__ == "__main__":
