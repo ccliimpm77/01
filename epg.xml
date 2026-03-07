@@ -43,6 +43,10 @@
     <display-name lang="de">Real Time</display-name>
     <url>http://www.tv.blue.ch</url>
   </channel>
+  <channel id="Super!">
+    <display-name lang="it">Super!</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
   <channel id="frisbee">
     <display-name lang="de">frisbee</display-name>
     <url>http://www.tv.blue.ch</url>
@@ -5830,6 +5834,1603 @@
     <rating system="FSK">
       <value>12+</value>
     </rating>
+  </programme>
+  <programme start="20260307050000 +0000" stop="20260307051500 +0000" channel="Super!">
+    <title lang="it">Ghostforce - Stag. 1 Ep. 9 - Glougloux</title>
+    <sub-title lang="it">Glougloux</sub-title>
+    <desc lang="it">Andy, senza l'autorizzazione della Signorina Jones, fa una sessione di allenamento con un fantasma apparentemente innocuo. Si tratta di Glougloux, un fanta-pollo che si...</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260307051500 +0000" stop="20260307053000 +0000" channel="Super!">
+    <title lang="it">Ghostforce - Stag. 1 Ep. 10 - Raijin</title>
+    <sub-title lang="it">Raijin</sub-title>
+    <desc lang="it">Il set delle riprese dei genitori di Liv e Andy e' in pericolo a causa di un fantasma elettrico di nome Raijin.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260307053000 +0000" stop="20260307054500 +0000" channel="Super!">
+    <title lang="it">Ghostforce - Stag. 1 Ep. 11 - Lo Squalo Fantasma</title>
+    <sub-title lang="it">Lo Squalo Fantasma</sub-title>
+    <desc lang="it">Liv e' imbarazzata perche' crede che Marlo abbia una cotta per lei. Nel frattempo, la citta' e' invasa da un cattivo odore, che si scopre essere quello di Sharkoak, uno...</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260307054500 +0000" stop="20260307060000 +0000" channel="Super!">
+    <title lang="it">Ghostforce - Stag. 1 Ep. 12 - Mastaar</title>
+    <sub-title lang="it">Mastaar</sub-title>
+    <desc lang="it">La citta' e' controllata da Mastaar, un fantasma che amplifica i suoi poteri grazie al sostegno dei fan.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260307060000 +0000" stop="20260307062500 +0000" channel="Super!">
+    <title lang="it">Kit &amp; Sam - Misteri del regno animale 1</title>
+    <sub-title lang="it">Alla ricerca del formicaio delle formiche d'argento / Alla ricer..</sub-title>
+    <desc lang="it">Una formica d'argento cerca di tornare a casa. / Sam e Kit indagano nella palude.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Bambini</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260307062500 +0000" stop="20260307065000 +0000" channel="Super!">
+    <title lang="it">Kit &amp; Sam - Misteri del regno animale 1</title>
+    <sub-title lang="it">Il mistero del Monsoon Express</sub-title>
+    <desc lang="it">Sam e Kit cercano un sospetto strisciante che ha morso la macchinista di un treno espresso.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Bambini</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260307065000 +0000" stop="20260307071500 +0000" channel="Super!">
+    <title lang="it">Blaze e le Mega Macchine</title>
+    <sub-title lang="it">Il Leone Volante</sub-title>
+    <desc lang="it">Nella Grande Foresta, Blaze ed AJ incontrano Roarian, un leone volante: una volta era una statua ma ora, grazie alla magia di una pietra che porta al collo, e' diventato un leone vero capace di volare.</desc>
+    <credits>
+      <writer>Jeff Borkin</writer>
+      <writer>Ellen Martin</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/11634fb8-464c-44b6-9c15-ffeb6d4642b5/cover?territory=IT&amp;md5ChecksumParam=1b075b7cdab55cdc942b69e2aface775" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S4 E15</episode-num>
+  </programme>
+  <programme start="20260307071500 +0000" stop="20260307074000 +0000" channel="Super!">
+    <title lang="it">Blaze e le Mega Macchine</title>
+    <sub-title lang="it">La zuppa ninja</sub-title>
+    <desc lang="it">Blaze, Aj e Blackbelt vanno alla ricerca degli ingredienti della Zuppa Ninja, una zuppa speciale per far passare il raffreddore alla nonna di Blackbelt.</desc>
+    <credits>
+      <writer>Jeff Borkin</writer>
+      <writer>Ellen Martin</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/91a4bf2b-c898-472c-9b23-010467c2d915/cover?territory=IT&amp;md5ChecksumParam=1b075b7cdab55cdc942b69e2aface775" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S4 E16</episode-num>
+  </programme>
+  <programme start="20260307074000 +0000" stop="20260307080500 +0000" channel="Super!">
+    <title lang="it">SpongeBob</title>
+    <sub-title lang="it">Notte folle con mamma e papa'/Uno studente molesto</sub-title>
+    <desc lang="it">I genitori di Spongebob chiedono ospitalità al figlio./La signora Puff mostra agli studenti della scuola guida un filmino didattico.</desc>
+    <date>2020</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Bambini</category>
+    <icon src="https://guidatv.sky.it/uuid/e366ea60-fc6b-333a-9186-9e2819749df5/cover?territory=IT&amp;md5ChecksumParam=9845b642642c9170aaa01625b9a49ef6" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S13 E16</episode-num>
+  </programme>
+  <programme start="20260307080500 +0000" stop="20260307083000 +0000" channel="Super!">
+    <title lang="it">SpongeBob</title>
+    <sub-title lang="it">La fiorista/Spongebob alla parata</sub-title>
+    <desc lang="it">Un negozio di fiori prende il posto del Chum Bucket./Mr Krab ordina a Spongebob e Squiddy di costruire un carro per partecipare alla sfilata.</desc>
+    <date>2020</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Bambini</category>
+    <icon src="https://guidatv.sky.it/uuid/e366ea60-fc6b-333a-9186-9e2819749df5/cover?territory=IT&amp;md5ChecksumParam=9845b642642c9170aaa01625b9a49ef6" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S13 E17</episode-num>
+  </programme>
+  <programme start="20260307083000 +0000" stop="20260307085500 +0000" channel="Super!">
+    <title lang="it">SpongeBob</title>
+    <sub-title lang="it">Consegna sull'isola dei mostri/Pedala, Patrick!</sub-title>
+    <desc lang="it">Spongebob e Plankton si ritrovano su un'isola sperduta./Spongebob invita Patrick a fare una biciclettata con lui.</desc>
+    <date>2020</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Bambini</category>
+    <icon src="https://guidatv.sky.it/uuid/e366ea60-fc6b-333a-9186-9e2819749df5/cover?territory=IT&amp;md5ChecksumParam=9845b642642c9170aaa01625b9a49ef6" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S13 E18</episode-num>
+  </programme>
+  <programme start="20260307085500 +0000" stop="20260307092000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">La strada per il successo/La guerra degli avanzi</sub-title>
+    <desc lang="it">Luna viene selezionata come star di un importante spettacolo. / I fratelli Loud continuano a litigare per gli avanzi dei cibi cucinati dal padre.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/8739d2a5-4a3c-4874-b9a1-61f7ba854654/cover?territory=IT&amp;md5ChecksumParam=235c50ae3250047e8003fcc33b281dc2" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20260307092000 +0000" stop="20260307094500 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">A Caccia di Like/A Scuola dai Loud</sub-title>
+    <desc lang="it">Lori non accetta il fatto che i selfie della sua amica Carol ottengano piu' like dei suoi. / Lincoln e le sorelle ottengono il permesso di non andare piu' a scuola, per istruirsi a casa.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/7ce49750-a9f6-4b0c-9ab0-b4259c510a1f/cover?territory=IT&amp;md5ChecksumParam=235c50ae3250047e8003fcc33b281dc2" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S3 E2</episode-num>
+  </programme>
+  <programme start="20260307094500 +0000" stop="20260307101000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Tipi da Citta'/Controfigure</sub-title>
+    <desc lang="it">Lincoln e Lori vanno in citta' a fare visita alla famiglia Casagrande. / Per il pesce d'aprile, Lincoln e i suoi familiari ingaggiano delle controfigure che subiscano al posto loro gli scherzi.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/44241a66-0f55-4061-8d4e-6b35939760b1/cover?territory=IT&amp;md5ChecksumParam=235c50ae3250047e8003fcc33b281dc2" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+  </programme>
+  <programme start="20260307101000 +0000" stop="20260307103500 +0000" channel="Super!">
+    <title lang="it">I Thunderman</title>
+    <sub-title lang="it">Cattive compagnie</sub-title>
+    <desc lang="it">Il dottor Colosso rimprovera Max di non aver frequentato persone abbastanza malvagie. Max allora si unisce a tre ladruncole.</desc>
+    <credits>
+      <actor>Kira Kosarin</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Rosa Blasi</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Maya Le Clark</actor>
+      <actor>Dana Snyder</actor>
+      <writer>Jed Spingarn</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Sit Com</category>
+    <icon src="https://guidatv.sky.it/uuid/60f331cf-1db4-4f92-a985-27ff473950d1/cover?territory=IT&amp;md5ChecksumParam=c81af68619e336fc348808613b129d99" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+  </programme>
+  <programme start="20260307103500 +0000" stop="20260307110000 +0000" channel="Super!">
+    <title lang="it">I Thunderman</title>
+    <sub-title lang="it">Una Giostra Da Paura</sub-title>
+    <desc lang="it">Ep.5 di 26 - "Una giostra da paura" - Hank e Barb vogliono portare tutta la famiglia in un parco di divertimenti, ma Max e Phoebe sono terrorizzati da un'attrazione ed escogitano un piano per sabotare la gita!</desc>
+    <credits>
+      <actor>Kira Kosarin</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Rosa Blasi</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Maya Le Clark</actor>
+      <actor>Dana Snyder</actor>
+      <writer>Jed Spingarn</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Sit Com</category>
+    <icon src="https://guidatv.sky.it/uuid/03b3cc0a-799f-448e-a89e-49ec8ff5d534/cover?territory=IT&amp;md5ChecksumParam=c81af68619e336fc348808613b129d99" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme>
+  <programme start="20260307110000 +0000" stop="20260307112500 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Il ballo/Una fiera indimenticabile</sub-title>
+    <desc lang="it">La scuola organizza il ballo "Sadie Hawkins", quello cioe' in cui sono le ragazze ad invitare i ragazzi. Ma Lincoln ha il terrore che...</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/f1019d4b-38b5-4d9c-bb48-9cbd33e546c1/cover?territory=IT&amp;md5ChecksumParam=9c222bf01d42af2d524c856f0f423ec8" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S1 E20</episode-num>
+  </programme>
+  <programme start="20260307112500 +0000" stop="20260307115000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Dieci fratelli/Storia di una spiona</sub-title>
+    <desc lang="it">Grazie ad un orologio inventato da Lisa, Lincoln puo' viaggiare in un'altra dimensione. Ma scopre che...</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/bdec4fa6-0930-36af-b58a-09af79b055a5/cover?territory=IT&amp;md5ChecksumParam=9c222bf01d42af2d524c856f0f423ec8" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S1 E23</episode-num>
+  </programme>
+  <programme start="20260307115000 +0000" stop="20260307121500 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Affari divertenti/Annoiati dalla neve</sub-title>
+    <desc lang="it">Luna e' alla ricerca di un assistente che la aiuti nei suoi numeri da circo. Dopo numerosi tentativi falliti con le sorelle chiede a Lincoln e...</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/1f8415ec-1756-4516-8339-fd1f3375f289/cover?territory=IT&amp;md5ChecksumParam=9c222bf01d42af2d524c856f0f423ec8" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S1 E26</episode-num>
+  </programme>
+  <programme start="20260307121500 +0000" stop="20260307124000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Il prezzo della verita'/Influenza in Casa Loud</sub-title>
+    <desc lang="it">Lincoln e' elettrizzato perche' esce al cinema il film horror "Il Mietitore". Nonostante il divieto dei genitori, Lincoln va a vedere il film ma ne esce terrorizzato e...</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/cef63353-bf8e-4e67-b17a-69944bcdb6cc/cover?territory=IT&amp;md5ChecksumParam=9c222bf01d42af2d524c856f0f423ec8" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S1 E22</episode-num>
+  </programme>
+  <programme start="20260307124000 +0000" stop="20260307131000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Studiare e' bello/Casa dolce casa</sub-title>
+    <desc lang="it">Lincoln e' preoccupato di essere bocciato perche' non riesce a prendere buoni voti a scuola. Cosi' chiede a un ragazzo del liceo di dargli alcune ripetizioni.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/e5898cb7-0e02-42f1-91b4-f4c6a95ed212/cover?territory=IT&amp;md5ChecksumParam=9c222bf01d42af2d524c856f0f423ec8" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S1 E26</episode-num>
+  </programme>
+  <programme start="20260307131000 +0000" stop="20260307134000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Stagisti antagonisti/Un nonno molto in forma</sub-title>
+    <desc lang="it">Lincoln e Clyde svolgono uno stage presso l'area di servizio di Flip.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/4c33fd37-c9d8-3874-bafe-6f8bad777aa1/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20260307134000 +0000" stop="20260307140000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Le tre C/Il protocollo</sub-title>
+    <desc lang="it">Clyde pensa che i suoi papa' stiano per adottare un altro bambino. Decide allora di seguire i suggerimenti del suo amico Lincoln per imparare ad essere un bravo fratello maggiore.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/794a103d-f12a-472d-8921-6536ac74d58f/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20260307140000 +0000" stop="20260307142500 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <desc lang="it">Il Signor e la Signora Loud, dopo anni e anni di risparmi, sono finalmente pronti per trascorrere un weekend all'insegna del lusso e del relax.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/1bfd00ef-6f4a-4460-aec2-d5b0e59f05e3/COVER_TITLE_TALL?territory=IT&amp;version=0e0d824c-cf64-3ab3-81ab-7ab1be46279e&amp;w=600&amp;h=800&amp;md5ChecksumParam=37574e28db31b57a3dd284c198df7735" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20260307142500 +0000" stop="20260307145000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <desc lang="it">Stanca di perdere tempo alla scuola materna, Lisa viene trasferita in quinta elementare, nella stessa classe di Lincoln.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/e557ee27-9d56-432b-adba-a659cd2eb8ef/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20260307145000 +0000" stop="20260307151500 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Riconciliazioni/Uno scatenato traditore</sub-title>
+    <desc lang="it">Lala e Lola partecipano alle selezioni per entrare a far parte di un gruppo scout. Le prove da sostenere le metteranno in forte competizione.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/eebc3de5-11ed-423e-8b17-9044f08bc497/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20260307151500 +0000" stop="20260307153500 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Ladri dai Loud/Le foto ricordo</sub-title>
+    <desc lang="it">Nel quartiere e' avvenuto un furto e papa' Loud tenta di insegnare ai figli a chiudere a chiave la porta quando i genitori sono fuori casa. Purtroppo nessuno lo ascolta.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/267096f0-246f-4073-b060-553f363adfb2/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20260307153500 +0000" stop="20260307160000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Il Porta Sfortuna/Rane in liberta'</sub-title>
+    <desc lang="it">Ep.8 di 26 - "Il Porta Sfortuna / Rane in liberta'" - Stanco di dover presenziare a tutte le attivita' delle sorelle senza mai avere un po' di tempo per se', Lincoln fa credere ai propri familiari di portare sfortuna.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/1c9dedd5-0968-46b7-b378-30b4b410a9d7/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20260307160000 +0000" stop="20260307162500 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">La lista/Una festa sofisticata</sub-title>
+    <desc lang="it">Lincoln e Clyde hanno stilato una lista di cose da fare durante le vacanze di primavera. Le cose pero' non andranno come previsto.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/7cae79da-fbcb-4175-bca2-6a96a261ffb2/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E9</episode-num>
+  </programme>
+  <programme start="20260307162500 +0000" stop="20260307165000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Stufati/Genitori premurosi</sub-title>
+    <desc lang="it">Lincoln e le sue sorelle decidono di sabotare la preparazione della cena in modo da poter ordinare delle pizze.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/55bd6929-1046-3b5c-b80b-8578cbe75a0f/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E10</episode-num>
+  </programme>
+  <programme start="20260307165000 +0000" stop="20260307171500 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Il fumetto/L'intruso</sub-title>
+    <desc lang="it">Lincoln e Clyde disegnano un fumetto per partecipare ad un concorso ma Huggins lo sequestra.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/189ee395-9363-4cce-9c3d-47c65b942604/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E11</episode-num>
+  </programme>
+  <programme start="20260307171500 +0000" stop="20260307174000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">La parola con la D/L'ammiratore di L. Loud</sub-title>
+    <desc lang="it">Una dottoressa di un asilo nido di prestigio si reca a casa Loud per fare un colloquio a Lily. Poco prima del suo arrivo pero' la piccola imita i suoi fratelli.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/7abe708f-adf6-4509-8c58-18f3f2cd9d36/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E15</episode-num>
+  </programme>
+  <programme start="20260307174000 +0000" stop="20260307180500 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Parenti Turbolenti</sub-title>
+    <desc lang="it">Ronnie Anne, Bobby e la loro mamma vanno a trascorrere un weekend a casa dei propri parenti. La Signora Maria a sorpresa propone ai figli di trasferirsi definitivamente in citta'.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/4e1b9fa3-bc3d-45fa-a711-0e79a93af7dc/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E13</episode-num>
+  </programme>
+  <programme start="20260307180500 +0000" stop="20260307183000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Niente foto/Il gioco delle stanze</sub-title>
+    <desc lang="it">Tutte le sorelle Loud litigano e Lincoln trova un modo per ridistribuire le stanze e rendere tutti piu' felici. La cosa pero' gli si ritorce contro.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/f1fd06f0-9693-4eab-86a2-b23cc761e06e/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E12</episode-num>
+  </programme>
+  <programme start="20260307183000 +0000" stop="20260307190000 +0000" channel="Super!">
+    <title lang="it">I Thunderman</title>
+    <sub-title lang="it">Il Male Non Dorme Mai</sub-title>
+    <desc lang="it">La presidente della Lega degli Eroi incarica Phoebe di indagare su Evil Man, un ex super-cattivo. Ma Evil Man e' il padre di Link!</desc>
+    <credits>
+      <actor>Kira Kosarin</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Rosa Blasi</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Maya Le Clark</actor>
+      <actor>Dana Snyder</actor>
+      <writer>Jed Spingarn</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Sit Com</category>
+    <icon src="https://guidatv.sky.it/uuid/49bc85f1-8a8b-4621-aa6e-c93288936eab/cover?territory=IT&amp;md5ChecksumParam=c81af68619e336fc348808613b129d99" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S3 E6</episode-num>
+  </programme>
+  <programme start="20260307190000 +0000" stop="20260307201500 +0000" channel="Super!">
+    <title lang="it">I Thunderman</title>
+    <sub-title lang="it">Lasciami Respirare</sub-title>
+    <desc lang="it">Le continue attenzioni di Link assillano Phoebe che non trova un momento per pensare a se stessa. La ragazza allora cerca un modo per tenere occupato Link.</desc>
+    <credits>
+      <actor>Kira Kosarin</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Rosa Blasi</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Maya Le Clark</actor>
+      <actor>Dana Snyder</actor>
+      <writer>Jed Spingarn</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Sit Com</category>
+    <icon src="https://guidatv.sky.it/uuid/7bcd38ce-2542-445f-9c9a-cd0d32086d6a/cover?territory=IT&amp;md5ChecksumParam=c81af68619e336fc348808613b129d99" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S3 E10</episode-num>
+  </programme>
+  <programme start="20260307201500 +0000" stop="20260307204000 +0000" channel="Super!">
+    <title lang="it">Sonic Prime 1</title>
+    <sub-title lang="it">Senza via d'uscita</sub-title>
+    <desc lang="it">Gli amici diventano nemici quando l'equipaggio di Captain Dread mette in dubbio la lealta' di Sonic.</desc>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Fiction</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260307204000 +0000" stop="20260307210500 +0000" channel="Super!">
+    <title lang="it">Teenage Mutant Ninja Turtles - Tartarughe Ninja</title>
+    <desc lang="it">...Tartarughe Ninja. S4 Ep1 Oltre l'universo conosciuto - Dopo aver salvato le Tartarughe, April e Casey, il Professor Honeycutt riporta tutti indietro nel tempo, a 6 mesi dalla distruzione della Terra.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260307210500 +0000" stop="20260307213000 +0000" channel="Super!">
+    <title lang="it">Teenage Mutant Ninja Turtles - Tartarughe Ninja</title>
+    <desc lang="it">...Tartarughe Ninja. S4 Ep2 Le lune di Thalos 3 - A causa di una collisione con l'astronave dei Salamandriani, la navicella delle TMNT atterra su una Luna di ghiaccio.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260307213000 +0000" stop="20260307220000 +0000" channel="Super!">
+    <title lang="it">Teenage Mutant Ninja Turtles - Tartarughe Ninja</title>
+    <desc lang="it">...Tartarughe Ninja. S4 Ep3 Lo strano mondo di Wyrm - Casey trova su un'astronave semidistrutta un ipercubo, lo apre e libera accidentalmente una creatura di un'altra dimensione chiamata Wyrm....</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260307220000 +0000" stop="20260307221500 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <sub-title lang="it">Krik Krok</sub-title>
+    <desc lang="it">Mentre cerca di farla franca durante un compito in classe, Andy risveglia un fantasma di nome Krik Krok, che trasforma la citta' in una vera e propria giungla.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260307221500 +0000" stop="20260307223000 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <sub-title lang="it">Fantaburger</sub-title>
+    <desc lang="it">Mentre Liv e Andy, stanno mangiando un boccone da Roland, vengono colti di sorpresa da Fantaburger, un fantasma che si e' unito con un hamburger.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260307223000 +0000" stop="20260307224500 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <sub-title lang="it">Jellystery</sub-title>
+    <desc lang="it">Liv ammira molto la Signorina Jones e decide di combattere da sola contro un fantasma gelatinoso, utilizzando la Freon-Fanta-Pistola.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260307224500 +0000" stop="20260307230000 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <sub-title lang="it">Vochaos</sub-title>
+    <desc lang="it">Dalla Fanta-Mappa, la Signorina Jones nota una strana Fanta-Energia, che non ha mai visto prima. Si tratta di Vochaos, un fantasma in grado di cambiare la voce alle persone.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260307230000 +0000" stop="20260307233000 +0000" channel="Super!">
+    <title lang="it">Boy, Girl, Dog, Cat, Mouse, Cheese</title>
+    <sub-title lang="it">Il criceto ingabbiato</sub-title>
+    <desc lang="it">La famiglia deve occuparsi del criceto della vicina di casa. Mouse pero' libera dalla gabbia il suo simile che comincia a rosicchiare tutto!</desc>
+    <credits>
+      <writer>Jeff Harter</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/dc6202a9-7c17-4cd6-af38-4115e4df1b87/cover?territory=IT&amp;md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3" />
+    <country lang="it">GBR</country>
+    <episode-num system="onscreen">S1 E48</episode-num>
+  </programme>
+  <programme start="20260307233000 +0000" stop="20260307235500 +0000" channel="Super!">
+    <title lang="it">Boy, Girl, Dog, Cat, Mouse, Cheese</title>
+    <sub-title lang="it">La guerra dei like</sub-title>
+    <desc lang="it">A scuola Lila ha molto successo grazie al suo vlog e insulta Girl definendola 'ordinaria'. Inizia cosi' una vera e propria guerra all'ultimo post.</desc>
+    <credits>
+      <writer>Jeff Harter</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/d94e4bc8-f149-4152-bebf-0ef438ebf0dd/cover?territory=IT&amp;md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3" />
+    <country lang="it">GBR</country>
+    <episode-num system="onscreen">S1 E49</episode-num>
+  </programme>
+  <programme start="20260307235500 +0000" stop="20260308002000 +0000" channel="Super!">
+    <title lang="it">Boy, Girl, Dog, Cat, Mouse, Cheese</title>
+    <sub-title lang="it">Il primo incontro</sub-title>
+    <desc lang="it">I ragazzi vogliono fare un regalo speciale ai genitori: ricreare in casa la pista di pattinaggio del loro primo incontro, ma non sara' una buona idea...</desc>
+    <credits>
+      <writer>Jeff Harter</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/819408ec-8855-43a5-971e-7c86acec3476/cover?territory=IT&amp;md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3" />
+    <country lang="it">GBR</country>
+    <episode-num system="onscreen">S1 E50</episode-num>
+  </programme>
+  <programme start="20260308002000 +0000" stop="20260308003000 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <sub-title lang="it">Krik Krok</sub-title>
+    <desc lang="it">Mentre cerca di farla franca durante un compito in classe, Andy risveglia un fantasma di nome Krik Krok, che trasforma la citta' in una vera e propria giungla.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308003000 +0000" stop="20260308004000 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <sub-title lang="it">Fantaburger</sub-title>
+    <desc lang="it">Mentre Liv e Andy, stanno mangiando un boccone da Roland, vengono colti di sorpresa da Fantaburger, un fantasma che si e' unito con un hamburger.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308004000 +0000" stop="20260308005000 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <sub-title lang="it">Jellystery</sub-title>
+    <desc lang="it">Liv ammira molto la Signorina Jones e decide di combattere da sola contro un fantasma gelatinoso, utilizzando la Freon-Fanta-Pistola.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308005000 +0000" stop="20260308010500 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <sub-title lang="it">Vochaos</sub-title>
+    <desc lang="it">Dalla Fanta-Mappa, la Signorina Jones nota una strana Fanta-Energia, che non ha mai visto prima. Si tratta di Vochaos, un fantasma in grado di cambiare la voce alle persone.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308010500 +0000" stop="20260308013500 +0000" channel="Super!">
+    <title lang="it">Boy, Girl, Dog, Cat, Mouse, Cheese</title>
+    <sub-title lang="it">Il criceto ingabbiato</sub-title>
+    <desc lang="it">La famiglia deve occuparsi del criceto della vicina di casa. Mouse pero' libera dalla gabbia il suo simile che comincia a rosicchiare tutto!</desc>
+    <credits>
+      <writer>Jeff Harter</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/dc6202a9-7c17-4cd6-af38-4115e4df1b87/cover?territory=IT&amp;md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3" />
+    <country lang="it">GBR</country>
+    <episode-num system="onscreen">S1 E48</episode-num>
+  </programme>
+  <programme start="20260308013500 +0000" stop="20260308020000 +0000" channel="Super!">
+    <title lang="it">Boy, Girl, Dog, Cat, Mouse, Cheese</title>
+    <sub-title lang="it">La guerra dei like</sub-title>
+    <desc lang="it">A scuola Lila ha molto successo grazie al suo vlog e insulta Girl definendola 'ordinaria'. Inizia cosi' una vera e propria guerra all'ultimo post.</desc>
+    <credits>
+      <writer>Jeff Harter</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/d94e4bc8-f149-4152-bebf-0ef438ebf0dd/cover?territory=IT&amp;md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3" />
+    <country lang="it">GBR</country>
+    <episode-num system="onscreen">S1 E49</episode-num>
+  </programme>
+  <programme start="20260308020000 +0000" stop="20260308022500 +0000" channel="Super!">
+    <title lang="it">Boy, Girl, Dog, Cat, Mouse, Cheese</title>
+    <sub-title lang="it">Il primo incontro</sub-title>
+    <desc lang="it">I ragazzi vogliono fare un regalo speciale ai genitori: ricreare in casa la pista di pattinaggio del loro primo incontro, ma non sara' una buona idea...</desc>
+    <credits>
+      <writer>Jeff Harter</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/819408ec-8855-43a5-971e-7c86acec3476/cover?territory=IT&amp;md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3" />
+    <country lang="it">GBR</country>
+    <episode-num system="onscreen">S1 E50</episode-num>
+  </programme>
+  <programme start="20260308022500 +0000" stop="20260308023500 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <sub-title lang="it">Krik Krok</sub-title>
+    <desc lang="it">Mentre cerca di farla franca durante un compito in classe, Andy risveglia un fantasma di nome Krik Krok, che trasforma la citta' in una vera e propria giungla.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308023500 +0000" stop="20260308024500 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <sub-title lang="it">Fantaburger</sub-title>
+    <desc lang="it">Mentre Liv e Andy, stanno mangiando un boccone da Roland, vengono colti di sorpresa da Fantaburger, un fantasma che si e' unito con un hamburger.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308024500 +0000" stop="20260308025500 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <sub-title lang="it">Jellystery</sub-title>
+    <desc lang="it">Liv ammira molto la Signorina Jones e decide di combattere da sola contro un fantasma gelatinoso, utilizzando la Freon-Fanta-Pistola.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308025500 +0000" stop="20260308031500 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <sub-title lang="it">Vochaos</sub-title>
+    <desc lang="it">Dalla Fanta-Mappa, la Signorina Jones nota una strana Fanta-Energia, che non ha mai visto prima. Si tratta di Vochaos, un fantasma in grado di cambiare la voce alle persone.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308031500 +0000" stop="20260308034000 +0000" channel="Super!">
+    <title lang="it">Boy, Girl, Dog, Cat, Mouse, Cheese</title>
+    <sub-title lang="it">Il criceto ingabbiato</sub-title>
+    <desc lang="it">La famiglia deve occuparsi del criceto della vicina di casa. Mouse pero' libera dalla gabbia il suo simile che comincia a rosicchiare tutto!</desc>
+    <credits>
+      <writer>Jeff Harter</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/dc6202a9-7c17-4cd6-af38-4115e4df1b87/cover?territory=IT&amp;md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3" />
+    <country lang="it">GBR</country>
+    <episode-num system="onscreen">S1 E48</episode-num>
+  </programme>
+  <programme start="20260308034000 +0000" stop="20260308040000 +0000" channel="Super!">
+    <title lang="it">Boy, Girl, Dog, Cat, Mouse, Cheese</title>
+    <sub-title lang="it">La guerra dei like</sub-title>
+    <desc lang="it">A scuola Lila ha molto successo grazie al suo vlog e insulta Girl definendola 'ordinaria'. Inizia cosi' una vera e propria guerra all'ultimo post.</desc>
+    <credits>
+      <writer>Jeff Harter</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/d94e4bc8-f149-4152-bebf-0ef438ebf0dd/cover?territory=IT&amp;md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3" />
+    <country lang="it">GBR</country>
+    <episode-num system="onscreen">S1 E49</episode-num>
+  </programme>
+  <programme start="20260308040000 +0000" stop="20260308042000 +0000" channel="Super!">
+    <title lang="it">Boy, Girl, Dog, Cat, Mouse, Cheese</title>
+    <sub-title lang="it">Il primo incontro</sub-title>
+    <desc lang="it">I ragazzi vogliono fare un regalo speciale ai genitori: ricreare in casa la pista di pattinaggio del loro primo incontro, ma non sara' una buona idea...</desc>
+    <credits>
+      <writer>Jeff Harter</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/819408ec-8855-43a5-971e-7c86acec3476/cover?territory=IT&amp;md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3" />
+    <country lang="it">GBR</country>
+    <episode-num system="onscreen">S1 E50</episode-num>
+  </programme>
+  <programme start="20260308042000 +0000" stop="20260308043000 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <sub-title lang="it">Krik Krok</sub-title>
+    <desc lang="it">Mentre cerca di farla franca durante un compito in classe, Andy risveglia un fantasma di nome Krik Krok, che trasforma la citta' in una vera e propria giungla.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308043000 +0000" stop="20260308044000 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <sub-title lang="it">Fantaburger</sub-title>
+    <desc lang="it">Mentre Liv e Andy, stanno mangiando un boccone da Roland, vengono colti di sorpresa da Fantaburger, un fantasma che si e' unito con un hamburger.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308044000 +0000" stop="20260308045000 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <sub-title lang="it">Jellystery</sub-title>
+    <desc lang="it">Liv ammira molto la Signorina Jones e decide di combattere da sola contro un fantasma gelatinoso, utilizzando la Freon-Fanta-Pistola.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308045000 +0000" stop="20260308050000 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <sub-title lang="it">Vochaos</sub-title>
+    <desc lang="it">Dalla Fanta-Mappa, la Signorina Jones nota una strana Fanta-Energia, che non ha mai visto prima. Si tratta di Vochaos, un fantasma in grado di cambiare la voce alle persone.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308050000 +0000" stop="20260308051500 +0000" channel="Super!">
+    <title lang="it">Ghostforce - Stag. 1 Ep. 13 - Arak</title>
+    <sub-title lang="it">Arak</sub-title>
+    <desc lang="it">Durante una lezione del professor Pascal sui ragni, Mike e' piuttosto nervoso all'idea di essere cosi' vicino a quegli animaletti. L'aracnofobia risveglia Arak, un fanta-ragno che...</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308051500 +0000" stop="20260308053000 +0000" channel="Super!">
+    <title lang="it">Ghostforce - Stag. 1 Ep. 14 - Artiflame</title>
+    <sub-title lang="it">Artiflame</sub-title>
+    <desc lang="it">I festeggiamenti per il Giorno dell'Indipendeza a New York e' alle porte e tutta la citta' si sta preparando. La serenita' viene interrotta da Artiflame, un fantasma che si fonde...</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308053000 +0000" stop="20260308054500 +0000" channel="Super!">
+    <title lang="it">Ghostforce - Stag. 1 Ep. 15 - Xhypno</title>
+    <sub-title lang="it">Xhypno</sub-title>
+    <desc lang="it">Andy vuole recitare nel film dei suoi genitori, ma non ottiene la parte. Le riprese del film vengono interrotte da Xhypno, un fantasma ipnotico con il pollice verde.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308054500 +0000" stop="20260308060000 +0000" channel="Super!">
+    <title lang="it">Ghostforce - Stag. 1 Ep. 16 - Sporofungus</title>
+    <sub-title lang="it">Sporofungus</sub-title>
+    <desc lang="it">L'uscita scolastica alla ruota panoramica con il professor Pascal si trasforma in una missione per fermare e catturare Sporofungus, un fantasma che emana cattivo odore.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308060000 +0000" stop="20260308062500 +0000" channel="Super!">
+    <title lang="it">Kit &amp; Sam - Misteri del regno animale 1</title>
+    <sub-title lang="it">L'enigma dei rinoceronti arrabbiati / Un guaio nella tundra</sub-title>
+    <desc lang="it">I rinoceronti del Watering Hole Club sono infuriati / Sam e Kit indagano sulla scomparsa della Squadra Topi.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Bambini</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308062500 +0000" stop="20260308065000 +0000" channel="Super!">
+    <title lang="it">Kit &amp; Sam - Misteri del regno animale 1</title>
+    <sub-title lang="it">Il mistero delle uova cadute / La principessa talpa e' scomparsa</sub-title>
+    <desc lang="it">Sam e Kit cercano un uccello che disturba i nidi altrui. / Il duo insegue una talpa reale.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Bambini</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308065000 +0000" stop="20260308071500 +0000" channel="Super!">
+    <title lang="it">Blaze e le Mega Macchine</title>
+    <sub-title lang="it">Salvataggio reale</sub-title>
+    <desc lang="it">Blaze, Aj e il simpatico draghetto Zeek partono in missione per soccorere il Re che si e' smarrito in una foresta.</desc>
+    <credits>
+      <writer>Jeff Borkin</writer>
+      <writer>Ellen Martin</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/b0bd4068-d8c0-4087-bfb5-77d1db87230c/cover?territory=IT&amp;md5ChecksumParam=1b075b7cdab55cdc942b69e2aface775" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S4 E17</episode-num>
+  </programme>
+  <programme start="20260308071500 +0000" stop="20260308074000 +0000" channel="Super!">
+    <title lang="it">Blaze e le Mega Macchine</title>
+    <sub-title lang="it">Blaze e il genio</sub-title>
+    <desc lang="it">Blaze ed AJ aiutano un genio della lampada a ritrovare le tre gemme che gli consentono di eseguire il proprio lavoro, cioe' esaudire i desideri.</desc>
+    <credits>
+      <writer>Jeff Borkin</writer>
+      <writer>Ellen Martin</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/1c97a070-0208-4490-8350-5d935bcebec1/cover?territory=IT&amp;md5ChecksumParam=1b075b7cdab55cdc942b69e2aface775" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S4 E18</episode-num>
+  </programme>
+  <programme start="20260308074000 +0000" stop="20260308080500 +0000" channel="Super!">
+    <title lang="it">SpongeBob</title>
+    <sub-title lang="it">Le ghiande piccanti/Sir Riccio e Lumaca Tonta</sub-title>
+    <desc lang="it">Mr Krab scopre che Sandy sa cucinare delle ottime ghiande piccanti./Sir Riccio e Lumaca Tonta, un duo di comici, litigano.</desc>
+    <date>2020</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Bambini</category>
+    <icon src="https://guidatv.sky.it/uuid/e366ea60-fc6b-333a-9186-9e2819749df5/cover?territory=IT&amp;md5ChecksumParam=9845b642642c9170aaa01625b9a49ef6" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S13 E19</episode-num>
+  </programme>
+  <programme start="20260308080500 +0000" stop="20260308083000 +0000" channel="Super!">
+    <title lang="it">SpongeBob</title>
+    <sub-title lang="it">L'amiciversario/Riabilitazione musicale</sub-title>
+    <desc lang="it">Squiddy cancella i ricordi che Spongebob ha di lui./Squiddy suona talmente male nel parco di Bikini Bottom che riceve una multa.</desc>
+    <date>2020</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Bambini</category>
+    <icon src="https://guidatv.sky.it/uuid/e366ea60-fc6b-333a-9186-9e2819749df5/cover?territory=IT&amp;md5ChecksumParam=9845b642642c9170aaa01625b9a49ef6" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S13 E20</episode-num>
+  </programme>
+  <programme start="20260308083000 +0000" stop="20260308085500 +0000" channel="Super!">
+    <title lang="it">SpongeBob</title>
+    <sub-title lang="it">Dopey Dick/Plankton e il fagiolo magico</sub-title>
+    <desc lang="it">Squiddy dà la caccia alla grande medusa bianca Dopey Dick. /Plankton trova un fagiolo magico che lo porta in una terra di giganti.</desc>
+    <date>2020</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Bambini</category>
+    <icon src="https://guidatv.sky.it/uuid/e366ea60-fc6b-333a-9186-9e2819749df5/cover?territory=IT&amp;md5ChecksumParam=9845b642642c9170aaa01625b9a49ef6" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S13 E21</episode-num>
+  </programme>
+  <programme start="20260308085500 +0000" stop="20260308092000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Gioco di squadra/Il bagno dei sogni</sub-title>
+    <desc lang="it">Lynn viene selezionata nella squadra peggiore del campionato di basket femminile. / Stanchi di fare la fila per il bagno, mamma e papa' Loud decidono di costruirsi un bagno privato.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/31b7671b-481b-4bb7-8561-113ca26b332e/cover?territory=IT&amp;md5ChecksumParam=235c50ae3250047e8003fcc33b281dc2" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme>
+  <programme start="20260308092000 +0000" stop="20260308094500 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Sorelle fan/Mamma in pausa</sub-title>
+    <desc lang="it">Lori e Leni iniziano a guardare la serie preferita di Lucy perche' c'e' il loro attore preferito. / Mamma Loud purtroppo non presta attenzione alle regole stradali e prende una multa.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/9da468e2-86a5-45da-9329-6b0da3d5b0cc/cover?territory=IT&amp;md5ChecksumParam=235c50ae3250047e8003fcc33b281dc2" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S3 E6</episode-num>
+  </programme>
+  <programme start="20260308094500 +0000" stop="20260308101000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <desc lang="it">Lincoln e Clyde decidono di pianificare un appuntamento galante tra il Coach Pacowski e la Sig.na Johnson. / Luan insegna a Lucy come realizzare il sogno di diventare poetessa.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/1b08211b-1094-4504-94cb-b8d7486d1287/cover?territory=IT&amp;md5ChecksumParam=235c50ae3250047e8003fcc33b281dc2" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S3 E7</episode-num>
+  </programme>
+  <programme start="20260308101000 +0000" stop="20260308103500 +0000" channel="Super!">
+    <title lang="it">I Thunderman</title>
+    <sub-title lang="it">Gita al Gamer Fest</sub-title>
+    <desc lang="it">Phoebe e Max non riescono a venire a capo di un videogame e, quando scoprono che il creatore del gioco sara' presente al "Gamer Fest", decidono di consultarlo.</desc>
+    <credits>
+      <actor>Kira Kosarin</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Rosa Blasi</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Maya Le Clark</actor>
+      <actor>Dana Snyder</actor>
+      <writer>Jed Spingarn</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Sit Com</category>
+    <icon src="https://guidatv.sky.it/uuid/6019aedb-f474-42ea-9017-afb397b3782e/cover?territory=IT&amp;md5ChecksumParam=c81af68619e336fc348808613b129d99" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S3 E7</episode-num>
+  </programme>
+  <programme start="20260308103500 +0000" stop="20260308110000 +0000" channel="Super!">
+    <title lang="it">I Thunderman</title>
+    <sub-title lang="it">Salviamo La Pianta</sub-title>
+    <desc lang="it">Allison e il gruppo dei Green Teens deve proteggere una pianta rara dalle smanie distruttive del preside Bradford.</desc>
+    <credits>
+      <actor>Kira Kosarin</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Rosa Blasi</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Maya Le Clark</actor>
+      <actor>Dana Snyder</actor>
+      <writer>Jed Spingarn</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Sit Com</category>
+    <icon src="https://guidatv.sky.it/uuid/ec830a31-cf7c-42a7-a9d2-941827a289d6/cover?territory=IT&amp;md5ChecksumParam=c81af68619e336fc348808613b129d99" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme>
+  <programme start="20260308110000 +0000" stop="20260308112500 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Mi manchi!/L'incantesimo</sub-title>
+    <desc lang="it">Dopo la partenza di Ronnie, Anne, Clyde e gli altri amici vedono spesso Lincoln davanti alla vecchia casa della ragazza. Convinti che stia soffrendo, fanno di tutto per farlo riprendere.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/fa7d4e62-96c7-41f1-9909-ea0890ce4b2f/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E14</episode-num>
+  </programme>
+  <programme start="20260308112500 +0000" stop="20260308115000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Chi la fa, l'aspetti/Il lavoro dei sogni</sub-title>
+    <desc lang="it">Prima del Pesce d'Aprile, tutta la famiglia decide di mandare Luan a un campo per clown, per poter evitare i suoi soliti scherzi. Ma chi la fa l'aspetti.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/934cfa8b-f1b2-4782-9bdf-739ca04bd8a0/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E17</episode-num>
+  </programme>
+  <programme start="20260308115000 +0000" stop="20260308121500 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">ARGGH! E' vero?/Casa Lori</sub-title>
+    <desc lang="it">Lincoln e Clyde scoprono che il loro idolo Hunter (cacciatore di fantasmi) e', in realta', un impostore.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/a651e731-2413-4ab3-866a-f62ae84b009c/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E16</episode-num>
+  </programme>
+  <programme start="20260308121500 +0000" stop="20260308124000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">La riconquista/Una botta di salute</sub-title>
+    <desc lang="it">Leni sta aiutando Clyde a comportarsi in modo normale in presenza di Lori. Ma Lori crede che a Clyde piaccia Leni, e decide di riconquistarlo.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/025a453b-9635-401a-a33c-f2ee3fae80f3/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E18</episode-num>
+  </programme>
+  <programme start="20260308124000 +0000" stop="20260308131000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Il futuro/Lynn prende tutto</sub-title>
+    <desc lang="it">Mamma e papa' Loud credono di dover incoraggiare al massimo il potenziale dei loro figli. Per questo motivo li iscrivono ad attivita' extra-curriculari.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/fe3637b1-57d3-4fd9-8ceb-51edbfa3a83c/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E19</episode-num>
+  </programme>
+  <programme start="20260308131000 +0000" stop="20260308134000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud 2 - Stag. 2 Ep. 20 - Yes Man/Il significato dell'amicizia</title>
+    <sub-title lang="it">Yes Man/Il significato dell'amicizia</sub-title>
+    <desc lang="it">Lincoln aiuta le sue sorelle a trovare il modo giusto per convincere i genitori a dire di si' alle loro richieste.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308134000 +0000" stop="20260308140000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud - Stag. 2 Ep. 21 - Basta scherzare/La guasta-feste</title>
+    <desc lang="it">S2 Ep21 Basta scherzare/La guasta-feste - Luan partecipera' a una gara di aspiranti comici, e si esercita con scherzi a danno del resto della famiglia.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308140000 +0000" stop="20260308142500 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Leggende/Sopravvivere al centro commerciale</sub-title>
+    <desc lang="it">Quando Lincoln e il Sig. Loud scoprono che la loro trasmissione preferita dedichera' una puntata al rapporto tra padre e figlio, fanno di tutto per diventarne i protagonisti.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/2b0262b4-1a89-4b99-85f8-73c32681ba27/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E24</episode-num>
+  </programme>
+  <programme start="20260308142500 +0000" stop="20260308145000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Gara in biblioteca/Il non Loud</sub-title>
+    <desc lang="it">La famiglia Loud entra in una competizione indetta dalla biblioteca: la famiglia che leggera' piu' libri vincera' una serata a Spunk E. Pigeon.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/3702b354-7f52-4142-a595-0e56e358139f/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E23</episode-num>
+  </programme>
+  <programme start="20260308145000 +0000" stop="20260308151500 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Ci sei cascato</sub-title>
+    <desc lang="it">Lincoln e Clyde trovano una casa dove regalano i dolcetti nella notte di Halloween. Ma sulla loro strada incontrano due bulli che rubano tutti i dolcetti del quartiere.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/064abd78-e783-4908-9a98-172916f5e2dd/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E21</episode-num>
+  </programme>
+  <programme start="20260308151500 +0000" stop="20260308153500 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Signorina in lacrime/Anti social</sub-title>
+    <desc lang="it">Per far smettere di piangere Lily, Lori tira fuori un suo vecchio giocattolo che canta e balla. Ma questo diventera' ben presto un incubo per tutta la famiglia.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/06a3b23c-63c3-414c-b316-c71ff76c758e/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E25</episode-num>
+  </programme>
+  <programme start="20260308153500 +0000" stop="20260308160000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">In Trappola sul Trampolino/Serata coi Fiocchi</sub-title>
+    <desc lang="it">Lincoln va in vacanza con Clyde e i suoi due papa' e fa notare all'amico di avere dei genitori estremamente iperprotettivi.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/92cc9d05-1480-460f-bf82-cf4e52393762/cover?territory=IT&amp;md5ChecksumParam=e9f5a31324e23a5813d9eb1f50c9086c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E26</episode-num>
+  </programme>
+  <programme start="20260308160000 +0000" stop="20260308162500 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Viaggio miraggio</sub-title>
+    <desc lang="it">Lincoln e i suoi famigliari si danno da fare per racimolare un po' di soldi per potersi permettere un viaggio tutti insieme.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/0b795fcd-af27-445d-81be-8a610c8a26ef/cover?territory=IT&amp;md5ChecksumParam=235c50ae3250047e8003fcc33b281dc2" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20260308162500 +0000" stop="20260308165000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Conigli e consigli/Super Nonna</sub-title>
+    <desc lang="it">Lincoln rivede il suo look per fare colpo su una ragazza che si e' appena trasferita in citta'. / Nonno Pop Pop presenta alla famiglia la sua nuova compagna.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/8074b844-fdc0-4f88-af7b-f6c306aa23cc/cover?territory=IT&amp;md5ChecksumParam=235c50ae3250047e8003fcc33b281dc2" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S3 E3</episode-num>
+  </programme>
+  <programme start="20260308165000 +0000" stop="20260308171500 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">La strada per il successo/La guerra degli avanzi</sub-title>
+    <desc lang="it">Luna viene selezionata come star di un importante spettacolo. / I fratelli Loud continuano a litigare per gli avanzi dei cibi cucinati dal padre.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/8739d2a5-4a3c-4874-b9a1-61f7ba854654/cover?territory=IT&amp;md5ChecksumParam=235c50ae3250047e8003fcc33b281dc2" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme start="20260308171500 +0000" stop="20260308174000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">A Caccia di Like/A Scuola dai Loud</sub-title>
+    <desc lang="it">Lori non accetta il fatto che i selfie della sua amica Carol ottengano piu' like dei suoi. / Lincoln e le sorelle ottengono il permesso di non andare piu' a scuola, per istruirsi a casa.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/7ce49750-a9f6-4b0c-9ab0-b4259c510a1f/cover?territory=IT&amp;md5ChecksumParam=235c50ae3250047e8003fcc33b281dc2" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S3 E2</episode-num>
+  </programme>
+  <programme start="20260308174000 +0000" stop="20260308180500 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Tipi da Citta'/Controfigure</sub-title>
+    <desc lang="it">Lincoln e Lori vanno in citta' a fare visita alla famiglia Casagrande. / Per il pesce d'aprile, Lincoln e i suoi familiari ingaggiano delle controfigure che subiscano al posto loro gli scherzi.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/44241a66-0f55-4061-8d4e-6b35939760b1/cover?territory=IT&amp;md5ChecksumParam=235c50ae3250047e8003fcc33b281dc2" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+  </programme>
+  <programme start="20260308180500 +0000" stop="20260308183000 +0000" channel="Super!">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">Gioco di squadra/Il bagno dei sogni</sub-title>
+    <desc lang="it">Lynn viene selezionata nella squadra peggiore del campionato di basket femminile. / Stanchi di fare la fila per il bagno, mamma e papa' Loud decidono di costruirsi un bagno privato.</desc>
+    <credits>
+      <director>Chris Savino</director>
+      <director>Kyle Marshall</director>
+      <writer>Chris Savino</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Animazione</category>
+    <icon src="https://guidatv.sky.it/uuid/31b7671b-481b-4bb7-8561-113ca26b332e/cover?territory=IT&amp;md5ChecksumParam=235c50ae3250047e8003fcc33b281dc2" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme>
+  <programme start="20260308183000 +0000" stop="20260308190000 +0000" channel="Super!">
+    <title lang="it">I Thunderman</title>
+    <sub-title lang="it">La benda di Evil Man</sub-title>
+    <desc lang="it">Grazie alle dritte del dottor Colosso, Max riesce a ricostruire la "benda da pirata di Evil Man", un accessorio che rende super cattivo chi l'indossa!</desc>
+    <credits>
+      <actor>Kira Kosarin</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Rosa Blasi</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Maya Le Clark</actor>
+      <actor>Dana Snyder</actor>
+      <writer>Jed Spingarn</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Sit Com</category>
+    <icon src="https://guidatv.sky.it/uuid/9fb5cd33-a454-4da9-8c87-e5b26e49f395/cover?territory=IT&amp;md5ChecksumParam=c81af68619e336fc348808613b129d99" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20260308190000 +0000" stop="20260308201500 +0000" channel="Super!">
+    <title lang="it">I Thunderman</title>
+    <sub-title lang="it">Il Trattato Di Pace</sub-title>
+    <desc lang="it">Phoebe non sta brillando a scuola e la sua insegnante, la signora Austin, le concede un'ultima possibilita' per scongiurare l'insufficienza.</desc>
+    <credits>
+      <actor>Kira Kosarin</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Diego Velazquez</actor>
+      <actor>Chris Tallman</actor>
+      <actor>Rosa Blasi</actor>
+      <actor>Addison Riecke</actor>
+      <actor>Maya Le Clark</actor>
+      <actor>Dana Snyder</actor>
+      <writer>Jed Spingarn</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Sit Com</category>
+    <icon src="https://guidatv.sky.it/uuid/c65e3b47-df11-431d-b2e9-f38a9eb3de6d/cover?territory=IT&amp;md5ChecksumParam=c81af68619e336fc348808613b129d99" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S3 E12</episode-num>
+  </programme>
+  <programme start="20260308201500 +0000" stop="20260308204000 +0000" channel="Super!">
+    <title lang="it">Sonic Prime 1</title>
+    <sub-title lang="it">Metodi folli</sub-title>
+    <desc lang="it">Il Consiglio del Caos ritorna a New Yoke City piu' potente che mai.</desc>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Fiction</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308204000 +0000" stop="20260308210500 +0000" channel="Super!">
+    <title lang="it">Teenage Mutant Ninja Turtles - Tartarughe Ninja</title>
+    <desc lang="it">...Tartarughe Ninja. S4 Ep4 Armaggon il fuorilegge - Lord Dregg ingaggia Armaggon, uno squalo robotizzato cacciatore di taglie, per distruggere le Tartarughe Ninja! Per difendersi, tutta la squadra...</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308210500 +0000" stop="20260308213000 +0000" channel="Super!">
+    <title lang="it">Teenage Mutant Ninja Turtles - Tartarughe Ninja</title>
+    <desc lang="it">...Tartarughe Ninja. S4 Ep5 L'enigma degli antichi Aeon - La nostra squadra, seguendo di nascosto i Triceraton, arriva su un pianeta popolato da creature demoniache!</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308213000 +0000" stop="20260308220000 +0000" channel="Super!">
+    <title lang="it">Teenage Mutant Ninja Turtles - Tartarughe Ninja</title>
+    <desc lang="it">...Tartarughe Ninja. S4 Ep6 Viaggio al centro della mente di Mikey - Bellybomb mette nella mente di Miki delle creature in grado di leggere i suoi pensieri.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308220000 +0000" stop="20260308221500 +0000" channel="Super!">
+    <title lang="it">Ghostforce - Stag. 1 Ep. 21 - Fanta-Eta'</title>
+    <desc lang="it">S1 Ep21 Fanta-Eta' - La festa di compleanno di Andy viene interrotta da un fantasma che cambia le eta' delle persone. Krush e Fury vengono colpiti dal fantasma e Liv e' costretta ad affrontarlo da sola.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308221500 +0000" stop="20260308223000 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <sub-title lang="it">Cyclopee</sub-title>
+    <desc lang="it">La Signorina Jones potenzia le caratteristiche di Fantaglow e Liv vuole dimostrarle che ai Ghostforce non serve l'aiuto di un super Fantaglow.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308223000 +0000" stop="20260308224500 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <desc lang="it">S1 Ep23 Il Fanta-Mago - In citta', e' arrivato 'Lo Show di Florio, il mago', ma il risveglio di un fantasma posticipa l'inizio dello spettacolo.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308224500 +0000" stop="20260308230000 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <desc lang="it">S1 Ep24 Fanta-Spazzola - Mike ha pianificato tutto nel minimo dettaglio per la visita alla Techno-Expo, ma non sempre tutto va secondi i piani. Un fantasma si aggira all'interno della mostra.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260308230000 +0000" stop="20260308233000 +0000" channel="Super!">
+    <title lang="it">Boy, Girl, Dog, Cat, Mouse, Cheese</title>
+    <sub-title lang="it">Cat la ladra</sub-title>
+    <desc lang="it">Cat e' sospettata di aver rubato i gioielli di Lady Burlington. La famiglia fa di tutto per scagionarla ed evitare che vada in prigione.</desc>
+    <credits>
+      <writer>Jeff Harter</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/47ce5828-bab4-4e09-b739-65c57cd2a6d9/cover?territory=IT&amp;md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3" />
+    <country lang="it">GBR</country>
+    <episode-num system="onscreen">S1 E51</episode-num>
+  </programme>
+  <programme start="20260308233000 +0000" stop="20260308235500 +0000" channel="Super!">
+    <title lang="it">Boy, Girl, Dog, Cat, Mouse, Cheese</title>
+    <sub-title lang="it">La fetta mancante ci Cheese</sub-title>
+    <desc lang="it">Cheese offende il robot di un negozio definendolo noioso e ordinario. Parte cosi' una gara tra i due: chi sara' il piu' tenero?</desc>
+    <credits>
+      <writer>Jeff Harter</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/501fce20-0d47-4c98-8122-00a89ed510f0/cover?territory=IT&amp;md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3" />
+    <country lang="it">GBR</country>
+    <episode-num system="onscreen">S1 E52</episode-num>
+  </programme>
+  <programme start="20260308235500 +0000" stop="20260309002000 +0000" channel="Super!">
+    <title lang="it">Boy, Girl, Dog, Cat, Mouse, Cheese</title>
+    <sub-title lang="it">Amici di penna</sub-title>
+    <desc lang="it">Boy decide di cucinare dei biscotti e spedirli alla sua amica di penna, ma sono cosi buoni che i fratelli si spacciano per lei per mangiarseli.</desc>
+    <credits>
+      <writer>Jeff Harter</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/fe9733e3-cfd8-4dfb-b8df-3aaf3bdb631c/cover?territory=IT&amp;md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3" />
+    <country lang="it">GBR</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20260309002000 +0000" stop="20260309003000 +0000" channel="Super!">
+    <title lang="it">Ghostforce - Stag. 1 Ep. 21 - Fanta-Eta'</title>
+    <desc lang="it">S1 Ep21 Fanta-Eta' - La festa di compleanno di Andy viene interrotta da un fantasma che cambia le eta' delle persone. Krush e Fury vengono colpiti dal fantasma e Liv e' costretta ad affrontarlo da sola.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260309003000 +0000" stop="20260309004000 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <sub-title lang="it">Cyclopee</sub-title>
+    <desc lang="it">La Signorina Jones potenzia le caratteristiche di Fantaglow e Liv vuole dimostrarle che ai Ghostforce non serve l'aiuto di un super Fantaglow.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260309004000 +0000" stop="20260309005000 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <desc lang="it">S1 Ep23 Il Fanta-Mago - In citta', e' arrivato 'Lo Show di Florio, il mago', ma il risveglio di un fantasma posticipa l'inizio dello spettacolo.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260309005000 +0000" stop="20260309010500 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <desc lang="it">S1 Ep24 Fanta-Spazzola - Mike ha pianificato tutto nel minimo dettaglio per la visita alla Techno-Expo, ma non sempre tutto va secondi i piani. Un fantasma si aggira all'interno della mostra.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260309010500 +0000" stop="20260309013500 +0000" channel="Super!">
+    <title lang="it">Boy, Girl, Dog, Cat, Mouse, Cheese</title>
+    <sub-title lang="it">Cat la ladra</sub-title>
+    <desc lang="it">Cat e' sospettata di aver rubato i gioielli di Lady Burlington. La famiglia fa di tutto per scagionarla ed evitare che vada in prigione.</desc>
+    <credits>
+      <writer>Jeff Harter</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/47ce5828-bab4-4e09-b739-65c57cd2a6d9/cover?territory=IT&amp;md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3" />
+    <country lang="it">GBR</country>
+    <episode-num system="onscreen">S1 E51</episode-num>
+  </programme>
+  <programme start="20260309013500 +0000" stop="20260309020000 +0000" channel="Super!">
+    <title lang="it">Boy, Girl, Dog, Cat, Mouse, Cheese</title>
+    <sub-title lang="it">La fetta mancante ci Cheese</sub-title>
+    <desc lang="it">Cheese offende il robot di un negozio definendolo noioso e ordinario. Parte cosi' una gara tra i due: chi sara' il piu' tenero?</desc>
+    <credits>
+      <writer>Jeff Harter</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/501fce20-0d47-4c98-8122-00a89ed510f0/cover?territory=IT&amp;md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3" />
+    <country lang="it">GBR</country>
+    <episode-num system="onscreen">S1 E52</episode-num>
+  </programme>
+  <programme start="20260309020000 +0000" stop="20260309022500 +0000" channel="Super!">
+    <title lang="it">Boy, Girl, Dog, Cat, Mouse, Cheese</title>
+    <sub-title lang="it">Amici di penna</sub-title>
+    <desc lang="it">Boy decide di cucinare dei biscotti e spedirli alla sua amica di penna, ma sono cosi buoni che i fratelli si spacciano per lei per mangiarseli.</desc>
+    <credits>
+      <writer>Jeff Harter</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/fe9733e3-cfd8-4dfb-b8df-3aaf3bdb631c/cover?territory=IT&amp;md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3" />
+    <country lang="it">GBR</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20260309022500 +0000" stop="20260309023500 +0000" channel="Super!">
+    <title lang="it">Ghostforce - Stag. 1 Ep. 21 - Fanta-Eta'</title>
+    <desc lang="it">S1 Ep21 Fanta-Eta' - La festa di compleanno di Andy viene interrotta da un fantasma che cambia le eta' delle persone. Krush e Fury vengono colpiti dal fantasma e Liv e' costretta ad affrontarlo da sola.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260309023500 +0000" stop="20260309024500 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <sub-title lang="it">Cyclopee</sub-title>
+    <desc lang="it">La Signorina Jones potenzia le caratteristiche di Fantaglow e Liv vuole dimostrarle che ai Ghostforce non serve l'aiuto di un super Fantaglow.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260309024500 +0000" stop="20260309025500 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <desc lang="it">S1 Ep23 Il Fanta-Mago - In citta', e' arrivato 'Lo Show di Florio, il mago', ma il risveglio di un fantasma posticipa l'inizio dello spettacolo.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260309025500 +0000" stop="20260309031500 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <desc lang="it">S1 Ep24 Fanta-Spazzola - Mike ha pianificato tutto nel minimo dettaglio per la visita alla Techno-Expo, ma non sempre tutto va secondi i piani. Un fantasma si aggira all'interno della mostra.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260309031500 +0000" stop="20260309034000 +0000" channel="Super!">
+    <title lang="it">Boy, Girl, Dog, Cat, Mouse, Cheese</title>
+    <sub-title lang="it">Cat la ladra</sub-title>
+    <desc lang="it">Cat e' sospettata di aver rubato i gioielli di Lady Burlington. La famiglia fa di tutto per scagionarla ed evitare che vada in prigione.</desc>
+    <credits>
+      <writer>Jeff Harter</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/47ce5828-bab4-4e09-b739-65c57cd2a6d9/cover?territory=IT&amp;md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3" />
+    <country lang="it">GBR</country>
+    <episode-num system="onscreen">S1 E51</episode-num>
+  </programme>
+  <programme start="20260309034000 +0000" stop="20260309040000 +0000" channel="Super!">
+    <title lang="it">Boy, Girl, Dog, Cat, Mouse, Cheese</title>
+    <sub-title lang="it">La fetta mancante ci Cheese</sub-title>
+    <desc lang="it">Cheese offende il robot di un negozio definendolo noioso e ordinario. Parte cosi' una gara tra i due: chi sara' il piu' tenero?</desc>
+    <credits>
+      <writer>Jeff Harter</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/501fce20-0d47-4c98-8122-00a89ed510f0/cover?territory=IT&amp;md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3" />
+    <country lang="it">GBR</country>
+    <episode-num system="onscreen">S1 E52</episode-num>
+  </programme>
+  <programme start="20260309040000 +0000" stop="20260309042000 +0000" channel="Super!">
+    <title lang="it">Boy, Girl, Dog, Cat, Mouse, Cheese</title>
+    <sub-title lang="it">Amici di penna</sub-title>
+    <desc lang="it">Boy decide di cucinare dei biscotti e spedirli alla sua amica di penna, ma sono cosi buoni che i fratelli si spacciano per lei per mangiarseli.</desc>
+    <credits>
+      <writer>Jeff Harter</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/fe9733e3-cfd8-4dfb-b8df-3aaf3bdb631c/cover?territory=IT&amp;md5ChecksumParam=0dc2751f6a25fe6100d2a9e224bfebe3" />
+    <country lang="it">GBR</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20260309042000 +0000" stop="20260309043000 +0000" channel="Super!">
+    <title lang="it">Ghostforce - Stag. 1 Ep. 21 - Fanta-Eta'</title>
+    <desc lang="it">S1 Ep21 Fanta-Eta' - La festa di compleanno di Andy viene interrotta da un fantasma che cambia le eta' delle persone. Krush e Fury vengono colpiti dal fantasma e Liv e' costretta ad affrontarlo da sola.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260309043000 +0000" stop="20260309044000 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <sub-title lang="it">Cyclopee</sub-title>
+    <desc lang="it">La Signorina Jones potenzia le caratteristiche di Fantaglow e Liv vuole dimostrarle che ai Ghostforce non serve l'aiuto di un super Fantaglow.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
+  </programme>
+  <programme start="20260309044000 +0000" stop="20260309045000 +0000" channel="Super!">
+    <title lang="it">Ghostforce</title>
+    <desc lang="it">S1 Ep23 Il Fanta-Mago - In citta', e' arrivato 'Lo Show di Florio, il mago', ma il risveglio di un fantasma posticipa l'inizio dello spettacolo.</desc>
+    <category lang="it">Ragazzi e Musica</category>
+    <category lang="it">Cartoni Animati</category>
+    <icon src="https://guidatv.sky.it/uuid/Kids_Cover_PFo0SiHH0.png" />
   </programme>
   <programme start="20260307035500 +0000" stop="20260307041500 +0000" channel="frisbee">
     <title lang="it">Oggy e i maledetti scarafaggi</title>
