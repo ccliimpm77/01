@@ -9,4 +9,5 @@ RSI La 1
 RSI La 2
 SKY Sport F1
 Eurosport
+CNN International
 Eurosport 2
