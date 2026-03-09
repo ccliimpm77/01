@@ -1,7 +1,7 @@
 name: Aggiorna EPG
 on:
   schedule:
-    - cron: '0 3 * * *' # Gira ogni notte alle 3:00
+    - cron: '0 13 * * *' # Gira ogni notte alle 3:00
   workflow_dispatch:   # Permette di avviarlo a mano
 jobs:
   build:
