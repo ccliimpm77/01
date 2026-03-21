@@ -7,383 +7,6 @@
     <display-name lang="it">Twenty Seven</display-name>
     <url>http://www.guidatv.sky.it</url>
   </channel>
-  <programme start="20260320034500 +0000" stop="20260320041000 +0000" channel="Discovery Channel">
-    <title lang="it">Come è fatto</title>
-    <desc lang="it">Scopriamo come vengono realizzati alcuni oggetti di uso quotidiano come, ad esempio, le porte in legno utilizzate per i garage e i dinosauri detti 'animatronici'.</desc>
-    <credits>
-      <director>Samuel Belanger</director>
-      <director>Pierre Lambert</director>
-      <director>Yanick Legrand</director>
-      <director>Yan Savard</director>
-      <director>François Senécal-Tremblay</director>
-      <director>Félix St-Jacques</director>
-    </credits>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11285768eh10ab_Iconic_W660.webp" />
-    <country lang="it">CA</country>
-    <episode-num system="onscreen">S22 E13</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260320041000 +0000" stop="20260320043500 +0000" channel="Discovery Channel">
-    <title lang="it">Come è fatto</title>
-    <desc lang="it">Scopriamo come sono fatti gli oggetti di uso quotidiano, ad esempio come vengono prodotti i Grammy Awards, le luci per le biciclette, le piscine rialzate e i pannelli solari pieghevoli.</desc>
-    <date>2015</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11580421eh10ac_Iconic_W660.webp" />
-    <country lang="it">CA</country>
-    <episode-num system="onscreen">S25 E1</episode-num>
-  </programme>
-  <programme start="20260320043500 +0000" stop="20260320050000 +0000" channel="Discovery Channel">
-    <title lang="it">Come è fatto</title>
-    <desc lang="it">Alla scoperta dei processi di produzione degli oggetti d'uso quotidiano, in particolare le luci al LED per gli spettacoli, il sidro, le autobotti per sostanze chimiche e le mattonelle in pietra.</desc>
-    <date>2015</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11580427eh10ad_Iconic_W660.webp" />
-    <country lang="it">CA</country>
-    <episode-num system="onscreen">S25 E2</episode-num>
-  </programme>
-  <programme start="20260320050000 +0000" stop="20260320052500 +0000" channel="Discovery Channel">
-    <title lang="it">Come fanno gli animali</title>
-    <desc lang="it">Scopriamo alcuni animali sorprendenti che possono far ricrescere gli arti persi, come alcuni serpenti abbiamo la capacità di volare e l'abilità degli elefanti di udire suoni a centinaia di km di distanza.</desc>
-    <credits>
-      <director>Katie Buckland</director>
-      <director>Gareth Sacala</director>
-    </credits>
-    <date>2021</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20291204eh10aa_Iconic_W660.webp" />
-    <country lang="it">GB</country>
-    <episode-num system="onscreen">S1 E33</episode-num>
-  </programme>
-  <programme start="20260320052500 +0000" stop="20260320055000 +0000" channel="Discovery Channel">
-    <title lang="it">Come fanno gli animali</title>
-    <desc lang="it">Analizziamo il mito secondo cui mangiare gamberi rende i fenicotteri rosa. Inoltre, scopriamo perché bere acqua per gli esseri umani è facile, ma non altrettanto per alcune altre creature.</desc>
-    <credits>
-      <director>Katie Buckland</director>
-      <director>Gareth Sacala</director>
-    </credits>
-    <date>2021</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20291267eh10aa_Iconic_W660.webp" />
-    <country lang="it">GB</country>
-    <episode-num system="onscreen">S1 E34</episode-num>
-  </programme>
-  <programme start="20260320055000 +0000" stop="20260320064500 +0000" channel="Discovery Channel">
-    <title lang="it">Case da rettili</title>
-    <sub-title lang="it">Dinosauri</sub-title>
-    <desc lang="it">Greg e Lucas realizzano un recinto ispirato ai dinosauri per il nuovo rettile di Aaron e Karen. Jason decide di aiutare la sua amica Kate a scegliere un nuovo cucciolo di famiglia.</desc>
-    <date>2018</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15883102eh10aa_Iconic_W660.webp" />
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260320064500 +0000" stop="20260320074000 +0000" channel="Discovery Channel">
-    <title lang="it">Case da rettili</title>
-    <sub-title lang="it">Jurassic Park</sub-title>
-    <desc lang="it">Greg e Lucas creano un recinto ispirato all'era giurassica per un cucciolo particolare. Tyrone e Chris costruiscono un terrario versatile per varie specie di rettili.</desc>
-    <date>2018</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p15908473eh10aa_Iconic_W660.webp" />
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260320074000 +0000" stop="20260320083500 +0000" channel="Discovery Channel">
-    <title lang="it">Lo zoo degli Irwin</title>
-    <sub-title lang="it">La sfida</sub-title>
-    <desc lang="it">Mentre la piccola Grace scopre il mondo, Robert e la squadra si occupano di un'operazione importante: trasferire i coccodrilli dello zoo d'Australia. Terri, nel frattempo, si impegna per l'elefante di Sumatra.</desc>
-    <date>2022</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21282499eh8aa_Iconic_W660.webp" />
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S4 E1</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260320083500 +0000" stop="20260320093000 +0000" channel="Discovery Channel">
-    <title lang="it">Lo zoo degli Irwin</title>
-    <sub-title lang="it">Bunker il vombato</sub-title>
-    <desc lang="it">Robert tenta di gestire Bunker, un vombato di origini australiane. Intanto, la gigantesca anaconda Nikki viene spostata e Terri aiuta degli uccelli feriti durante una grandinata.</desc>
-    <date>2022</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p21303015eh10aa_Iconic_W660.webp" />
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260320093000 +0000" stop="20260320103000 +0000" channel="Discovery Channel">
-    <title lang="it">Acquari di famiglia</title>
-    <sub-title lang="it">Il sarcofago</sub-title>
-    <desc lang="it">Brett e Wayde arrivano nei monti Catskill, nello stato di New York. Ai due esperti viene chiesto di trasformare una doccia in una vasca ispirata a Cleopatra.</desc>
-    <credits>
-      <director>Cyndi Haas</director>
-      <director>Elizabeth Mcdonald</director>
-    </credits>
-    <date>2013</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9824541eh10ac_Iconic_W660.webp" />
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S4 E3</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260320103000 +0000" stop="20260320113000 +0000" channel="Discovery Channel">
-    <title lang="it">Acquari di famiglia</title>
-    <sub-title lang="it">Demoni</sub-title>
-    <desc lang="it">Wayde e Brett progettano un acquario 'diabolico' per un'università e uno ispirato ad un cappello a cilindro. Infine, un cliente vuole saldare una fattura utilizzando i biglietti per un concerto di Céline Dion come valuta.</desc>
-    <credits>
-      <director>Cyndi Haas</director>
-      <director>Jeff Hawkes</director>
-    </credits>
-    <date>2013</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9826896eh10ab_Iconic_W660.webp" />
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S4 E4</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260320113000 +0000" stop="20260320123000 +0000" channel="Discovery Channel">
-    <title lang="it">Acquari di famiglia</title>
-    <sub-title lang="it">Gira le bottiglie</sub-title>
-    <desc lang="it">Wayde e Brett costruiscono un acquario a forma di razzo spaziale, completo di piattaforma per il lancio e macchina del fumo. Inoltre, i due creano un acquario a forma di bottiglia per una cantina.</desc>
-    <credits>
-      <director>Jeff Hawkes</director>
-      <director>Elizabeth Mcdonald</director>
-    </credits>
-    <date>2013</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9826903eh11ab_Iconic_W660.webp" />
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S4 E5</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260320123000 +0000" stop="20260320133000 +0000" channel="Discovery Channel">
-    <title lang="it">Acquari di famiglia</title>
-    <sub-title lang="it">Campeggio giurassico</sub-title>
-    <desc lang="it">Wayde e Brett utilizzano le loro conoscenze per creare un acquario a forma di camper. Successivamente, realizzano una vasca per interni che sarà riempita con alligatori e coccodrilli.</desc>
-    <credits>
-      <director>Christopher Bavelles</director>
-      <director>Cyndi Haas</director>
-    </credits>
-    <date>2013</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9901335eh10aa_Iconic_W660.webp" />
-    <country lang="it">US</country>
-  </programme>
-  <programme start="20260320133000 +0000" stop="20260320143000 +0000" channel="Discovery Channel">
-    <title lang="it">Avventure impossibili con Josh Gates</title>
-    <sub-title lang="it">L'aereo scomparso</sub-title>
-    <desc lang="it">Josh si imbarca alla ricerca del più famoso aereo scomparso della storia. Inseguendo nuove piste, si avventura in due continenti per trovare il 'White Bird' perduto.</desc>
-    <date>2022</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p22405311eh10ab_Iconic_W660.webp" />
-    <country lang="it">US</country>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260320143000 +0000" stop="20260320153000 +0000" channel="Discovery Channel">
-    <title lang="it">Avventure impossibili con Josh Gates</title>
-    <sub-title lang="it">Fortuna fuorilegge</sub-title>
-    <desc lang="it">Josh va nel Selvaggio West alla ricerca del bottino nascosto appartenuto a un famigerato gruppo di sceriffi, diventati in un secondo momento dei fuorilegge: la Dalton Gang.</desc>
-    <date>2022</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p22337594eh10aa_Iconic_W660.webp" />
-    <country lang="it">US</country>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260320153000 +0000" stop="20260320163000 +0000" channel="Discovery Channel">
-    <title lang="it">Avventure impossibili con Josh Gates</title>
-    <sub-title lang="it">I segreti sepolti di Hitler</sub-title>
-    <desc lang="it">Josh va in Polonia per avventurarsi in un tunnel nazista nascosto in un vulcano inattivo. L'esperto deve demolire un muro di pietra costruito dai tedeschi.</desc>
-    <date>2022</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p22206385eh10aa_Iconic_W660.webp" />
-    <country lang="it">US</country>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260320163000 +0000" stop="20260320173000 +0000" channel="Discovery Channel">
-    <title lang="it">Avventure impossibili con Josh Gates</title>
-    <sub-title lang="it">I segreti nascosti dei nazisti</sub-title>
-    <desc lang="it">Josh si addentra in un sistema di tunnel abbandonati per cercare tesori rubati dal Terzo Reich. In seguito, cerca una macchina Enigma, un antico dispositivo nazista.</desc>
-    <date>2022</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p22206401eh10aa_Iconic_W660.webp" />
-    <country lang="it">US</country>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260320173000 +0000" stop="20260320180000 +0000" channel="Discovery Channel">
-    <title lang="it">Come è fatto</title>
-    <sub-title lang="it">Elmetti dei pompieri, bussole, tubetti e seghe a mano</sub-title>
-    <desc lang="it">Un viaggio per scoprire come sono fatti gli oggetti di tutti i giorni: caschi dei vigili del fuoco, bussole nautiche e seghe a mano.</desc>
-    <credits>
-      <director>Yves Allard</director>
-      <director>André Douillard</director>
-      <director>Gabriel Hoss</director>
-      <director>Louis-Phillipe Myre</director>
-    </credits>
-    <date>2006</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p2471921eh10ab_Iconic_W660.webp" />
-    <country lang="it">CA</country>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260320180000 +0000" stop="20260320183500 +0000" channel="Discovery Channel">
-    <title lang="it">Come è fatto</title>
-    <desc lang="it">Scopriamo come vengono realizzati alcuni oggetti di uso quotidiano, tra cui le lavanderie degli ospedali e le riproduzioni dei cavalli.</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10703775eh10ac_Iconic_W660.webp" />
-    <country lang="it">CA</country>
-    <episode-num system="onscreen">S23 E5</episode-num>
-  </programme>
-  <programme start="20260320183500 +0000" stop="20260320190500 +0000" channel="Discovery Channel">
-    <title lang="it">Come è fatto</title>
-    <desc lang="it">Scopriamo come vengono realizzati alcuni oggetti di uso quotidiano, tra cui i caminetti in ceramica e le pavimentazioni per i garage.</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10703942eh10ab_Iconic_W660.webp" />
-    <country lang="it">CA</country>
-    <episode-num system="onscreen">S23 E6</episode-num>
-  </programme>
-  <programme start="20260320190500 +0000" stop="20260320194000 +0000" channel="Discovery Channel">
-    <title lang="it">Come è fatto</title>
-    <desc lang="it">Scopriamo come vengono realizzati alcuni oggetti di uso quotidiano, quali i sensori della pressione dell'olio, le protezioni cervicali, le stampe su grande formato.</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10752370eh8ac_Iconic_W660.webp" />
-    <country lang="it">CA</country>
-    <episode-num system="onscreen">S23 E7</episode-num>
-  </programme>
-  <programme start="20260320194000 +0000" stop="20260320201500 +0000" channel="Discovery Channel">
-    <title lang="it">Come è fatto</title>
-    <desc lang="it">Scopriamo come vengono realizzati alcuni oggetti di uso quotidiano, quali i palchi mobili per i concerti e il mascara.</desc>
-    <date>2014</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10779689eh10ab_Iconic_W660.webp" />
-    <country lang="it">CA</country>
-    <episode-num system="onscreen">S23 E8</episode-num>
-  </programme>
-  <programme start="20260320201500 +0000" stop="20260320211000 +0000" channel="Discovery Channel">
-    <title lang="it">La febbre dell'oro: Le miniere degli Hoffman</title>
-    <sub-title lang="it">Sogni d'oro</sub-title>
-    <desc lang="it">Hunter si addentra nella tundra per cercare nuovi giacimenti. Todd spedisce segretamente in Alaska l'impianto di lavaggio di Jack, risalente agli anni Ottanta.</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p27524118eh10aa_Iconic_W660.webp" />
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260320211000 +0000" stop="20260320220500 +0000" channel="Discovery Channel">
-    <title lang="it">La febbre dell'oro: Le miniere degli Hoffman</title>
-    <sub-title lang="it">Lotta</sub-title>
-    <desc lang="it">Andy affronta il fango che blocca la miniera scegliendo una soluzione azzardata. Todd e il suo equipaggio mettono a punto gli impianti di lavaggio.</desc>
-    <date>2024</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p27474449eh10aa_Iconic_W660.webp" />
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S3 E2</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260320220500 +0000" stop="20260320230500 +0000" channel="Discovery Channel">
-    <title lang="it">La febbre dell'oro: Il tesoro del fiume</title>
-    <sub-title lang="it">La grotta d'oro</sub-title>
-    <desc lang="it">Dustin e la squadra si affrettano per raggiungere il fondo della vasca di immersione a Rainbows End. Nel frattempo, Carlos fa una scoperta che potrebbe cambiare il destino della squadra.</desc>
-    <date>2019</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17667132eh10aa_Iconic_W660.webp" />
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S3 E6</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260320230500 +0000" stop="20260320233500 +0000" channel="Discovery Channel">
-    <title lang="it">Come è fatto</title>
-    <sub-title lang="it">Metal detector; rum; lampade stile tiffany; motori per aerei</sub-title>
-    <desc lang="it">Analizziamo da vicino i processi di fabbricazione dei metal detector e del rum. Scopriamo poi la realizzazione delle preziose riproduzioni di Tiffany e dei motori per aerei.</desc>
-    <date>2009</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p2472057eh8aa_Iconic_W660.webp" />
-    <country lang="it">CA</country>
-    <episode-num system="onscreen">S12 E8</episode-num>
-  </programme>
-  <programme start="20260320233500 +0000" stop="20260321000500 +0000" channel="Discovery Channel">
-    <title lang="it">Come è fatto</title>
-    <sub-title lang="it">Tagliaerba; Popcorn; Letti regolabili; Diamanti artificiali</sub-title>
-    <desc lang="it">Scopriamo i processi di fabbricazione dei trattorini tosaerba e dei popcorn. Assistiamo poi alla produzione dei letti regolabili e dei diamanti coltivati.</desc>
-    <date>2009</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p2472058eh8ab_Iconic_W660.webp" />
-    <country lang="it">CA</country>
-    <episode-num system="onscreen">S12 E9</episode-num>
-  </programme>
-  <programme start="20260321000500 +0000" stop="20260321003500 +0000" channel="Discovery Channel">
-    <title lang="it">Come è fatto</title>
-    <sub-title lang="it">Carburatori per auto; Condizionatori d'aria; Zucchero</sub-title>
-    <desc lang="it">Passiamo altri oggetti d'uso quotidiano sotto la lente d'ingrandimento: carburatori, condizionatori d'aria e zucchero.</desc>
-    <date>2008</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p2472049eh10aa_Iconic_W660.webp" />
-    <country lang="it">CA</country>
-    <episode-num system="onscreen">S12 E4</episode-num>
-  </programme>
-  <programme start="20260321003500 +0000" stop="20260321010000 +0000" channel="Discovery Channel">
-    <title lang="it">Come è fatto</title>
-    <sub-title lang="it">Cacciaviti; Cingolati; Bilance mediche; Mazze da baseball in fibra di carbonio</sub-title>
-    <desc lang="it">Scopriamo i processi di fabbricazione di cacciavite, caricatori compatti, bilance per medici e mazze in fibre al carbonio.</desc>
-    <date>2009</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p2472062eh10ab_Iconic_W660.webp" />
-    <country lang="it">CA</country>
-    <episode-num system="onscreen">S12 E11</episode-num>
-  </programme>
-  <programme start="20260321010000 +0000" stop="20260321015500 +0000" channel="Discovery Channel">
-    <title lang="it">Come funziona l'universo</title>
-    <sub-title lang="it">Il sistema solare</sub-title>
-    <desc lang="it">Nuove scoperte riscrivono la storia del nostro sistema solare, rivelando un'evoluzione complessa e violenta dalla nascita del Sole fino alla sua eventuale scomparsa.</desc>
-    <credits>
-      <director>Alex Hearle</director>
-    </credits>
-    <date>2023</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23050994eh10aa_Iconic_W660.webp" />
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S11 E5</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme start="20260321015500 +0000" stop="20260321025000 +0000" channel="Discovery Channel">
-    <title lang="it">Come funziona l'universo</title>
-    <sub-title lang="it">Le stelle</sub-title>
-    <desc lang="it">Scopriamo la creazione delle stelle e come hanno cambiato l'Universo, dando vita ad altre generazioni di stelle e pianeti che formano gli elementi di base della vita.</desc>
-    <credits>
-      <director>Peter Chinn</director>
-    </credits>
-    <date>2010</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8114676eh10ad_Iconic_W660.webp" />
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme start="20260321025000 +0000" stop="20260321034500 +0000" channel="Discovery Channel">
-    <title lang="it">Come funziona l'universo</title>
-    <sub-title lang="it">I buchi neri</sub-title>
-    <desc lang="it">Il collasso gravitazionale di una stella crea un buco nero, uno dei fenomeni più misteriosi dell'Universo. L'astronomia moderna sta dimostrando che potrebbero influire su tutto ciò che vediamo.</desc>
-    <credits>
-      <director>Peter Chinn</director>
-    </credits>
-    <date>2010</date>
-    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8087215eh10ac_Iconic_W660.webp" />
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
   <programme start="20260321034500 +0000" stop="20260321041000 +0000" channel="Discovery Channel">
     <title lang="it">Come è fatto</title>
     <desc lang="it">Scopriamo le materie prime necessarie e tutti i processi e con cui vengono prodotte le lenze da pesca, i mixer industriali, il bicarbonato di sodio e, infine, i rimorchi.</desc>
@@ -408,7 +31,7 @@
     <country lang="it">CA</country>
     <episode-num system="onscreen">S23 E7</episode-num>
   </programme>
-  <programme start="20260321050000 +0000" stop="20260321052500 +0000" channel="Discovery Channel">
+  <programme start="20260321050000 +0000" stop="20260321052000 +0000" channel="Discovery Channel">
     <title lang="it">No Limits</title>
     <sub-title lang="it">In Alaska</sub-title>
     <desc lang="it">Il lottatore professionista Eric Young tenta di guidare una slitta da cani su un terreno ghiacciato. In seguito, partecipa ad un'altra gara, in cui si cimenta in salti con gli sci d'acqua.</desc>
@@ -416,7 +39,7 @@
     <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10750080bdh10aa_Backdrop_W660.webp" />
     <country lang="it">US</country>
   </programme>
-  <programme start="20260321052500 +0000" stop="20260321055000 +0000" channel="Discovery Channel">
+  <programme start="20260321052000 +0000" stop="20260321054000 +0000" channel="Discovery Channel">
     <title lang="it">No Limits</title>
     <sub-title lang="it">Eric vs. Iceberg</sub-title>
     <desc lang="it">Eric si dirige verso un gigantesco ghiacciaio noto come Bear Glacier. Il suo obiettivo è quello di fare ciò che in pochi sono riusciti a realizzare: scalare un iceberg fluttuante.</desc>
@@ -424,7 +47,7 @@
     <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10750080bdh10aa_Backdrop_W660.webp" />
     <country lang="it">US</country>
   </programme>
-  <programme start="20260321055000 +0000" stop="20260321064500 +0000" channel="Discovery Channel">
+  <programme start="20260321054000 +0000" stop="20260321063500 +0000" channel="Discovery Channel">
     <title lang="it">Animal Security: Louisiana</title>
     <sub-title lang="it">Lattine di birra</sub-title>
     <desc lang="it">Un colpo di fucile sospetto sul lago Catahoula porta gli agenti a un inseguimento ad alta velocità. Una scia di lattine di birra indica una coppia di cacciatori con violazioni multiple. Gli agenti catturano un pescatore di gamberi che viola la legge.</desc>
@@ -436,7 +59,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260321064500 +0000" stop="20260321074000 +0000" channel="Discovery Channel">
+  <programme start="20260321063500 +0000" stop="20260321073500 +0000" channel="Discovery Channel">
     <title lang="it">Animal Security: Louisiana</title>
     <sub-title lang="it">Armi e droga</sub-title>
     <desc lang="it">Un rapporto rivela l'esistenza di un camion pieno di cervi. Gli agenti interrogano un gruppo di cacciatori di anatre. Alcuni testimoni intervengono quando un cervo viene maltrattato dai barcaioli.</desc>
@@ -447,7 +70,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260321074000 +0000" stop="20260321093000 +0000" channel="Discovery Channel">
+  <programme start="20260321073500 +0000" stop="20260321092000 +0000" channel="Discovery Channel">
     <title lang="it">Animal Security: Spagna</title>
     <desc lang="it">I bracconieri invadono una riserva di caccia in pieno giorno. Un'ispezione a sorpresa di un mercato all'ingrosso rivela irregolarità che nessuno vuole prendere in considerazione.</desc>
     <credits>
@@ -458,7 +81,7 @@
     <country lang="it">ES</country>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20260321093000 +0000" stop="20260321112000 +0000" channel="Discovery Channel">
+  <programme start="20260321092000 +0000" stop="20260321110500 +0000" channel="Discovery Channel">
     <title lang="it">Animal Security: Spagna</title>
     <desc lang="it">La Guardia Civile protegge la fauna selvatica, l'ambiente e il patrimonio della Spagna. La forza di pubblica sicurezza condivide storie emozionanti dei suoi compiti quotidiani.</desc>
     <credits>
@@ -469,7 +92,7 @@
     <country lang="it">ES</country>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20260321112000 +0000" stop="20260321132000 +0000" channel="Discovery Channel">
+  <programme start="20260321110500 +0000" stop="20260321125000 +0000" channel="Discovery Channel">
     <title lang="it">Animal Security: Spagna</title>
     <desc lang="it">La Guardia Civile Spagnola protegge la fauna selvatica, l'ambiente e il patrimonio del Paese. Le forze di pubblica sicurezza condividono storie emozionanti dei loro compiti quotidiani.</desc>
     <date>2021</date>
@@ -477,7 +100,7 @@
     <country lang="it">ES</country>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20260321132000 +0000" stop="20260321142000 +0000" channel="Discovery Channel">
+  <programme start="20260321125000 +0000" stop="20260321140000 +0000" channel="Discovery Channel">
     <title lang="it">Wild Frank: Missione gorilla</title>
     <desc lang="it">Continua il viaggio di Wild Frank nella Repubblica Democratica del Congo, sulle tracce dei gorilla selvatici.</desc>
     <date>2018</date>
@@ -485,7 +108,7 @@
     <country lang="it">ES</country>
     <episode-num system="onscreen">S12 E2</episode-num>
   </programme>
-  <programme start="20260321142000 +0000" stop="20260321152000 +0000" channel="Discovery Channel">
+  <programme start="20260321140000 +0000" stop="20260321150500 +0000" channel="Discovery Channel">
     <title lang="it">Wild Frank: Missione gorilla</title>
     <desc lang="it">Frank continua il suo viaggio nella Repubblica Centrafricana per rintracciare i gorilla selvatici. Seguilo sulle montagne nella Repubblica Democratica del Congo.</desc>
     <date>2018</date>
@@ -493,7 +116,7 @@
     <country lang="it">ES</country>
     <episode-num system="onscreen">S12 E3</episode-num>
   </programme>
-  <programme start="20260321152000 +0000" stop="20260321161500 +0000" channel="Discovery Channel">
+  <programme start="20260321150500 +0000" stop="20260321160500 +0000" channel="Discovery Channel">
     <title lang="it">Wild Frank: Missione gorilla</title>
     <desc lang="it">Frank continua la sua osservazione della famiglia di primati. Visitiamo anche il consolato spagnolo nella capitale della Repubblica Centrafricana e vediamo la vipera che causa il maggior numero di morti in Africa meridionale.</desc>
     <date>2018</date>
@@ -501,7 +124,7 @@
     <country lang="it">ES</country>
     <episode-num system="onscreen">S12 E4</episode-num>
   </programme>
-  <programme start="20260321161500 +0000" stop="20260321171500 +0000" channel="Discovery Channel">
+  <programme start="20260321160500 +0000" stop="20260321171000 +0000" channel="Discovery Channel">
     <title lang="it">Wild Frank: Missione gorilla</title>
     <desc lang="it">Frank Cuesta arriva nella Repubblica Centrale Africana, paese in cui si trova l'animale che ha più in comune con l'uomo il gorilla. Osserviamo come riescono queste creature a sopravvivere.</desc>
     <date>2018</date>
@@ -509,28 +132,28 @@
     <country lang="it">ES</country>
     <episode-num system="onscreen">S12 E5</episode-num>
   </programme>
-  <programme start="20260321171500 +0000" stop="20260321181500 +0000" channel="Discovery Channel">
+  <programme start="20260321171000 +0000" stop="20260321181000 +0000" channel="Discovery Channel">
     <title lang="it">Wild Frank: Black Mamba</title>
     <desc lang="it">Negli ultimi anni, i morti causati dal Mamba Nero sono aumentati in maniera considerevole. Frank si reca in Sud Africa per indagare sulle storie e sulle leggende legate a questo rettile mortale.</desc>
     <date>2017</date>
     <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p14677542eh10aa_Iconic_W660.webp" />
     <country lang="it">ES</country>
   </programme>
-  <programme start="20260321181500 +0000" stop="20260321191500 +0000" channel="Discovery Channel">
+  <programme start="20260321181000 +0000" stop="20260321191500 +0000" channel="Discovery Channel">
     <title lang="it">Wild Frank: Black Mamba</title>
     <desc lang="it">Negli ultimi anni, i morti causati dal Mamba Nero sono aumentati in maniera considerevole. Frank si reca in Sud Africa per indagare sulle storie e sulle leggende legate a questo rettile mortale.</desc>
     <date>2017</date>
     <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p14719194eh10aa_Iconic_W660.webp" />
     <country lang="it">ES</country>
   </programme>
-  <programme start="20260321191500 +0000" stop="20260321201500 +0000" channel="Discovery Channel">
+  <programme start="20260321191500 +0000" stop="20260321201000 +0000" channel="Discovery Channel">
     <title lang="it">Wild Frank: Black Mamba</title>
     <desc lang="it">Frank incontra uno dei serpenti più velenosi del mondo: il mamba nero. Il rettile può raggiungere i 4 metri di lunghezza e mentre Frank lo analizza da capo a coda, decide di dargli un bacio sulla testa.</desc>
     <date>2017</date>
     <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20078991eh8aa_Iconic_W660.webp" />
     <country lang="it">ES</country>
   </programme>
-  <programme start="20260321201500 +0000" stop="20260321211000 +0000" channel="Discovery Channel">
+  <programme start="20260321201000 +0000" stop="20260321210500 +0000" channel="Discovery Channel">
     <title lang="it">I segreti delle strutture</title>
     <sub-title lang="it">La villa di Adriano</sub-title>
     <desc lang="it">Gli esperti cercano la verità dietro uno degli imperatori più enigmatici di Roma.</desc>
@@ -545,7 +168,7 @@
       <value>6+</value>
     </rating>
   </programme>
-  <programme start="20260321211000 +0000" stop="20260321220500 +0000" channel="Discovery Channel">
+  <programme start="20260321210500 +0000" stop="20260321215500 +0000" channel="Discovery Channel">
     <title lang="it">I segreti delle strutture</title>
     <sub-title lang="it">La piramide rossa</sub-title>
     <desc lang="it">Gli esperti utilizzano tecnologie all'avanguardia per indagare sulla piramide rossa.</desc>
@@ -560,7 +183,7 @@
       <value>6+</value>
     </rating>
   </programme>
-  <programme start="20260321220500 +0000" stop="20260321230500 +0000" channel="Discovery Channel">
+  <programme start="20260321215500 +0000" stop="20260321225500 +0000" channel="Discovery Channel">
     <title lang="it">Ed Stafford: Scontro fra titani</title>
     <sub-title lang="it">Valle mortale</sub-title>
     <desc lang="it">Ed Stafford affronta la madrina di suo figlio, Ness Knight, un famoso esploratore e survivalista, attraverso la mortale Valle degli Dei.</desc>
@@ -575,7 +198,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260321230500 +0000" stop="20260321233500 +0000" channel="Discovery Channel">
+  <programme start="20260321225500 +0000" stop="20260321232500 +0000" channel="Discovery Channel">
     <title lang="it">Marchio di fabbrica</title>
     <desc lang="it">Vediamo insieme come sia possibile produrre il gesso in modo estremamente innovativo, come vengono fabbricati i più famosi premi e trofei del nel mondo e come un aereo possa decollare e atterrare ovunque se progettato in uno specifico modo.</desc>
     <date>2014</date>
@@ -585,7 +208,7 @@
     <country lang="it">SG</country>
     <episode-num system="onscreen">S11 E18</episode-num>
   </programme>
-  <programme start="20260321233500 +0000" stop="20260322000000 +0000" channel="Discovery Channel">
+  <programme start="20260321232500 +0000" stop="20260322000000 +0000" channel="Discovery Channel">
     <title lang="it">Marchio di fabbrica</title>
     <desc lang="it">Ecco come vengono prodotti i parabrezza delle auto, concepiti per resistere alla forza del vento, ai tentativi di scasso, agli urti, ai tentativi di furto e ai raggi UV. Osserviamo inoltre come vengano realizzati i rossetti.</desc>
     <date>2014</date>
@@ -595,7 +218,7 @@
     <country lang="it">SG</country>
     <episode-num system="onscreen">S11 E19</episode-num>
   </programme>
-  <programme start="20260322000000 +0000" stop="20260322003000 +0000" channel="Discovery Channel">
+  <programme start="20260322000000 +0000" stop="20260322002500 +0000" channel="Discovery Channel">
     <title lang="it">Marchio di fabbrica</title>
     <desc lang="it">Ecco come viene realizzata la bevanda preferita da George Washington, come vengono collaudati i sedili di un velivolo senza distruggere l'aereo e come vengono prodotti miliardi di batterie ogni anno.</desc>
     <date>2014</date>
@@ -605,7 +228,7 @@
     <country lang="it">SG</country>
     <episode-num system="onscreen">S11 E11</episode-num>
   </programme>
-  <programme start="20260322003000 +0000" stop="20260322010000 +0000" channel="Discovery Channel">
+  <programme start="20260322002500 +0000" stop="20260322010000 +0000" channel="Discovery Channel">
     <title lang="it">Marchio di fabbrica</title>
     <desc lang="it">Ecco come viene lavorato il nickel contenuto nelle monete, come vengono costruite le chiuse per i canali e come vengono inserite le bolle nella bevanda al tè più diffusa a Taiwan.</desc>
     <credits>
@@ -617,7 +240,7 @@
     <country lang="it">GB</country>
     <country lang="it">SG</country>
   </programme>
-  <programme start="20260322010000 +0000" stop="20260322015500 +0000" channel="Discovery Channel">
+  <programme start="20260322010000 +0000" stop="20260322020000 +0000" channel="Discovery Channel">
     <title lang="it">NASA X Files</title>
     <sub-title lang="it">Il pianeta vicino alla Terra</sub-title>
     <desc lang="it">Gli astronomi scoprono un pianeta potenzialmente abitabile vicino alla Terra. Una scoperta casuale alla NASA rivela l'esistenza di un programma spaziale militare top-secret.</desc>
@@ -629,7 +252,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260322015500 +0000" stop="20260322025000 +0000" channel="Discovery Channel">
+  <programme start="20260322020000 +0000" stop="20260322030000 +0000" channel="Discovery Channel">
     <title lang="it">NASA X Files</title>
     <sub-title lang="it">La maledizione della Luna piena</sub-title>
     <desc lang="it">Intrappolati all'interno di una capsula in un lago ghiacciato, due astronauti lottano per la vita. Inoltre gli astronomi della NASA sono spaventati quando la luna piena interferisce nei loro esperimenti.</desc>
@@ -641,7 +264,7 @@
       <value>12+</value>
     </rating>
   </programme>
-  <programme start="20260322025000 +0000" stop="20260322034500 +0000" channel="Discovery Channel">
+  <programme start="20260322030000 +0000" stop="20260322034500 +0000" channel="Discovery Channel">
     <title lang="it">NASA X Files</title>
     <sub-title lang="it">La Terra aveva due lune?</sub-title>
     <desc lang="it">Una sorprendente scoperta suggerisce che le infernali nuvole di Venere potrebbero rappresentare l'origine della vita sulla Terra. E' possibile che il nostro pianeta, un tempo, avesse due lune.</desc>
@@ -663,7 +286,312 @@
     <country lang="it">SG</country>
     <episode-num system="onscreen">S8 E5</episode-num>
   </programme>
-  <programme start="20260320050000 +0000" stop="20260320053400 +0000" channel="Twenty Seven">
+  <programme start="20260322041000 +0000" stop="20260322043500 +0000" channel="Discovery Channel">
+    <title lang="it">Marchio di fabbrica</title>
+    <desc lang="it">Scopriamo come sono fatte le carte da gioco a prova di imbroglio, come si producono miliardi di bottiglie di birra all'anno e come si costruiscono gli aerei privati più lussuosi del mondo.</desc>
+    <date>2011</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8687030eh10ad_Iconic_W660.webp" />
+    <country lang="it">CA</country>
+    <country lang="it">GB</country>
+    <country lang="it">SG</country>
+    <episode-num system="onscreen">S8 E8</episode-num>
+  </programme>
+  <programme start="20260322043500 +0000" stop="20260322050000 +0000" channel="Discovery Channel">
+    <title lang="it">Marchio di fabbrica</title>
+    <desc lang="it">Scopriamo come si fanno i buchi dell'Emmenthal, come si restaura e migliora un vecchio carro armato e come funzionano i bibliotecari robot di una delle maggiori collezioni di libri.</desc>
+    <date>2011</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8719714eh10aa_Iconic_W660.webp" />
+    <country lang="it">CA</country>
+    <country lang="it">GB</country>
+    <country lang="it">SG</country>
+    <episode-num system="onscreen">S8 E6</episode-num>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322052500 +0000" channel="Discovery Channel">
+    <title lang="it">Matto da pescare</title>
+    <sub-title lang="it">Attento allo squalo!</sub-title>
+    <desc lang="it">Eric Young si avventura nelle acque della Florida per catturare uno squalo, a bordo di una semplice tavola. Così ci dimostra come i collant possano essere utili per pescare.</desc>
+    <date>2012</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9295356eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260322052500 +0000" stop="20260322055000 +0000" channel="Discovery Channel">
+    <title lang="it">Matto da pescare</title>
+    <sub-title lang="it">Pesce vela mon amour</sub-title>
+    <desc lang="it">Il campione di wrestling Eric Young è al largo della costa di Miami, su una zattera rudimentale, per catturare un pesce vela. In seguito scopriamo come pescare un testa di serpente.</desc>
+    <date>2012</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9310016eh11aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260322055000 +0000" stop="20260322074000 +0000" channel="Discovery Channel">
+    <title lang="it">Mountain Monsters</title>
+    <sub-title lang="it">Foresta oscura</sub-title>
+    <desc lang="it">La squadra si avventura nella Foresta Oscura. Inoltre, dopo aver ricevuto uno straziante aggiornamento sulla salute di Trapper, i ragazzi cercano un granaio che potrebbe contenere le risposte che cercano.</desc>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17165024eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S6 E1</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260322074000 +0000" stop="20260322083500 +0000" channel="Discovery Channel">
+    <title lang="it">Mountain Monsters</title>
+    <sub-title lang="it">Metalupi?</sub-title>
+    <desc lang="it">La squadra dà la caccia a una mostruosa creatura che assomiglia a un lupo e che si aggira a Jackson County, nella Virginia Occidentale.</desc>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17165092eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S6 E2</episode-num>
+    <rating system="FSK">
+      <value>16+</value>
+    </rating>
+  </programme>
+  <programme start="20260322083500 +0000" stop="20260322093000 +0000" channel="Discovery Channel">
+    <title lang="it">Mountain Monsters</title>
+    <sub-title lang="it">Benvenuti nella casa blu</sub-title>
+    <desc lang="it">Dopo aver fatto una scioccante scoperta nella Virginia Occidentale, la squadra continua la ricerca della verità sulla cosiddetta Waya Woman.</desc>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17165094eh8aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S6 E3</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260322093000 +0000" stop="20260322102500 +0000" channel="Discovery Channel">
+    <title lang="it">Mountain Monsters</title>
+    <sub-title lang="it">Il gigante d'argento</sub-title>
+    <desc lang="it">La squadra va alla ricerca di una creatura che assomiglia a un orso e costruisce un'enorme trappola. Inoltre, i ragazzi scoprono qualcosa su altre bestie della zona.</desc>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p17165095eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260322102500 +0000" stop="20260322112000 +0000" channel="Discovery Channel">
+    <title lang="it">Texas Rangers</title>
+    <sub-title lang="it">Il mercato nero</sub-title>
+    <desc lang="it">La squadra lavora sotto copertura per fermare il mercato nero di vendita e acquisto di animali selvatici. Un venditore illegale diventa furioso quando viene catturato.</desc>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12488388eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260322112000 +0000" stop="20260322122000 +0000" channel="Discovery Channel">
+    <title lang="it">Texas Rangers</title>
+    <sub-title lang="it">La calma prima della tempesta</sub-title>
+    <desc lang="it">In Texas, le pattuglie che usano le barche devono fermarsi a causa di tempeste e allagamenti record. Le squadre di ricerca salvano molte persone dai pericolosi flussi d'acqua.</desc>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12488391eh10ad_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260322122000 +0000" stop="20260322132000 +0000" channel="Discovery Channel">
+    <title lang="it">Texas Rangers</title>
+    <sub-title lang="it">Rifugio galleggiante</sub-title>
+    <desc lang="it">Una squadra speciale del Texas Game Wardens trascorre una settimana su un rifugio galleggiante per fermare lo spaccio di droga lungo il confine.</desc>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12510651eh10ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260322132000 +0000" stop="20260322142000 +0000" channel="Discovery Channel">
+    <title lang="it">Deadliest Catch</title>
+    <sub-title lang="it">In attesa</sub-title>
+    <desc lang="it">La prima tempesta della stagione sta arrivando e il capitano della Saga si prepara ad affrontarla. Bill tenta di gestire le cose in maniera diversa per motivare un mozzo pigro.</desc>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16692284eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S15 E3</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260322142000 +0000" stop="20260322152000 +0000" channel="Discovery Channel">
+    <title lang="it">Deadliest Catch</title>
+    <sub-title lang="it">Fallimento</sub-title>
+    <desc lang="it">Mandy è da sola al timone e un incidente mette in pericolo l'equipaggio della Northwestern. Il lanciarazzi di Harley si rompe nel momento peggiore. Inoltre, Josh decide una nuova rotta della Cornelia Marie mentre Casey sta dormendo.</desc>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16829524eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260322152000 +0000" stop="20260322161500 +0000" channel="Discovery Channel">
+    <title lang="it">Deadliest Catch</title>
+    <sub-title lang="it">Spostamenti</sub-title>
+    <desc lang="it">Durante la più grande tempesta della stagione, Jake affronta una decisione di vita o di morte. D'altra parte, Sig e Mandy attraversano acque agitate, mentre Josh e Casey speculano.</desc>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16794082eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S15 E5</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260322161500 +0000" stop="20260322181500 +0000" channel="Discovery Channel">
+    <title lang="it">Deadliest Catch</title>
+    <sub-title lang="it">Sangue nell'acqua</sub-title>
+    <desc lang="it">Jake deve affrontare il suo equipaggio disordinato, costringendolo a prendere una decisione difficile. Nel frattempo, Keith si occupa di una ferita da coltello a uno dei suoi marinai.</desc>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16794127eh8aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S15 E6</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260322181500 +0000" stop="20260322201500 +0000" channel="Discovery Channel">
+    <title lang="it">Deadliest Catch</title>
+    <sub-title lang="it">L'inverno è qui</sub-title>
+    <desc lang="it">Con le temperature più fredde dell'ultimo decennio, il mare rischia di ghiacciare. Un'incomprensione rischia di mettere seriamente in pericolo la vita di uno degli Hansen.</desc>
+    <date>2019</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p16797978eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S15 E7</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260322201500 +0000" stop="20260322220500 +0000" channel="Discovery Channel">
+    <title lang="it">Deadliest Catch</title>
+    <sub-title lang="it">Pesca segreta</sub-title>
+    <desc lang="it">Nella prima invernale, Johnathan cerca granchi in una località segreta di cui ha ottenuto i diritti esclusivi. Sig tenta la fortuna in un derby di pesca, mentre Bob si unisce allo sciopero dei pescatori per ottenere prezzi più alti.</desc>
+    <date>2023</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24975255eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S19 E11</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260322220500 +0000" stop="20260322230500 +0000" channel="Discovery Channel">
+    <title lang="it">Deadliest Catch: Norvegia</title>
+    <sub-title lang="it">Cucina tradizionale</sub-title>
+    <desc lang="it">Dopo aver garantito una consegna di granchi, Sig ora deve mantenere la parola data prima che sia troppo tardi. Inoltre, Mandy si rende conto di avere un certo talento per la cucina tradizionale norvegese.</desc>
+    <date>2022</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23116101eh10aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme start="20260322230500 +0000" stop="20260322233500 +0000" channel="Discovery Channel">
+    <title lang="it">Marchio di fabbrica</title>
+    <desc lang="it">Scopriamo come la tecnica per tagliare gli alberi sia una vera risorsa per Vancouver. In un laboratorio in Spagna, osserviamo l'argilla che viene tras.</desc>
+    <credits>
+      <director>Ross Young</director>
+      <director>Joanne Lunt</director>
+      <director>Rob Neil</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11504808eh10ac_Iconic_W660.webp" />
+    <country lang="it">CA</country>
+    <country lang="it">GB</country>
+    <country lang="it">SG</country>
+    <episode-num system="onscreen">S12 E1</episode-num>
+  </programme>
+  <programme start="20260322233500 +0000" stop="20260323000000 +0000" channel="Discovery Channel">
+    <title lang="it">Marchio di fabbrica</title>
+    <desc lang="it">Voliamo in Spagna a scoprire i segreti della produzione di uno degli aerei più avanzati e potenti del mondo. Inoltre, visitiamo insieme una fabbriceria di stivali impermeabili e impariamo qualcosa di nuovo sulla conservazione delle banane.</desc>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11504818eh11aa_Iconic_W660.webp" />
+    <country lang="it">CA</country>
+    <country lang="it">GB</country>
+    <country lang="it">SG</country>
+    <episode-num system="onscreen">S12 E2</episode-num>
+  </programme>
+  <programme start="20260323000000 +0000" stop="20260323003000 +0000" channel="Discovery Channel">
+    <title lang="it">Marchio di fabbrica</title>
+    <desc lang="it">In questa puntata scopriamo gli stratagemmi utili a costruire una ferrovia monorotaia su alcune delle strade più trafficate al mondo. Ci rechiamo poi nelle fabbricerie della celeberrima porcellana Flora Danica di Copenhagen.</desc>
+    <credits>
+      <director>Ross Young</director>
+    </credits>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11343418eh10aa_Iconic_W660.webp" />
+    <country lang="it">CA</country>
+    <country lang="it">GB</country>
+    <country lang="it">SG</country>
+    <episode-num system="onscreen">S12 E3</episode-num>
+  </programme>
+  <programme start="20260323003000 +0000" stop="20260323010000 +0000" channel="Discovery Channel">
+    <title lang="it">Marchio di fabbrica</title>
+    <desc lang="it">La ragione e le tecniche dietro l'uso di una delle sostanze più scivolose della Terra per realizzare indumenti impermeabili per esploratori, alpinisti e soldati delle forze speciali.</desc>
+    <date>2015</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p11873514eh11aa_Iconic_W660.webp" />
+    <country lang="it">CA</country>
+    <country lang="it">GB</country>
+    <country lang="it">SG</country>
+    <episode-num system="onscreen">S12 E4</episode-num>
+  </programme>
+  <programme start="20260323010000 +0000" stop="20260323015500 +0000" channel="Discovery Channel">
+    <title lang="it">NASA X Files</title>
+    <sub-title lang="it">Il mistero del pianeta invisibile</sub-title>
+    <desc lang="it">Una sonda inizia misteriosamente a non funzionare come dovrebbe non appena si addentra nello spazio. Gli astronauti individuano le tracce di un pianeta invisibile in un distante sistema solare.</desc>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13239886eh8aa_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260323015500 +0000" stop="20260323025000 +0000" channel="Discovery Channel">
+    <title lang="it">NASA X Files</title>
+    <sub-title lang="it">Il segreto</sub-title>
+    <desc lang="it">Un malfunzionamento nella stazione spaziale internazionale avrebbe potuto avvelenare l'equipaggio con un gas mortale. Una sorprendente immagine scattata da una sonda della NASA potrebbe rivelare se ci sia vita su Marte.</desc>
+    <date>2016</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13264063eh8ac_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260323025000 +0000" stop="20260323034500 +0000" channel="Discovery Channel">
+    <title lang="it">NASA X Files</title>
+    <sub-title lang="it">Complotto</sub-title>
+    <desc lang="it">Una lettera del Presidente Kennedy chiede alla CIA di condividere i dati sugli UFO con la NASA. Inoltre, uno strano disegno sulla superficie di Marte potrebbe essere un messaggio alieno in codice.</desc>
+    <date>2017</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p13886756eh11ab_Iconic_W660.webp" />
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260323034500 +0000" stop="20260323041000 +0000" channel="Discovery Channel">
+    <title lang="it">Marchio di fabbrica</title>
+    <desc lang="it">Scopriamo come si possa indurre un'ostrica a produrre una perla perfetta, come vengono piegati i classici pretzel della Pennsylvania e come sono costruite le tradizionali gondole veneziane.</desc>
+    <date>2011</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8729241eh10ab_Iconic_W660.webp" />
+    <country lang="it">CA</country>
+    <country lang="it">GB</country>
+    <country lang="it">SG</country>
+    <episode-num system="onscreen">S8 E7</episode-num>
+  </programme>
+  <programme start="20260321050000 +0000" stop="20260321053400 +0000" channel="Twenty Seven">
     <title lang="it">Camera Cafe'</title>
     <sub-title lang="it">Camera cafe'</sub-title>
     <desc lang="it">Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe' tra colleghi, superiori e buffe vicende quotidiane.</desc>
@@ -681,472 +609,11 @@
     <date>2011</date>
     <category lang="it">Intrattenimento</category>
     <category lang="it">Sit Com</category>
-    <icon src="https://guidatv.sky.it/uuid/8107e946-ae10-40ba-9880-41f1a06fe4ec/cover?territory=IT&amp;md5ChecksumParam=059a26643629e59c67651bef59bf914f" />
+    <icon src="https://guidatv.sky.it/uuid/bfa53841-fe01-4d34-aec0-ee5bb9af6bcb/cover?territory=IT&amp;md5ChecksumParam=059a26643629e59c67651bef59bf914f" />
     <country lang="it">ITA</country>
-    <episode-num system="onscreen">S6 E23</episode-num>
+    <episode-num system="onscreen">S6 E24</episode-num>
   </programme>
-  <programme start="20260320053400 +0000" stop="20260320062100 +0000" channel="Twenty Seven">
-    <title lang="it">Agenzia Rockford</title>
-    <sub-title lang="it">L'uomo che parlava con gli alberi</sub-title>
-    <desc lang="it">I parte - Un vecchio amico di Rocky viene internato in un istituto psichiatrico dove gli vengono somministrati farmaci per renderlo paranoico e delirante.</desc>
-    <credits>
-      <director>William Wiard</director>
-      <director>Lawrence Doheny</director>
-      <actor>James Garner</actor>
-      <actor>Noah Beery Jr.</actor>
-      <actor>Joe Santos</actor>
-      <actor>Luis Delgado</actor>
-      <actor>Stuart Margolin</actor>
-      <actor>Gretchen Corbett</actor>
-      <actor>James Luisi</actor>
-      <actor>Jack Garner</actor>
-    </credits>
-    <date>1976</date>
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Fiction</category>
-    <icon src="https://guidatv.sky.it/uuid/8173bf44-2df8-4689-9efb-6ba277f7d409/cover?territory=IT&amp;md5ChecksumParam=2241a8f3a488a2e6dcd8e3fe1e230c2c" />
-    <country lang="it">USA</country>
-    <episode-num system="onscreen">S3 E14</episode-num>
-  </programme>
-  <programme start="20260320062100 +0000" stop="20260320070500 +0000" channel="Twenty Seven">
-    <title lang="it">La signora del West</title>
-    <sub-title lang="it">Una vita insieme</sub-title>
-    <desc lang="it">Michaela e Sully stanno trascorrendo del tempo da soli nei boschi quando lei, durante un de'ja' vu dell'aborto subito mesi prima, cade e batte la testa.</desc>
-    <credits>
-      <actor>Jane Seymour</actor>
-      <actor>Joe Lando</actor>
-      <actor>Shawn Toovey</actor>
-      <actor>Chad Allen</actor>
-      <actor>Orson Bean</actor>
-      <actor>Jim Knobeloch</actor>
-      <actor>William Shockley</actor>
-      <actor>Frank Collison</actor>
-      <actor>Alexandria Calabrese</actor>
-    </credits>
-    <date>1997</date>
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Fiction</category>
-    <icon src="https://guidatv.sky.it/uuid/6bf355de-2d4f-44d2-8dcf-207dad65ba75/cover?territory=IT&amp;md5ChecksumParam=727a643c942a3fac8a90f5619628ccf2" />
-    <country lang="it">USA</country>
-    <episode-num system="onscreen">S6 E20</episode-num>
-  </programme>
-  <programme start="20260320070500 +0000" stop="20260320080400 +0000" channel="Twenty Seven">
-    <title lang="it">La signora del West</title>
-    <sub-title lang="it">L'incontro</sub-title>
-    <desc lang="it">A Colorado Springs viene organizzato un torneo di boxe con un campione, Barracuda Jim. Grace e Robert E vivono ormai separati e Michaela e Sully provano a farli ragionare.</desc>
-    <credits>
-      <actor>Jane Seymour</actor>
-      <actor>Joe Lando</actor>
-      <actor>Shawn Toovey</actor>
-      <actor>Chad Allen</actor>
-      <actor>Orson Bean</actor>
-      <actor>Jim Knobeloch</actor>
-      <actor>William Shockley</actor>
-      <actor>Frank Collison</actor>
-      <actor>Alexandria Calabrese</actor>
-    </credits>
-    <date>1997</date>
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Fiction</category>
-    <icon src="https://guidatv.sky.it/uuid/e2a87dd6-f40b-446b-9950-ad9d2b9b0003/cover?territory=IT&amp;md5ChecksumParam=727a643c942a3fac8a90f5619628ccf2" />
-    <country lang="it">USA</country>
-    <episode-num system="onscreen">S6 E21</episode-num>
-  </programme>
-  <programme start="20260320080400 +0000" stop="20260320090100 +0000" channel="Twenty Seven">
-    <title lang="it">La signora del West</title>
-    <sub-title lang="it">Un nuovo inizio</sub-title>
-    <desc lang="it">Colleen, ormai diplomata al college, viene accettata all'Universita' femminile di medicina della Pennsylvania, la stessa dove si e' laureata il dottor Mike.</desc>
-    <credits>
-      <actor>Jane Seymour</actor>
-      <actor>Joe Lando</actor>
-      <actor>Shawn Toovey</actor>
-      <actor>Chad Allen</actor>
-      <actor>Orson Bean</actor>
-      <actor>Jim Knobeloch</actor>
-      <actor>William Shockley</actor>
-      <actor>Frank Collison</actor>
-      <actor>Alexandria Calabrese</actor>
-    </credits>
-    <date>1997</date>
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Fiction</category>
-    <icon src="https://guidatv.sky.it/uuid/83255e7e-9e96-4226-9d34-628126863b8a/cover?territory=IT&amp;md5ChecksumParam=727a643c942a3fac8a90f5619628ccf2" />
-    <country lang="it">USA</country>
-    <episode-num system="onscreen">S6 E22</episode-num>
-  </programme>
-  <programme start="20260320090100 +0000" stop="20260320100300 +0000" channel="Twenty Seven">
-    <title lang="it">La casa nella prateria</title>
-    <desc lang="it">Il matrimonio mancato - Kate, la giovane nipote della signora Oleson, arriva a Walnut Grove. Quando la ragazza si ferisce in un incidente, Charles la conduce nello studio del dottor Baker.</desc>
-    <credits>
-      <director>Michael Landon</director>
-      <director>William F. Claxton</director>
-      <actor>Melissa Gilbert</actor>
-      <actor>Michael Landon</actor>
-      <actor>Karen Grassle</actor>
-      <actor>Rachel Lindsay Greenbush</actor>
-      <actor>Sidney Greenbush</actor>
-      <actor>Melissa Sue Anderson</actor>
-      <actor>Katherine Macgregor</actor>
-      <actor>Richard Bull</actor>
-      <actor>Carl Pitti</actor>
-      <actor>Jack Lilley</actor>
-    </credits>
-    <date>1974</date>
-    <category lang="it">Altri Programmi</category>
-    <category lang="it">Altri</category>
-    <icon src="https://guidatv.sky.it/uuid/1f945af3-2bbd-4ec5-9771-be851e01975e/cover?territory=IT&amp;md5ChecksumParam=15a176afaf86266d802c7293269c42de" />
-    <country lang="it">USA</country>
-    <episode-num system="onscreen">S1 E17</episode-num>
-  </programme>
-  <programme start="20260320100300 +0000" stop="20260320105900 +0000" channel="Twenty Seven">
-    <title lang="it">La casa nella prateria</title>
-    <desc lang="it">L'epidemia - Il tifo contagia gli abitanti di Walnut Grove. Alla fine si scopre che erano i topi sui sacchi di grano che tutti mangiavano.</desc>
-    <credits>
-      <director>Michael Landon</director>
-      <director>William F. Claxton</director>
-      <actor>Melissa Gilbert</actor>
-      <actor>Michael Landon</actor>
-      <actor>Karen Grassle</actor>
-      <actor>Rachel Lindsay Greenbush</actor>
-      <actor>Sidney Greenbush</actor>
-      <actor>Melissa Sue Anderson</actor>
-      <actor>Katherine Macgregor</actor>
-      <actor>Richard Bull</actor>
-      <actor>Carl Pitti</actor>
-      <actor>Jack Lilley</actor>
-    </credits>
-    <date>1974</date>
-    <category lang="it">Altri Programmi</category>
-    <category lang="it">Altri</category>
-    <icon src="https://guidatv.sky.it/uuid/c1dfd82e-62cf-450d-8806-a3259d3d02e0/cover?territory=IT&amp;md5ChecksumParam=15a176afaf86266d802c7293269c42de" />
-    <country lang="it">USA</country>
-    <episode-num system="onscreen">S1 E18</episode-num>
-  </programme>
-  <programme start="20260320105900 +0000" stop="20260320120100 +0000" channel="Twenty Seven">
-    <title lang="it">La casa nella prateria</title>
-    <desc lang="it">La polvere curativa - Gli Ingalls conoscono O'Hara, un girovago a cui permettono di sostare col suo carro nella loro proprieta'.</desc>
-    <credits>
-      <director>Michael Landon</director>
-      <director>William F. Claxton</director>
-      <actor>Melissa Gilbert</actor>
-      <actor>Michael Landon</actor>
-      <actor>Karen Grassle</actor>
-      <actor>Rachel Lindsay Greenbush</actor>
-      <actor>Sidney Greenbush</actor>
-      <actor>Melissa Sue Anderson</actor>
-      <actor>Katherine Macgregor</actor>
-      <actor>Richard Bull</actor>
-      <actor>Carl Pitti</actor>
-      <actor>Jack Lilley</actor>
-    </credits>
-    <date>1974</date>
-    <category lang="it">Altri Programmi</category>
-    <category lang="it">Altri</category>
-    <icon src="https://guidatv.sky.it/uuid/042d1901-2901-45ed-92e7-de485087bb72/cover?territory=IT&amp;md5ChecksumParam=15a176afaf86266d802c7293269c42de" />
-    <country lang="it">USA</country>
-    <episode-num system="onscreen">S1 E19</episode-num>
-  </programme>
-  <programme start="20260320120100 +0000" stop="20260320130100 +0000" channel="Twenty Seven">
-    <title lang="it">La signora del west</title>
-    <sub-title lang="it">Donna medicina</sub-title>
-    <desc lang="it">i parte - Michaela Anne Quinn e' un medico di Boston nata nel 1833. L'emancipazione femminile non esiste e Michaela puo' praticare solo nello studio del padre.</desc>
-    <credits>
-      <director>Chuck Bowman</director>
-      <director>James Keach</director>
-      <actor>Jane Seymour</actor>
-      <actor>Joe Lando</actor>
-      <actor>Shawn Toovey</actor>
-      <actor>Chad Allen</actor>
-      <actor>Orson Bean</actor>
-      <actor>Jim Knobeloch</actor>
-      <actor>William Shockley</actor>
-      <actor>Frank Collison</actor>
-      <actor>Andy Bakkum</actor>
-      <actor>Gail Strickland</actor>
-    </credits>
-    <date>1992</date>
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Fiction</category>
-    <icon src="https://guidatv.sky.it/uuid/159a7628-9755-42c5-b707-d95941a0edf4/cover?territory=IT&amp;md5ChecksumParam=740f98ce6ec03ccc2c08afd0b8e637f0" />
-    <country lang="it">USA</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20260320130100 +0000" stop="20260320140900 +0000" channel="Twenty Seven">
-    <title lang="it">La signora del west</title>
-    <sub-title lang="it">Donna medicina</sub-title>
-    <desc lang="it">ii parte - Michaela Anne Quinn e' un medico di Boston nata nel 1833. L'emancipazione femminile non esiste e Michaela puo' praticare solo nello studio del padre.</desc>
-    <credits>
-      <director>Chuck Bowman</director>
-      <director>James Keach</director>
-      <actor>Jane Seymour</actor>
-      <actor>Joe Lando</actor>
-      <actor>Shawn Toovey</actor>
-      <actor>Chad Allen</actor>
-      <actor>Orson Bean</actor>
-      <actor>Jim Knobeloch</actor>
-      <actor>William Shockley</actor>
-      <actor>Frank Collison</actor>
-      <actor>Andy Bakkum</actor>
-      <actor>Gail Strickland</actor>
-    </credits>
-    <date>1992</date>
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Fiction</category>
-    <icon src="https://guidatv.sky.it/uuid/69ca90cb-ddd5-4e1b-b148-cb3edf77bc74/cover?territory=IT&amp;md5ChecksumParam=740f98ce6ec03ccc2c08afd0b8e637f0" />
-    <country lang="it">USA</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20260320140900 +0000" stop="20260320150900 +0000" channel="Twenty Seven">
-    <title lang="it">La signora del West</title>
-    <sub-title lang="it">Epidemia</sub-title>
-    <desc lang="it">Una terribile influenza colpisce la citta' di Colorado Springs e il dottor Mike deve stare a contatto con i malati per curarli, ma non ha una clinica per i suoi pazienti.</desc>
-    <credits>
-      <director>Chuck Bowman</director>
-      <director>James Keach</director>
-      <actor>Jane Seymour</actor>
-      <actor>Joe Lando</actor>
-      <actor>Shawn Toovey</actor>
-      <actor>Chad Allen</actor>
-      <actor>Orson Bean</actor>
-      <actor>Jim Knobeloch</actor>
-      <actor>William Shockley</actor>
-      <actor>Frank Collison</actor>
-      <actor>Andy Bakkum</actor>
-      <actor>Gail Strickland</actor>
-    </credits>
-    <date>1992</date>
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Fiction</category>
-    <icon src="https://guidatv.sky.it/uuid/9ce48be5-1c9c-4dd8-a8b9-2b2ff7a896d7/cover?territory=IT&amp;md5ChecksumParam=740f98ce6ec03ccc2c08afd0b8e637f0" />
-    <country lang="it">USA</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20260320150900 +0000" stop="20260320161000 +0000" channel="Twenty Seven">
-    <title lang="it">La casa nella prateria</title>
-    <desc lang="it">Un bambino maltrattato - La signorina Beadle scopre che un suo studente viene maltrattato dal padre alcolizzato e che, nonostante tutto, vuole rimanere con lui.</desc>
-    <credits>
-      <director>Michael Landon</director>
-      <director>William F. Claxton</director>
-      <actor>Melissa Gilbert</actor>
-      <actor>Michael Landon</actor>
-      <actor>Karen Grassle</actor>
-      <actor>Rachel Lindsay Greenbush</actor>
-      <actor>Sidney Greenbush</actor>
-      <actor>Melissa Sue Anderson</actor>
-      <actor>Katherine Macgregor</actor>
-      <actor>Richard Bull</actor>
-      <actor>Carl Pitti</actor>
-      <actor>Jack Lilley</actor>
-    </credits>
-    <date>1974</date>
-    <category lang="it">Altri Programmi</category>
-    <category lang="it">Altri</category>
-    <icon src="https://guidatv.sky.it/uuid/4d877160-37ec-4db0-80d6-7b2d4dfe862a/cover?territory=IT&amp;md5ChecksumParam=15a176afaf86266d802c7293269c42de" />
-    <country lang="it">USA</country>
-    <episode-num system="onscreen">S1 E20</episode-num>
-  </programme>
-  <programme start="20260320161000 +0000" stop="20260320171200 +0000" channel="Twenty Seven">
-    <title lang="it">La casa nella prateria</title>
-    <desc lang="it">L'agronomo - Joseph Coulter e' un agronomo che ha messo in pratica i suoi studi coltivando dell'ottimo granturco.</desc>
-    <credits>
-      <director>Michael Landon</director>
-      <director>William F. Claxton</director>
-      <actor>Melissa Gilbert</actor>
-      <actor>Michael Landon</actor>
-      <actor>Karen Grassle</actor>
-      <actor>Rachel Lindsay Greenbush</actor>
-      <actor>Sidney Greenbush</actor>
-      <actor>Melissa Sue Anderson</actor>
-      <actor>Katherine Macgregor</actor>
-      <actor>Richard Bull</actor>
-      <actor>Carl Pitti</actor>
-      <actor>Jack Lilley</actor>
-    </credits>
-    <date>1974</date>
-    <category lang="it">Altri Programmi</category>
-    <category lang="it">Altri</category>
-    <icon src="https://guidatv.sky.it/uuid/6c94dd3e-87a2-4e70-bdbb-9adaba112672/cover?territory=IT&amp;md5ChecksumParam=15a176afaf86266d802c7293269c42de" />
-    <country lang="it">USA</country>
-    <episode-num system="onscreen">S1 E21</episode-num>
-  </programme>
-  <programme start="20260320171200 +0000" stop="20260320181300 +0000" channel="Twenty Seven">
-    <title lang="it">La casa nella prateria</title>
-    <desc lang="it">L'indiano ribelle - La famiglia Ingalls di ritorno da Mankato viene sorpresa da una improvvisa tormenta di neve e trova riparo in una baita abbandonata.</desc>
-    <credits>
-      <director>Michael Landon</director>
-      <director>William F. Claxton</director>
-      <actor>Melissa Gilbert</actor>
-      <actor>Michael Landon</actor>
-      <actor>Karen Grassle</actor>
-      <actor>Rachel Lindsay Greenbush</actor>
-      <actor>Sidney Greenbush</actor>
-      <actor>Melissa Sue Anderson</actor>
-      <actor>Katherine Macgregor</actor>
-      <actor>Richard Bull</actor>
-      <actor>Carl Pitti</actor>
-      <actor>Jack Lilley</actor>
-    </credits>
-    <date>1974</date>
-    <category lang="it">Altri Programmi</category>
-    <category lang="it">Altri</category>
-    <icon src="https://guidatv.sky.it/uuid/342b9618-fbaa-410a-8138-e06f7a1103e2/cover?territory=IT&amp;md5ChecksumParam=15a176afaf86266d802c7293269c42de" />
-    <country lang="it">USA</country>
-    <episode-num system="onscreen">S1 E22</episode-num>
-  </programme>
-  <programme start="20260320181300 +0000" stop="20260320191400 +0000" channel="Twenty Seven">
-    <title lang="it">Colombo</title>
-    <sub-title lang="it">Una mossa sbagliata</sub-title>
-    <desc lang="it">ii parte - Un ricco e famoso fotografo, uccide la moglie con la complicita' di un ex detenuto e poi si sbarazza anche del complice. Un omicida astuto, ma non quanto...</desc>
-    <credits>
-      <director>Bernard L. Kowalski</director>
-      <director>Hy Averback</director>
-      <actor>Peter Falk</actor>
-      <actor>Fred Draper</actor>
-      <actor>Robert Culp</actor>
-      <actor>Val Avery</actor>
-      <actor>Jack Cassidy</actor>
-      <actor>Timothy Carey</actor>
-      <actor>Charles Macaulay</actor>
-      <actor>Leslie Nielsen</actor>
-    </credits>
-    <date>1971</date>
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Fiction</category>
-    <icon src="https://guidatv.sky.it/uuid/60ce5956-f6a9-4532-abf4-e17530a3f463/cover?territory=IT&amp;md5ChecksumParam=83a1911d9b2e736b18c6815c0b50d417" />
-    <country lang="it">USA</country>
-    <episode-num system="onscreen">S1 E10</episode-num>
-  </programme>
-  <programme start="20260320191400 +0000" stop="20260320201200 +0000" channel="Twenty Seven">
-    <title lang="it">Colombo</title>
-    <sub-title lang="it">Dalle sei alle nove</sub-title>
-    <desc lang="it">i parte - Gene Stafford scopre che il suo socio in affari, Milo Janus, agisce in modo losco e fraudolento. Janus uccide Stafford ed il tenente Colombo deve indagare.</desc>
-    <credits>
-      <director>Bernard L. Kowalski</director>
-      <director>Hy Averback</director>
-      <actor>Peter Falk</actor>
-      <actor>Fred Draper</actor>
-      <actor>Robert Culp</actor>
-      <actor>Val Avery</actor>
-      <actor>Jack Cassidy</actor>
-      <actor>Timothy Carey</actor>
-      <actor>Charles Macaulay</actor>
-      <actor>Leslie Nielsen</actor>
-    </credits>
-    <date>1971</date>
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Fiction</category>
-    <icon src="https://guidatv.sky.it/uuid/60ce5956-f6a9-4532-abf4-e17530a3f463/cover?territory=IT&amp;md5ChecksumParam=83a1911d9b2e736b18c6815c0b50d417" />
-    <country lang="it">USA</country>
-    <episode-num system="onscreen">S1 E11</episode-num>
-  </programme>
-  <programme start="20260320201200 +0000" stop="20260320220600 +0000" channel="Twenty Seven">
-    <title lang="it">Rush Hour: Due mine vaganti</title>
-    <desc lang="it">Primo capitolo della saga action-comedy con Jackie Chan e Chris Tucker. Due detective senza nulla in comune sono costretti a lavorare insieme per risolvere un caso di rapimento.</desc>
-    <credits>
-      <director>Brett Ratner</director>
-      <actor>Jackie Chan</actor>
-      <actor>Chris Tucker</actor>
-      <actor>Tom Wilkinson</actor>
-      <actor>Elizabeth Peña</actor>
-      <actor>Philip Baker Hall</actor>
-      <actor>Mark Rolston</actor>
-      <actor>Tzi Ma</actor>
-      <actor>Rex Linn</actor>
-      <producer>Arthur M. Sarkissian</producer>
-      <producer>Jonathan Glickman</producer>
-    </credits>
-    <date>1998</date>
-    <category lang="it">Film</category>
-    <category lang="it">Azione</category>
-    <icon src="https://guidatv.sky.it/uuid/dc4314ac-60b4-48fa-a5a0-13d081039c78/cover?territory=IT&amp;md5ChecksumParam=3748edcb89e011a770ce6f587874625e" />
-    <country lang="it">USA</country>
-  </programme>
-  <programme start="20260320220600 +0000" stop="20260321015000 +0000" channel="Twenty Seven">
-    <title lang="it">The Blues Brothers</title>
-    <desc lang="it">John Belushi e Dan Aykroyd nell'irriverente commedia musicale di John Landis. Per salvare l'orfanotrofio in cui sono cresciuti, due fratelli riuniscono la loro band per un concerto.</desc>
-    <credits>
-      <director>John Landis</director>
-      <actor>John Belushi</actor>
-      <actor>Dan Aykroyd</actor>
-      <actor>Cab Calloway</actor>
-      <actor>James Brown</actor>
-      <actor>Ray Charles</actor>
-      <actor>Aretha Franklin</actor>
-      <actor>Steve Cropper</actor>
-      <actor>Donald Duck Dunn</actor>
-      <producer>Bernie Brillstein</producer>
-      <producer>George Folsey Jr.</producer>
-    </credits>
-    <date>1980</date>
-    <category lang="it">Film</category>
-    <category lang="it">Commedia</category>
-    <icon src="https://guidatv.sky.it/uuid/61bb49fd-9aaf-4c52-87c1-a5d94184333b/cover?territory=IT&amp;md5ChecksumParam=19a132c495680587447ced1b0581ff4e" />
-    <country lang="it">USA</country>
-  </programme>
-  <programme start="20260321015000 +0000" stop="20260321023200 +0000" channel="Twenty Seven">
-    <title lang="it">Due per tre</title>
-    <sub-title lang="it">Ti conosco mascherina</sub-title>
-    <desc lang="it">Fervono i preparativi per una festa in maschera che ha per tema i miti del cinema. Giorgio e' scatenato e comincia una gara di creativita'.</desc>
-    <credits>
-      <director>Roberto Valentini</director>
-      <actor>Johnny Dorelli</actor>
-      <actor>Loretta Goggi</actor>
-      <actor>Marta Forghieri</actor>
-      <actor>Alessandro Sacco</actor>
-      <actor>Margherita Lombardo</actor>
-      <actor>Sabrina Marciano</actor>
-      <actor>Rosanna Ruffini</actor>
-    </credits>
-    <date>1998</date>
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Sit Com</category>
-    <icon src="https://guidatv.sky.it/uuid/70e5dc6f-d63b-4805-85a6-49ad52474704/cover?territory=IT&amp;md5ChecksumParam=976eaeafa73692d7d77626228996e1a4" />
-    <country lang="it">ITA</country>
-    <episode-num system="onscreen">S3 E13</episode-num>
-  </programme>
-  <programme start="20260321023200 +0000" stop="20260321031400 +0000" channel="Twenty Seven">
-    <title lang="it">Due per tre</title>
-    <sub-title lang="it">Papa' in affitto</sub-title>
-    <desc lang="it">Leo e' emozionato a causa del suo imminente incontro con Sophie, un'amica "di lettera" francese. Ma Sophie non e' la stessa persona vista in fotografia.</desc>
-    <credits>
-      <director>Roberto Valentini</director>
-      <actor>Johnny Dorelli</actor>
-      <actor>Loretta Goggi</actor>
-      <actor>Marta Forghieri</actor>
-      <actor>Alessandro Sacco</actor>
-      <actor>Margherita Lombardo</actor>
-      <actor>Sabrina Marciano</actor>
-      <actor>Rosanna Ruffini</actor>
-    </credits>
-    <date>1998</date>
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Sit Com</category>
-    <icon src="https://guidatv.sky.it/uuid/23998c6f-1d70-4d93-a32e-8d597fbebd3f/cover?territory=IT&amp;md5ChecksumParam=976eaeafa73692d7d77626228996e1a4" />
-    <country lang="it">ITA</country>
-    <episode-num system="onscreen">S3 E14</episode-num>
-  </programme>
-  <programme start="20260321031400 +0000" stop="20260321053400 +0000" channel="Twenty Seven">
-    <title lang="it">Caro Maestro</title>
-    <desc lang="it">S1 Ep5 - Marco Columbro e' Stefano, un conducente d'autobus che ottiene una supplenza in una una scuola elementare. Li', a Forte dei Marmi, la sua vita non sara' piu' la stessa.</desc>
-    <credits>
-      <director>Rossella Izzo</director>
-      <actor>Marco Columbro</actor>
-      <actor>Elena Sofia Ricci</actor>
-      <actor>Sandra Mondaini</actor>
-      <actor>Franca Valeri</actor>
-      <actor>Francesca Reggiani</actor>
-      <actor>Nicola Pistoia</actor>
-      <actor>Pino Colizzi</actor>
-      <actor>Roberto Alpi</actor>
-    </credits>
-    <date>1995</date>
-    <category lang="it">Intrattenimento</category>
-    <category lang="it">Miniserie</category>
-    <icon src="https://guidatv.sky.it/uuid/2022e5cb-4181-4d34-a0d4-1b3d4abe9c54/cover?territory=IT&amp;md5ChecksumParam=e5a707183a3d2301e34769d476e5ef86" />
-    <country lang="it">ITA</country>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20260321053400 +0000" stop="20260321063800 +0000" channel="Twenty Seven">
+  <programme start="20260321053400 +0000" stop="20260321062100 +0000" channel="Twenty Seven">
     <title lang="it">Agenzia Rockford</title>
     <sub-title lang="it">L'uomo che parlava con gli alberi</sub-title>
     <desc lang="it">II parte - Un vecchio amico di Rocky viene internato in un istituto psichiatrico dove gli vengono somministrati farmaci per renderlo paranoico e delirante.</desc>
@@ -1169,7 +636,7 @@
     <country lang="it">USA</country>
     <episode-num system="onscreen">S3 E15</episode-num>
   </programme>
-  <programme start="20260321063800 +0000" stop="20260321073600 +0000" channel="Twenty Seven">
+  <programme start="20260321062100 +0000" stop="20260321071100 +0000" channel="Twenty Seven">
     <title lang="it">La signora del west</title>
     <sub-title lang="it">Donna medicina</sub-title>
     <desc lang="it">i parte - Michaela Anne Quinn e' un medico di Boston nata nel 1833. L'emancipazione femminile non esiste e Michaela puo' praticare solo nello studio del padre.</desc>
@@ -1194,7 +661,7 @@
     <country lang="it">USA</country>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20260321073600 +0000" stop="20260321083400 +0000" channel="Twenty Seven">
+  <programme start="20260321071100 +0000" stop="20260321081200 +0000" channel="Twenty Seven">
     <title lang="it">La signora del west</title>
     <sub-title lang="it">Donna medicina</sub-title>
     <desc lang="it">ii parte - Michaela Anne Quinn e' un medico di Boston nata nel 1833. L'emancipazione femminile non esiste e Michaela puo' praticare solo nello studio del padre.</desc>
@@ -1219,7 +686,7 @@
     <country lang="it">USA</country>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20260321083400 +0000" stop="20260321093200 +0000" channel="Twenty Seven">
+  <programme start="20260321081200 +0000" stop="20260321091300 +0000" channel="Twenty Seven">
     <title lang="it">La signora del West</title>
     <sub-title lang="it">Epidemia</sub-title>
     <desc lang="it">Una terribile influenza colpisce la citta' di Colorado Springs e il dottor Mike deve stare a contatto con i malati per curarli, ma non ha una clinica per i suoi pazienti.</desc>
@@ -1244,7 +711,7 @@
     <country lang="it">USA</country>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20260321093200 +0000" stop="20260321103100 +0000" channel="Twenty Seven">
+  <programme start="20260321091300 +0000" stop="20260321101300 +0000" channel="Twenty Seven">
     <title lang="it">La casa nella prateria</title>
     <desc lang="it">Un bambino maltrattato - La signorina Beadle scopre che un suo studente viene maltrattato dal padre alcolizzato e che, nonostante tutto, vuole rimanere con lui.</desc>
     <credits>
@@ -1268,7 +735,7 @@
     <country lang="it">USA</country>
     <episode-num system="onscreen">S1 E20</episode-num>
   </programme>
-  <programme start="20260321103100 +0000" stop="20260321113000 +0000" channel="Twenty Seven">
+  <programme start="20260321101300 +0000" stop="20260321111400 +0000" channel="Twenty Seven">
     <title lang="it">La casa nella prateria</title>
     <desc lang="it">L'agronomo - Joseph Coulter e' un agronomo che ha messo in pratica i suoi studi coltivando dell'ottimo granturco.</desc>
     <credits>
@@ -1292,7 +759,7 @@
     <country lang="it">USA</country>
     <episode-num system="onscreen">S1 E21</episode-num>
   </programme>
-  <programme start="20260321113000 +0000" stop="20260321123000 +0000" channel="Twenty Seven">
+  <programme start="20260321111400 +0000" stop="20260321121600 +0000" channel="Twenty Seven">
     <title lang="it">La casa nella prateria</title>
     <desc lang="it">L'indiano ribelle - La famiglia Ingalls di ritorno da Mankato viene sorpresa da una improvvisa tormenta di neve e trova riparo in una baita abbandonata.</desc>
     <credits>
@@ -1316,7 +783,7 @@
     <country lang="it">USA</country>
     <episode-num system="onscreen">S1 E22</episode-num>
   </programme>
-  <programme start="20260321123000 +0000" stop="20260321132900 +0000" channel="Twenty Seven">
+  <programme start="20260321121600 +0000" stop="20260321131600 +0000" channel="Twenty Seven">
     <title lang="it">La signora del west</title>
     <sub-title lang="it">Un ospite di riguardo</sub-title>
     <desc lang="it">Elizabeth Quinn, madre del Dr. Mike e' preoccupata. Una lettera da Matthew la informa delle gravi condizioni della figlia durante l'epidemia di influenza.</desc>
@@ -1341,7 +808,7 @@
     <country lang="it">USA</country>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20260321132900 +0000" stop="20260321142800 +0000" channel="Twenty Seven">
+  <programme start="20260321131600 +0000" stop="20260321141400 +0000" channel="Twenty Seven">
     <title lang="it">La signora del West</title>
     <sub-title lang="it">La legge della terra</sub-title>
     <desc lang="it">Matthew si invaghisce di Ingrid, giovane e bella ragazza svedese ospite del campo di Colorado Springs. Le condizioni di vita nel campo sono di assoluta fame e poverta'.</desc>
@@ -1366,7 +833,7 @@
     <country lang="it">USA</country>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20260321142800 +0000" stop="20260321152700 +0000" channel="Twenty Seven">
+  <programme start="20260321141400 +0000" stop="20260321151400 +0000" channel="Twenty Seven">
     <title lang="it">La signora del West</title>
     <sub-title lang="it">Guarigione</sub-title>
     <desc lang="it">Il signor Bray scopre con enorme piacere che la terra in cui Sully e sua figlia avevano costruito la loro casa e che era stata donata loro dalla moglie, e' ancora di sua...</desc>
@@ -1391,7 +858,7 @@
     <country lang="it">USA</country>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20260321152700 +0000" stop="20260321162600 +0000" channel="Twenty Seven">
+  <programme start="20260321151400 +0000" stop="20260321161400 +0000" channel="Twenty Seven">
     <title lang="it">La casa nella prateria</title>
     <desc lang="it">Avventura in paese - Johnny Johnson, affascinato dagli entusiastici racconti del signor Edwards, decide di lasciare la propria casa per andare a vivere in citta'.</desc>
     <credits>
@@ -1415,7 +882,7 @@
     <country lang="it">USA</country>
     <episode-num system="onscreen">S1 E23</episode-num>
   </programme>
-  <programme start="20260321162600 +0000" stop="20260321172500 +0000" channel="Twenty Seven">
+  <programme start="20260321161400 +0000" stop="20260321171500 +0000" channel="Twenty Seven">
     <title lang="it">La casa nella prateria</title>
     <desc lang="it">Gara di taglialegna - Il signor Tyler non accetta di essere invecchiato e vuole nuovamente vincere la gara di taglialegna a cui partecipa anche Charles.</desc>
     <credits>
@@ -1439,7 +906,7 @@
     <country lang="it">USA</country>
     <episode-num system="onscreen">S1 E24</episode-num>
   </programme>
-  <programme start="20260321172500 +0000" stop="20260321183000 +0000" channel="Twenty Seven">
+  <programme start="20260321171500 +0000" stop="20260321181500 +0000" channel="Twenty Seven">
     <title lang="it">La casa nella prateria</title>
     <desc lang="it">L'uomo piu' ricco - Charles Ingalls e' talmente povero da non riuscire ad acquistare nemmeno i beni di prima necessita' per la propria famiglia.</desc>
     <credits>
@@ -1463,7 +930,7 @@
     <country lang="it">USA</country>
     <episode-num system="onscreen">S1 E25</episode-num>
   </programme>
-  <programme start="20260321183000 +0000" stop="20260321201400 +0000" channel="Twenty Seven">
+  <programme start="20260321181500 +0000" stop="20260321201400 +0000" channel="Twenty Seven">
     <title lang="it">Colombo</title>
     <sub-title lang="it">Dalle sei alle nove</sub-title>
     <desc lang="it">i parte - Gene Stafford scopre che il suo socio in affari, Milo Janus, agisce in modo losco e fraudolento. Janus uccide Stafford ed il tenente Colombo deve indagare.</desc>
@@ -1486,7 +953,7 @@
     <country lang="it">USA</country>
     <episode-num system="onscreen">S1 E11</episode-num>
   </programme>
-  <programme start="20260321201400 +0000" stop="20260321221700 +0000" channel="Twenty Seven">
+  <programme start="20260321201400 +0000" stop="20260321215200 +0000" channel="Twenty Seven">
     <title lang="it">L'aereo più pazzo del mondo</title>
     <desc lang="it">Cult del cinema demenziale con Leslie Nielsen. Un tassista si imbarca sul volo dove l'ex fidanzata lavora come hostess per riconquistarla. Quando i motori vanno in avaria, inizia il delirio.</desc>
     <credits>
@@ -1509,7 +976,7 @@
     <icon src="https://guidatv.sky.it/uuid/93fe6aba-1a64-4eed-a45c-b20d34e17256/cover?territory=IT&amp;md5ChecksumParam=3a0d0611ccc603730c199bf6a8457e2a" />
     <country lang="it">USA</country>
   </programme>
-  <programme start="20260321221700 +0000" stop="20260322003800 +0000" channel="Twenty Seven">
+  <programme start="20260321215200 +0000" stop="20260321234100 +0000" channel="Twenty Seven">
     <title lang="it">Rush Hour: Due mine vaganti</title>
     <desc lang="it">Primo capitolo della saga action-comedy con Jackie Chan e Chris Tucker. Due detective senza nulla in comune sono costretti a lavorare insieme per risolvere un caso di rapimento.</desc>
     <credits>
@@ -1531,7 +998,7 @@
     <icon src="https://guidatv.sky.it/uuid/dc4314ac-60b4-48fa-a5a0-13d081039c78/cover?territory=IT&amp;md5ChecksumParam=3748edcb89e011a770ce6f587874625e" />
     <country lang="it">USA</country>
   </programme>
-  <programme start="20260322003800 +0000" stop="20260322012500 +0000" channel="Twenty Seven">
+  <programme start="20260321234100 +0000" stop="20260322003800 +0000" channel="Twenty Seven">
     <title lang="it">Agenzia Rockford</title>
     <sub-title lang="it">L'uomo che parlava con gli alberi</sub-title>
     <desc lang="it">II parte - Un vecchio amico di Rocky viene internato in un istituto psichiatrico dove gli vengono somministrati farmaci per renderlo paranoico e delirante.</desc>
@@ -1554,7 +1021,7 @@
     <country lang="it">USA</country>
     <episode-num system="onscreen">S3 E15</episode-num>
   </programme>
-  <programme start="20260322012500 +0000" stop="20260322021000 +0000" channel="Twenty Seven">
+  <programme start="20260322003800 +0000" stop="20260322013200 +0000" channel="Twenty Seven">
     <title lang="it">Shameless</title>
     <sub-title lang="it">Non andartene docile in quella buona... eh, fanculo</sub-title>
     <desc lang="it">Liam e' squassato dai sensi di colpa per avere reso invalido Terry e cerca disperatamente qualcuno che possa aiutarlo.</desc>
@@ -1582,7 +1049,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260322021000 +0000" stop="20260322025200 +0000" channel="Twenty Seven">
+  <programme start="20260322013200 +0000" stop="20260322015700 +0000" channel="Twenty Seven">
     <title lang="it">Due per tre</title>
     <sub-title lang="it">Sopravissuti</sub-title>
     <desc lang="it">La famiglia Antonioli parte per le vacanze. Per evitare l'intrusione di ospiti sgraditi, Giorgio fa installare un sofisticato impianto anti-furto.</desc>
@@ -1603,7 +1070,7 @@
     <country lang="it">ITA</country>
     <episode-num system="onscreen">S3 E15</episode-num>
   </programme>
-  <programme start="20260322025200 +0000" stop="20260322033400 +0000" channel="Twenty Seven">
+  <programme start="20260322015700 +0000" stop="20260322022100 +0000" channel="Twenty Seven">
     <title lang="it">Due per tre</title>
     <sub-title lang="it">Il pitone timido</sub-title>
     <desc lang="it">La scomparsa di un pitone scatena un'affannosa ricerca in tutta la casa, coinvolgendo non solo la famiglia Antonioli, ma persino la portinaia.</desc>
@@ -1623,5 +1090,659 @@
     <icon src="https://guidatv.sky.it/uuid/8caea1cd-cf6d-4c34-bb4b-68107aab0a15/cover?territory=IT&amp;md5ChecksumParam=976eaeafa73692d7d77626228996e1a4" />
     <country lang="it">ITA</country>
     <episode-num system="onscreen">S3 E16</episode-num>
+  </programme>
+  <programme start="20260322022100 +0000" stop="20260322034900 +0000" channel="Twenty Seven">
+    <title lang="it">Caro Maestro</title>
+    <desc lang="it">S1 Ep6 - Marco Columbro e' Stefano, un conducente d'autobus che ottiene una supplenza in una una scuola elementare. Li', a Forte dei Marmi, la sua vita non sara' piu' la stessa.</desc>
+    <credits>
+      <director>Rossella Izzo</director>
+      <actor>Marco Columbro</actor>
+      <actor>Elena Sofia Ricci</actor>
+      <actor>Sandra Mondaini</actor>
+      <actor>Franca Valeri</actor>
+      <actor>Francesca Reggiani</actor>
+      <actor>Nicola Pistoia</actor>
+      <actor>Pino Colizzi</actor>
+      <actor>Roberto Alpi</actor>
+    </credits>
+    <date>1995</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Miniserie</category>
+    <icon src="https://guidatv.sky.it/uuid/96c38fe5-74c7-4e89-a842-4f763b3d6515/cover?territory=IT&amp;md5ChecksumParam=e5a707183a3d2301e34769d476e5ef86" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20260322034900 +0000" stop="20260322042400 +0000" channel="Twenty Seven">
+    <title lang="it">Camera Cafe'</title>
+    <sub-title lang="it">Camera cafe'</sub-title>
+    <desc lang="it">Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe' tra colleghi, superiori e buffe vicende quotidiane.</desc>
+    <credits>
+      <director>Fabrizio Gasparetto</director>
+      <actor>Luca Bizzarri</actor>
+      <actor>Paolo Kessisoglu</actor>
+      <actor>Roberto Accornero</actor>
+      <actor>Desy Luccini</actor>
+      <actor>Paolo Bufalino</actor>
+      <actor>Riccardo Magherini</actor>
+      <actor>Sabrina Corabi</actor>
+      <actor>Roberta Nanni</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Sit Com</category>
+    <icon src="https://guidatv.sky.it/uuid/174bd086-a957-4460-8b54-41d9b6023f59/cover?territory=IT&amp;md5ChecksumParam=059a26643629e59c67651bef59bf914f" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S6 E25</episode-num>
+  </programme>
+  <programme start="20260322042400 +0000" stop="20260322050000 +0000" channel="Twenty Seven">
+    <title lang="it">Camera Cafe'</title>
+    <sub-title lang="it">Camera cafe'</sub-title>
+    <desc lang="it">Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe' tra colleghi, superiori e buffe vicende quotidiane.</desc>
+    <credits>
+      <director>Fabrizio Gasparetto</director>
+      <actor>Luca Bizzarri</actor>
+      <actor>Paolo Kessisoglu</actor>
+      <actor>Roberto Accornero</actor>
+      <actor>Desy Luccini</actor>
+      <actor>Paolo Bufalino</actor>
+      <actor>Riccardo Magherini</actor>
+      <actor>Sabrina Corabi</actor>
+      <actor>Roberta Nanni</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Sit Com</category>
+    <icon src="https://guidatv.sky.it/uuid/beeae650-348e-43d8-b504-b7fe26bbd047/cover?territory=IT&amp;md5ChecksumParam=059a26643629e59c67651bef59bf914f" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S6 E26</episode-num>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322052000 +0000" channel="Twenty Seven">
+    <title lang="it">Camera Cafe'</title>
+    <sub-title lang="it">Camera cafe' '07</sub-title>
+    <desc lang="it">Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe' tra colleghi, superiori e buffe vicende quotidiane.</desc>
+    <credits>
+      <actor>Luca Bizzarri</actor>
+      <actor>Paolo Kessisoglu</actor>
+      <actor>Alessandro Sampaoli</actor>
+      <actor>Debora Villa</actor>
+      <actor>Renato Liprandi</actor>
+      <actor>Claudia Barbieri</actor>
+      <actor>Roberta Garzia</actor>
+      <actor>Sabrina Corabi</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Sit Com</category>
+    <icon src="https://guidatv.sky.it/uuid/e615ccd5-fce2-4482-ad63-213b91d8c11c/cover?territory=IT&amp;md5ChecksumParam=5ff9307ed97d14583f355344df9415c7" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S5 E44</episode-num>
+  </programme>
+  <programme start="20260322052000 +0000" stop="20260322052600 +0000" channel="Twenty Seven">
+    <title lang="it">Camera Cafe'</title>
+    <sub-title lang="it">Opera d'arte</sub-title>
+    <desc lang="it">Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.</desc>
+    <credits>
+      <director>Fabrizio Gasparetto</director>
+      <actor>Luca Bizzarri</actor>
+      <actor>Paolo Kessisoglu</actor>
+      <actor>Roberto Accornero</actor>
+      <actor>Desy Luccini</actor>
+      <actor>Paolo Bufalino</actor>
+      <actor>Riccardo Magherini</actor>
+      <actor>Sabrina Corabi</actor>
+      <actor>Roberta Nanni</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Sit Com</category>
+    <icon src="https://guidatv.sky.it/uuid/9a2a08af-3ff5-452d-98ee-cc66eacb8f2c/cover?territory=IT&amp;md5ChecksumParam=059a26643629e59c67651bef59bf914f" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S6 E39</episode-num>
+  </programme>
+  <programme start="20260322052600 +0000" stop="20260322060100 +0000" channel="Twenty Seven">
+    <title lang="it">Camera Cafe'</title>
+    <sub-title lang="it">Camera cafe'</sub-title>
+    <desc lang="it">Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe' tra colleghi, superiori e buffe vicende quotidiane.</desc>
+    <credits>
+      <director>Fabrizio Gasparetto</director>
+      <actor>Luca Bizzarri</actor>
+      <actor>Paolo Kessisoglu</actor>
+      <actor>Roberto Accornero</actor>
+      <actor>Desy Luccini</actor>
+      <actor>Paolo Bufalino</actor>
+      <actor>Riccardo Magherini</actor>
+      <actor>Sabrina Corabi</actor>
+      <actor>Roberta Nanni</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Sit Com</category>
+    <icon src="https://guidatv.sky.it/uuid/aec8d0c5-9aa5-4fbe-91fd-f4de94656055/cover?territory=IT&amp;md5ChecksumParam=059a26643629e59c67651bef59bf914f" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S6 E28</episode-num>
+  </programme>
+  <programme start="20260322060100 +0000" stop="20260322064800 +0000" channel="Twenty Seven">
+    <title lang="it">Agenzia Rockford</title>
+    <sub-title lang="it">Party a sorpresa</sub-title>
+    <desc lang="it">Alcuni spacciatori rubano l'eroina confiscata, da una stanza della proprieta' della polizia, e incastrano Becker a corto di soldi. Rockford cerca di scagionarlo.</desc>
+    <credits>
+      <director>William Wiard</director>
+      <director>Lawrence Doheny</director>
+      <actor>James Garner</actor>
+      <actor>Noah Beery Jr.</actor>
+      <actor>Joe Santos</actor>
+      <actor>Luis Delgado</actor>
+      <actor>Stuart Margolin</actor>
+      <actor>Gretchen Corbett</actor>
+      <actor>James Luisi</actor>
+      <actor>Jack Garner</actor>
+    </credits>
+    <date>1976</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Fiction</category>
+    <icon src="https://guidatv.sky.it/uuid/6e360596-45b8-43e8-a62d-54eac46624de/cover?territory=IT&amp;md5ChecksumParam=2241a8f3a488a2e6dcd8e3fe1e230c2c" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S3 E16</episode-num>
+  </programme>
+  <programme start="20260322064800 +0000" stop="20260322074400 +0000" channel="Twenty Seven">
+    <title lang="it">La signora del west</title>
+    <sub-title lang="it">Un ospite di riguardo</sub-title>
+    <desc lang="it">Elizabeth Quinn, madre del Dr. Mike e' preoccupata. Una lettera da Matthew la informa delle gravi condizioni della figlia durante l'epidemia di influenza.</desc>
+    <credits>
+      <director>Chuck Bowman</director>
+      <director>James Keach</director>
+      <actor>Jane Seymour</actor>
+      <actor>Joe Lando</actor>
+      <actor>Shawn Toovey</actor>
+      <actor>Chad Allen</actor>
+      <actor>Orson Bean</actor>
+      <actor>Jim Knobeloch</actor>
+      <actor>William Shockley</actor>
+      <actor>Frank Collison</actor>
+      <actor>Andy Bakkum</actor>
+      <actor>Gail Strickland</actor>
+    </credits>
+    <date>1992</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Fiction</category>
+    <icon src="https://guidatv.sky.it/uuid/f3a46e7c-1f34-4433-b7f9-d80274c86068/cover?territory=IT&amp;md5ChecksumParam=740f98ce6ec03ccc2c08afd0b8e637f0" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20260322074400 +0000" stop="20260322083700 +0000" channel="Twenty Seven">
+    <title lang="it">La signora del West</title>
+    <sub-title lang="it">La legge della terra</sub-title>
+    <desc lang="it">Matthew si invaghisce di Ingrid, giovane e bella ragazza svedese ospite del campo di Colorado Springs. Le condizioni di vita nel campo sono di assoluta fame e poverta'.</desc>
+    <credits>
+      <director>Chuck Bowman</director>
+      <director>James Keach</director>
+      <actor>Jane Seymour</actor>
+      <actor>Joe Lando</actor>
+      <actor>Shawn Toovey</actor>
+      <actor>Chad Allen</actor>
+      <actor>Orson Bean</actor>
+      <actor>Jim Knobeloch</actor>
+      <actor>William Shockley</actor>
+      <actor>Frank Collison</actor>
+      <actor>Andy Bakkum</actor>
+      <actor>Gail Strickland</actor>
+    </credits>
+    <date>1992</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Fiction</category>
+    <icon src="https://guidatv.sky.it/uuid/25e73132-50da-489b-8780-f62482f2e118/cover?territory=IT&amp;md5ChecksumParam=740f98ce6ec03ccc2c08afd0b8e637f0" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20260322083700 +0000" stop="20260322093400 +0000" channel="Twenty Seven">
+    <title lang="it">La signora del West</title>
+    <sub-title lang="it">Guarigione</sub-title>
+    <desc lang="it">Il signor Bray scopre con enorme piacere che la terra in cui Sully e sua figlia avevano costruito la loro casa e che era stata donata loro dalla moglie, e' ancora di sua...</desc>
+    <credits>
+      <director>Chuck Bowman</director>
+      <director>James Keach</director>
+      <actor>Jane Seymour</actor>
+      <actor>Joe Lando</actor>
+      <actor>Shawn Toovey</actor>
+      <actor>Chad Allen</actor>
+      <actor>Orson Bean</actor>
+      <actor>Jim Knobeloch</actor>
+      <actor>William Shockley</actor>
+      <actor>Frank Collison</actor>
+      <actor>Andy Bakkum</actor>
+      <actor>Gail Strickland</actor>
+    </credits>
+    <date>1992</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Fiction</category>
+    <icon src="https://guidatv.sky.it/uuid/b4d1b1f0-5490-41d0-9ca9-f8a43f763ba0/cover?territory=IT&amp;md5ChecksumParam=740f98ce6ec03ccc2c08afd0b8e637f0" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20260322093400 +0000" stop="20260322103600 +0000" channel="Twenty Seven">
+    <title lang="it">La casa nella prateria</title>
+    <desc lang="it">Avventura in paese - Johnny Johnson, affascinato dagli entusiastici racconti del signor Edwards, decide di lasciare la propria casa per andare a vivere in citta'.</desc>
+    <credits>
+      <director>Michael Landon</director>
+      <director>William F. Claxton</director>
+      <actor>Melissa Gilbert</actor>
+      <actor>Michael Landon</actor>
+      <actor>Karen Grassle</actor>
+      <actor>Rachel Lindsay Greenbush</actor>
+      <actor>Sidney Greenbush</actor>
+      <actor>Melissa Sue Anderson</actor>
+      <actor>Katherine Macgregor</actor>
+      <actor>Richard Bull</actor>
+      <actor>Carl Pitti</actor>
+      <actor>Jack Lilley</actor>
+    </credits>
+    <date>1974</date>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/e3ca4caf-9d51-4258-a68e-fd07eb7ebe46/cover?territory=IT&amp;md5ChecksumParam=15a176afaf86266d802c7293269c42de" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S1 E23</episode-num>
+  </programme>
+  <programme start="20260322103600 +0000" stop="20260322113700 +0000" channel="Twenty Seven">
+    <title lang="it">La casa nella prateria</title>
+    <desc lang="it">Gara di taglialegna - Il signor Tyler non accetta di essere invecchiato e vuole nuovamente vincere la gara di taglialegna a cui partecipa anche Charles.</desc>
+    <credits>
+      <director>Michael Landon</director>
+      <director>William F. Claxton</director>
+      <actor>Melissa Gilbert</actor>
+      <actor>Michael Landon</actor>
+      <actor>Karen Grassle</actor>
+      <actor>Rachel Lindsay Greenbush</actor>
+      <actor>Sidney Greenbush</actor>
+      <actor>Melissa Sue Anderson</actor>
+      <actor>Katherine Macgregor</actor>
+      <actor>Richard Bull</actor>
+      <actor>Carl Pitti</actor>
+      <actor>Jack Lilley</actor>
+    </credits>
+    <date>1974</date>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/edfa9e7c-8926-42bf-b7f5-ae6a71af576d/cover?territory=IT&amp;md5ChecksumParam=15a176afaf86266d802c7293269c42de" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S1 E24</episode-num>
+  </programme>
+  <programme start="20260322113700 +0000" stop="20260322123700 +0000" channel="Twenty Seven">
+    <title lang="it">La casa nella prateria</title>
+    <desc lang="it">L'uomo piu' ricco - Charles Ingalls e' talmente povero da non riuscire ad acquistare nemmeno i beni di prima necessita' per la propria famiglia.</desc>
+    <credits>
+      <director>Michael Landon</director>
+      <director>William F. Claxton</director>
+      <actor>Melissa Gilbert</actor>
+      <actor>Michael Landon</actor>
+      <actor>Karen Grassle</actor>
+      <actor>Rachel Lindsay Greenbush</actor>
+      <actor>Sidney Greenbush</actor>
+      <actor>Melissa Sue Anderson</actor>
+      <actor>Katherine Macgregor</actor>
+      <actor>Richard Bull</actor>
+      <actor>Carl Pitti</actor>
+      <actor>Jack Lilley</actor>
+    </credits>
+    <date>1974</date>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/c79c3689-b69b-4ed8-a40a-9e959da5de24/cover?territory=IT&amp;md5ChecksumParam=15a176afaf86266d802c7293269c42de" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S1 E25</episode-num>
+  </programme>
+  <programme start="20260322123700 +0000" stop="20260322133400 +0000" channel="Twenty Seven">
+    <title lang="it">La signora del West</title>
+    <sub-title lang="it">Il ritorno di papa'</sub-title>
+    <desc lang="it">Ethan Cooper, ex marito di Charlotte e padre dei suoi figli, ritorna in citta' dopo aver abbandonato per diversi anni la sua famiglia.</desc>
+    <credits>
+      <director>Chuck Bowman</director>
+      <director>James Keach</director>
+      <actor>Jane Seymour</actor>
+      <actor>Joe Lando</actor>
+      <actor>Shawn Toovey</actor>
+      <actor>Chad Allen</actor>
+      <actor>Orson Bean</actor>
+      <actor>Jim Knobeloch</actor>
+      <actor>William Shockley</actor>
+      <actor>Frank Collison</actor>
+      <actor>Andy Bakkum</actor>
+      <actor>Gail Strickland</actor>
+    </credits>
+    <date>1992</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Fiction</category>
+    <icon src="https://guidatv.sky.it/uuid/4bb2465d-6a74-43b4-bcbf-e6083ed07c82/cover?territory=IT&amp;md5ChecksumParam=740f98ce6ec03ccc2c08afd0b8e637f0" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20260322133400 +0000" stop="20260322143100 +0000" channel="Twenty Seven">
+    <title lang="it">La signora del West</title>
+    <sub-title lang="it">Veleno</sub-title>
+    <desc lang="it">Molti abitanti di Colorado Springs si presentano alla clinica con gravi sintomi di avvelenamento da mercurio. La cosa induce Michaela a controllare il ruscello di montagna.</desc>
+    <credits>
+      <director>Chuck Bowman</director>
+      <director>James Keach</director>
+      <actor>Jane Seymour</actor>
+      <actor>Joe Lando</actor>
+      <actor>Shawn Toovey</actor>
+      <actor>Chad Allen</actor>
+      <actor>Orson Bean</actor>
+      <actor>Jim Knobeloch</actor>
+      <actor>William Shockley</actor>
+      <actor>Frank Collison</actor>
+      <actor>Andy Bakkum</actor>
+      <actor>Gail Strickland</actor>
+    </credits>
+    <date>1992</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Fiction</category>
+    <icon src="https://guidatv.sky.it/uuid/8aa0ebd5-f660-4d75-a6ec-3f0708a03544/cover?territory=IT&amp;md5ChecksumParam=740f98ce6ec03ccc2c08afd0b8e637f0" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20260322143100 +0000" stop="20260322152900 +0000" channel="Twenty Seven">
+    <title lang="it">La signora del west</title>
+    <sub-title lang="it">Il ciarlatano</sub-title>
+    <desc lang="it">Nella piccola cittadina arriva il grande show del Dr. Eli, ex chirurgo di guerra che ora viaggia per i territori con il suo compagno vendendo un miracoloso elisir di salute.</desc>
+    <credits>
+      <director>Chuck Bowman</director>
+      <director>James Keach</director>
+      <actor>Jane Seymour</actor>
+      <actor>Joe Lando</actor>
+      <actor>Shawn Toovey</actor>
+      <actor>Chad Allen</actor>
+      <actor>Orson Bean</actor>
+      <actor>Jim Knobeloch</actor>
+      <actor>William Shockley</actor>
+      <actor>Frank Collison</actor>
+      <actor>Andy Bakkum</actor>
+      <actor>Gail Strickland</actor>
+    </credits>
+    <date>1992</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Fiction</category>
+    <icon src="https://guidatv.sky.it/uuid/3dca01db-e5c4-4a58-8dd7-58896120a380/cover?territory=IT&amp;md5ChecksumParam=740f98ce6ec03ccc2c08afd0b8e637f0" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20260322152900 +0000" stop="20260322162500 +0000" channel="Twenty Seven">
+    <title lang="it">La casa nella prateria</title>
+    <desc lang="it">Un complesso di inferiorita' - Quando il rendimento scolastico di Mary cala inspiegabilmente, Charles, preoccupato per la figlia, la conduce da un medico.</desc>
+    <credits>
+      <director>Michael Landon</director>
+      <director>William F. Claxton</director>
+      <actor>Melissa Gilbert</actor>
+      <actor>Michael Landon</actor>
+      <actor>Karen Grassle</actor>
+      <actor>Rachel Lindsay Greenbush</actor>
+      <actor>Sidney Greenbush</actor>
+      <actor>Melissa Sue Anderson</actor>
+      <actor>Katherine Macgregor</actor>
+      <actor>Richard Bull</actor>
+      <actor>Carl Pitti</actor>
+      <actor>Jack Lilley</actor>
+    </credits>
+    <date>1974</date>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/18b1ccd1-f7d7-46e4-af13-485f9e5024d1/cover?territory=IT&amp;md5ChecksumParam=15a176afaf86266d802c7293269c42de" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S1 E26</episode-num>
+  </programme>
+  <programme start="20260322162500 +0000" stop="20260322172500 +0000" channel="Twenty Seven">
+    <title lang="it">La casa nella prateria</title>
+    <desc lang="it">Il migliore amico di Laura - Laura fa amicizia con Sprague, un uomo con cui condivide la passione per la pesca. La bambina non sa che Sprague e' il nuovo banchiere di Walnut Grove.</desc>
+    <credits>
+      <director>Michael Landon</director>
+      <director>William F. Claxton</director>
+      <actor>Melissa Gilbert</actor>
+      <actor>Michael Landon</actor>
+      <actor>Karen Grassle</actor>
+      <actor>Rachel Lindsay Greenbush</actor>
+      <actor>Sidney Greenbush</actor>
+      <actor>Melissa Sue Anderson</actor>
+      <actor>Katherine Macgregor</actor>
+      <actor>Richard Bull</actor>
+      <actor>Carl Pitti</actor>
+      <actor>Jack Lilley</actor>
+    </credits>
+    <date>1974</date>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/77328f78-f615-4377-a3c1-99ee7253bf6d/cover?territory=IT&amp;md5ChecksumParam=15a176afaf86266d802c7293269c42de" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S1 E27</episode-num>
+  </programme>
+  <programme start="20260322172500 +0000" stop="20260322182500 +0000" channel="Twenty Seven">
+    <title lang="it">La casa nella prateria</title>
+    <desc lang="it">Partita - Gli abitanti di Walnut Grove organizzano una partita di baseball alla quale chiede di poter prendere parte anche Sleepy Eye Green.</desc>
+    <credits>
+      <director>Michael Landon</director>
+      <director>William F. Claxton</director>
+      <actor>Melissa Gilbert</actor>
+      <actor>Michael Landon</actor>
+      <actor>Karen Grassle</actor>
+      <actor>Rachel Lindsay Greenbush</actor>
+      <actor>Sidney Greenbush</actor>
+      <actor>Melissa Sue Anderson</actor>
+      <actor>Katherine Macgregor</actor>
+      <actor>Richard Bull</actor>
+      <actor>Carl Pitti</actor>
+      <actor>Jack Lilley</actor>
+    </credits>
+    <date>1974</date>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/dd3b2eed-d71a-4df3-b7d7-7feddff20e46/cover?territory=IT&amp;md5ChecksumParam=15a176afaf86266d802c7293269c42de" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S1 E28</episode-num>
+  </programme>
+  <programme start="20260322182500 +0000" stop="20260322201400 +0000" channel="Twenty Seven">
+    <title lang="it">Walker Texas Ranger</title>
+    <sub-title lang="it">Cowboy</sub-title>
+    <desc lang="it">Alex ha deciso di vagliare l'offerta di lavoro di uno studio legale, ma prima del colloquio, viene rapita assieme ad un magnate del petrolio. Walker si mette sulle loro tracce.</desc>
+    <credits>
+      <director>Michael Preece</director>
+      <director>Tony Mordente</director>
+      <actor>Chuck Norris</actor>
+      <actor>Sheree J. Wilson</actor>
+      <actor>Clarence Gilyard Jr.</actor>
+      <actor>Gailard Sartain</actor>
+      <actor>Floyd Red Crow Westerman</actor>
+      <actor>James Drury</actor>
+      <actor>Noble Willingham</actor>
+      <actor>Robert Wall</actor>
+    </credits>
+    <date>1994</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Fiction</category>
+    <icon src="https://guidatv.sky.it/uuid/0e31f5d4-9791-490b-8187-f96f62c2c4d0/cover?territory=IT&amp;md5ChecksumParam=229e2c24cd62b6b4833729d7e9d53654" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E15</episode-num>
+  </programme>
+  <programme start="20260322201400 +0000" stop="20260322224100 +0000" channel="Twenty Seven">
+    <title lang="it">Saranno famosi (A.Parker)</title>
+    <desc lang="it">Benvenuti alla High School of Performing Arts di New York dove si svolgono le audizioni di giovani aspiranti artisti. Il talento incontra la disciplina. Regia di A. Parker; USA 1980.</desc>
+    <date>1980</date>
+    <category lang="it">Film</category>
+    <category lang="it">Commedia</category>
+    <icon src="https://guidatv.sky.it/uuid/f6f9176b-c3d6-4f3b-9804-0991d068bb35/cover?territory=IT&amp;md5ChecksumParam=d36c48f9e2916a49d5f8955f3e2f95ab" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20260322224100 +0000" stop="20260323001600 +0000" channel="Twenty Seven">
+    <title lang="it">L'aereo più pazzo del mondo</title>
+    <desc lang="it">Cult del cinema demenziale con Leslie Nielsen. Un tassista si imbarca sul volo dove l'ex fidanzata lavora come hostess per riconquistarla. Quando i motori vanno in avaria, inizia il delirio.</desc>
+    <credits>
+      <director>Jim Abrahams</director>
+      <director>David Zucker</director>
+      <actor>Robert Hays</actor>
+      <actor>Julie Hagerty</actor>
+      <actor>Lloyd Bridges</actor>
+      <actor>Leslie Nielsen</actor>
+      <actor>Kareem Abdul-Jabbar</actor>
+      <actor>Peter Graves</actor>
+      <actor>Lorna Patterson</actor>
+      <actor>Robert Stack</actor>
+      <producer>Jim Abrahams</producer>
+      <producer>David Zucker</producer>
+    </credits>
+    <date>1980</date>
+    <category lang="it">Film</category>
+    <category lang="it">Commedia</category>
+    <icon src="https://guidatv.sky.it/uuid/93fe6aba-1a64-4eed-a45c-b20d34e17256/cover?territory=IT&amp;md5ChecksumParam=3a0d0611ccc603730c199bf6a8457e2a" />
+    <country lang="it">USA</country>
+  </programme>
+  <programme start="20260323001600 +0000" stop="20260323010600 +0000" channel="Twenty Seven">
+    <title lang="it">Walker Texas Ranger</title>
+    <sub-title lang="it">Cowboy</sub-title>
+    <desc lang="it">Alex ha deciso di vagliare l'offerta di lavoro di uno studio legale, ma prima del colloquio, viene rapita assieme ad un magnate del petrolio. Walker si mette sulle loro tracce.</desc>
+    <credits>
+      <director>Michael Preece</director>
+      <director>Tony Mordente</director>
+      <actor>Chuck Norris</actor>
+      <actor>Sheree J. Wilson</actor>
+      <actor>Clarence Gilyard Jr.</actor>
+      <actor>Gailard Sartain</actor>
+      <actor>Floyd Red Crow Westerman</actor>
+      <actor>James Drury</actor>
+      <actor>Noble Willingham</actor>
+      <actor>Robert Wall</actor>
+    </credits>
+    <date>1994</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Fiction</category>
+    <icon src="https://guidatv.sky.it/uuid/0e31f5d4-9791-490b-8187-f96f62c2c4d0/cover?territory=IT&amp;md5ChecksumParam=229e2c24cd62b6b4833729d7e9d53654" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E15</episode-num>
+  </programme>
+  <programme start="20260323010600 +0000" stop="20260323015100 +0000" channel="Twenty Seven">
+    <title lang="it">Walker Texas Ranger</title>
+    <sub-title lang="it">Mai fidarsi ..</sub-title>
+    <desc lang="it">Quando Trivette consegna il denaro sequestrato a dei falsari, mancano 5 milioni. Viene quindi sospeso dal servizio, ma Walker e' convinto della sua innocenza.</desc>
+    <credits>
+      <director>Michael Preece</director>
+      <director>Tony Mordente</director>
+      <actor>Chuck Norris</actor>
+      <actor>Sheree J. Wilson</actor>
+      <actor>Clarence Gilyard Jr.</actor>
+      <actor>Gailard Sartain</actor>
+      <actor>Floyd Red Crow Westerman</actor>
+      <actor>James Drury</actor>
+      <actor>Noble Willingham</actor>
+      <actor>Robert Wall</actor>
+    </credits>
+    <date>1994</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Fiction</category>
+    <icon src="https://guidatv.sky.it/uuid/f9aab8f1-af28-4059-bde7-99e1d22f1c7c/cover?territory=IT&amp;md5ChecksumParam=229e2c24cd62b6b4833729d7e9d53654" />
+    <country lang="it">USA</country>
+    <episode-num system="onscreen">S2 E16</episode-num>
+  </programme>
+  <programme start="20260323015100 +0000" stop="20260323021500 +0000" channel="Twenty Seven">
+    <title lang="it">Due per tre</title>
+    <sub-title lang="it">Tatua che ti passa</sub-title>
+    <desc lang="it">Nicky deve fare un tema dal titolo: "i tuoi genitori sono di ampie vedute?". Per metterli alla prova, d'accordo con i fratelli, escogita un piano.</desc>
+    <credits>
+      <director>Roberto Valentini</director>
+      <actor>Johnny Dorelli</actor>
+      <actor>Loretta Goggi</actor>
+      <actor>Marta Forghieri</actor>
+      <actor>Alessandro Sacco</actor>
+      <actor>Margherita Lombardo</actor>
+      <actor>Sabrina Marciano</actor>
+      <actor>Rosanna Ruffini</actor>
+    </credits>
+    <date>1998</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Sit Com</category>
+    <icon src="https://guidatv.sky.it/uuid/2e487293-89a7-4538-88db-6ca99027c166/cover?territory=IT&amp;md5ChecksumParam=976eaeafa73692d7d77626228996e1a4" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S3 E17</episode-num>
+  </programme>
+  <programme start="20260323021500 +0000" stop="20260323023800 +0000" channel="Twenty Seven">
+    <title lang="it">Due per tre</title>
+    <sub-title lang="it">Sorella Miriam</sub-title>
+    <desc lang="it">La prospettiva di avere Miriam, una zia di Giorgio divenuta suora missionaria in Africa, come ospite, getta la famiglia Antonioli nello scompiglio.</desc>
+    <credits>
+      <director>Roberto Valentini</director>
+      <actor>Johnny Dorelli</actor>
+      <actor>Loretta Goggi</actor>
+      <actor>Marta Forghieri</actor>
+      <actor>Alessandro Sacco</actor>
+      <actor>Margherita Lombardo</actor>
+      <actor>Sabrina Marciano</actor>
+      <actor>Rosanna Ruffini</actor>
+    </credits>
+    <date>1998</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Sit Com</category>
+    <icon src="https://guidatv.sky.it/uuid/c7a9bfc8-3e4a-4ab4-bc7e-30396baa02ee/cover?territory=IT&amp;md5ChecksumParam=976eaeafa73692d7d77626228996e1a4" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S3 E18</episode-num>
+  </programme>
+  <programme start="20260323023800 +0000" stop="20260323035900 +0000" channel="Twenty Seven">
+    <title lang="it">Caro Maestro</title>
+    <desc lang="it">S1 Ep7 - Marco Columbro e' Stefano, un conducente d'autobus che ottiene una supplenza in una una scuola elementare. Li', a Forte dei Marmi, la sua vita non sara' piu' la stessa.</desc>
+    <credits>
+      <director>Rossella Izzo</director>
+      <actor>Marco Columbro</actor>
+      <actor>Elena Sofia Ricci</actor>
+      <actor>Sandra Mondaini</actor>
+      <actor>Franca Valeri</actor>
+      <actor>Francesca Reggiani</actor>
+      <actor>Nicola Pistoia</actor>
+      <actor>Pino Colizzi</actor>
+      <actor>Roberto Alpi</actor>
+    </credits>
+    <date>1995</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Miniserie</category>
+    <icon src="https://guidatv.sky.it/uuid/cc46fc76-a726-4cbe-a87d-80404be60553/cover?territory=IT&amp;md5ChecksumParam=e5a707183a3d2301e34769d476e5ef86" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20260323035900 +0000" stop="20260323043300 +0000" channel="Twenty Seven">
+    <title lang="it">Camera Cafe'</title>
+    <sub-title lang="it">Camera cafe'</sub-title>
+    <desc lang="it">Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe' tra colleghi, superiori e buffe vicende quotidiane.</desc>
+    <credits>
+      <director>Fabrizio Gasparetto</director>
+      <actor>Luca Bizzarri</actor>
+      <actor>Paolo Kessisoglu</actor>
+      <actor>Roberto Accornero</actor>
+      <actor>Desy Luccini</actor>
+      <actor>Paolo Bufalino</actor>
+      <actor>Riccardo Magherini</actor>
+      <actor>Sabrina Corabi</actor>
+      <actor>Roberta Nanni</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Sit Com</category>
+    <icon src="https://guidatv.sky.it/uuid/cbb868b4-05ef-4d0f-99f5-5133d597d7c4/cover?territory=IT&amp;md5ChecksumParam=059a26643629e59c67651bef59bf914f" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S6 E29</episode-num>
+  </programme>
+  <programme start="20260323043300 +0000" stop="20260323043900 +0000" channel="Twenty Seven">
+    <title lang="it">Camera Cafe'</title>
+    <sub-title lang="it">Il tecnico dell'allarme</sub-title>
+    <desc lang="it">Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu.</desc>
+    <credits>
+      <actor>Luca Bizzarri</actor>
+      <actor>Paolo Kessisoglu</actor>
+      <actor>Alessandro Sampaoli</actor>
+      <actor>Debora Villa</actor>
+      <actor>Renato Liprandi</actor>
+      <actor>Claudia Barbieri</actor>
+      <actor>Roberta Garzia</actor>
+      <actor>Sabrina Corabi</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="it">Intrattenimento</category>
+    <category lang="it">Sit Com</category>
+    <icon src="https://guidatv.sky.it/uuid/93c57328-5783-4288-a500-e6b9727e018d/cover?territory=IT&amp;md5ChecksumParam=981fb76e746fdfa86c85d1d934cb772e" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S5 E14</episode-num>
   </programme>
   </tv>
