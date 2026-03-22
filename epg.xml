@@ -3,6 +3,10 @@
     <display-name lang="it">CNN International</display-name>
     <url>http://www.guidatv.sky.it</url>
   </channel>
+  <channel id="EuroSport">
+    <display-name lang="de">EuroSport</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
   <channel id="Eurosport 2">
     <display-name lang="de">Eurosport 2</display-name>
     <url>http://www.tv.blue.ch</url>
@@ -427,6 +431,276 @@
     <category lang="it">Altri Programmi</category>
     <category lang="it">Altri</category>
     <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322040000 +0000" channel="EuroSport">
+    <title lang="it">UCI WorldTour: Uomini: Milano Sanremo</title>
+    <desc lang="it">Tutte le gare del UCI WorldTour, il ciclismo su strada maschile d'élite.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23581551bdh8ad_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322050000 +0000" channel="EuroSport">
+    <title lang="it">FIS Salto con gli sci Coppa del Mondo: Vikersund - uomini HS240</title>
+    <desc lang="it">Segui la gara di salto con gli sci valevole per la Coppa del Mondo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p488856bdh8ae_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322060000 +0000" channel="EuroSport">
+    <title lang="it">World Snooker Tour</title>
+    <sub-title lang="it">World Open - Semifinali</sub-title>
+    <desc lang="it">Dall'11 al 18 gennaio all'Alexandra Palace di Londra, in Inghilterra, va in scena la 52esima edizione del Masters, torneo con i primi 16 giocatori del ranking mondiale.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p28335514bdh8aa_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260322060000 +0000" stop="20260322090000 +0000" channel="EuroSport">
+    <title lang="it">World Snooker Tour: World Open - Finale</title>
+    <desc lang="it">Tutte le azioni del World Snooker Tour.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24829502bdh8aa_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322093000 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Lillehammer: Discesa femminile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260322093000 +0000" stop="20260322110000 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Lillehammer: Super G femminile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260322110000 +0000" stop="20260322123000 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Lillehammer: Super G maschile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260322123000 +0000" stop="20260322143000 +0000" channel="EuroSport">
+    <title lang="it">World Snooker Tour: World Open - Finale</title>
+    <desc lang="it">Tutte le azioni del World Snooker Tour.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24829502bdh8aa_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260322143000 +0000" stop="20260322151500 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Lillehammer: Super G maschile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260322151500 +0000" stop="20260322161500 +0000" channel="EuroSport">
+    <title lang="it">IBU Biathlon Coppa del Mondo: Oslo - Mass start uomini</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo IBU Biathlon.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25740016bdh8ad_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260322161500 +0000" stop="20260322175500 +0000" channel="EuroSport">
+    <title lang="it">FIS Salto con gli sci Coppa del Mondo</title>
+    <sub-title lang="it">Vikersund - HS 240 uomini</sub-title>
+    <desc lang="it">Da Lillehammer alle finali di Planica, passando per il Gross-Titlis-Schanze e i Quattro Trampolini, occhi puntati sulla 48ª stagione di Coppa del Mondo di salto.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9833214ih10af_Iconic_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260322175500 +0000" stop="20260322182000 +0000" channel="EuroSport">
+    <title lang="it">IBU Biathlon Coppa del Mondo: Oslo - Mass start donne</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo IBU Biathlon.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25740016bdh8ad_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260322182000 +0000" stop="20260322193000 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci di fondo: Lake Placid - 20 km mass start TL donne</title>
+    <desc lang="it">Segui la gara di sci di fondo valevole per la Coppa del Mondo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9623958bdh10ad_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260322193000 +0000" stop="20260322200000 +0000" channel="EuroSport">
+    <title lang="it">World Snooker Tour: World Open - Finale</title>
+    <desc lang="it">Tutte le azioni del World Snooker Tour.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24829502bdh8aa_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260322200000 +0000" stop="20260322210000 +0000" channel="EuroSport">
+    <title lang="it">Equitazione: Parigi - Saut Hermes</title>
+    <desc lang="it">Salto ostacoli ----- Parigi.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8199266bdh10am_Backdrop_W660.webp" />
+    <country lang="it">NL</country>
+  </programme>
+  <programme start="20260322210000 +0000" stop="20260322220000 +0000" channel="EuroSport">
+    <title lang="it">Equitazione: Parigi - Saut Hermes</title>
+    <desc lang="it">Salto ostacoli ----- Parigi.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8199266bdh10am_Backdrop_W660.webp" />
+    <country lang="it">NL</country>
+  </programme>
+  <programme start="20260322220000 +0000" stop="20260322230000 +0000" channel="EuroSport">
+    <title lang="it">Equitazione: Parigi - Saut Hermes</title>
+    <desc lang="it">Salto ostacoli ----- Parigi.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8199266bdh10am_Backdrop_W660.webp" />
+    <country lang="it">NL</country>
+  </programme>
+  <programme start="20260322230000 +0000" stop="20260323003000 +0000" channel="EuroSport">
+    <title lang="it">World Snooker Tour: World Open - Finale</title>
+    <desc lang="it">Tutte le azioni del World Snooker Tour.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24829502bdh8aa_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260323003000 +0000" stop="20260323011500 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Lillehammer: Super G femminile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260323011500 +0000" stop="20260323020000 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Lillehammer: Super G maschile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260323020000 +0000" stop="20260323033000 +0000" channel="EuroSport">
+    <title lang="it">FIS Salto con gli sci Coppa del Mondo</title>
+    <sub-title lang="it">Vikersund - HS 240 uomini</sub-title>
+    <desc lang="it">Da Lillehammer alle finali di Planica, passando per il Gross-Titlis-Schanze e i Quattro Trampolini, occhi puntati sulla 48ª stagione di Coppa del Mondo di salto.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9833214ih10af_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260323033000 +0000" stop="20260323050000 +0000" channel="EuroSport">
+    <title lang="it">World Snooker Tour: World Open - Finale</title>
+    <desc lang="it">Tutte le azioni del World Snooker Tour.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24829502bdh8aa_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260323050000 +0000" stop="20260323054500 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Lillehammer: Super G femminile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260323054500 +0000" stop="20260323063000 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Lillehammer: Super G maschile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260323063000 +0000" stop="20260323073000 +0000" channel="EuroSport">
+    <title lang="it">FIS Salto con gli sci Coppa del Mondo: Vikersund - uomini HS240</title>
+    <desc lang="it">Segui la gara di salto con gli sci valevole per la Coppa del Mondo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p488856bdh8ae_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260323073000 +0000" stop="20260323090000 +0000" channel="EuroSport">
+    <title lang="it">FIS Salto con gli sci Coppa del Mondo</title>
+    <sub-title lang="it">Vikersund - HS 240 uomini</sub-title>
+    <desc lang="it">Da Lillehammer alle finali di Planica, passando per il Gross-Titlis-Schanze e i Quattro Trampolini, occhi puntati sulla 48ª stagione di Coppa del Mondo di salto.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9833214ih10af_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260323090000 +0000" stop="20260323110000 +0000" channel="EuroSport">
+    <title lang="it">Campionati mondiali di Curling femminile 2026</title>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32559856eh8aa_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260323110000 +0000" stop="20260323130000 +0000" channel="EuroSport">
+    <title lang="it">Campionati mondiali di Curling femminile 2026</title>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p32559856eh8aa_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260323130000 +0000" stop="20260323134500 +0000" channel="EuroSport">
+    <title lang="it">IBU Biathlon Coppa del Mondo: Oslo - Mass start donne</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo IBU Biathlon.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25740016bdh8ad_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260323134500 +0000" stop="20260323143000 +0000" channel="EuroSport">
+    <title lang="it">IBU Biathlon Coppa del Mondo: Oslo - Mass start uomini</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo IBU Biathlon.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25740016bdh8ad_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260323143000 +0000" stop="20260323153000 +0000" channel="EuroSport">
+    <title lang="it">FIS Salto con gli sci Coppa del Mondo</title>
+    <sub-title lang="it">Vikersund - HS 240 uomini</sub-title>
+    <desc lang="it">Da Lillehammer alle finali di Planica, passando per il Gross-Titlis-Schanze e i Quattro Trampolini, occhi puntati sulla 48ª stagione di Coppa del Mondo di salto.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9833214ih10af_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260323153000 +0000" stop="20260323160000 +0000" channel="EuroSport">
+    <title lang="it">FIS Sci di fondo: Lake Placid - Sprint TL</title>
+    <desc lang="it">Segui la gara di sci di fondo valevole per la Coppa del Mondo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9623958bdh10ad_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260323160000 +0000" stop="20260323170000 +0000" channel="EuroSport">
+    <title lang="it">Equitazione: Parigi - Saut Hermes</title>
+    <desc lang="it">Salto ostacoli ----- Parigi.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8199266bdh10am_Backdrop_W660.webp" />
+    <country lang="it">NL</country>
+  </programme>
+  <programme start="20260323170000 +0000" stop="20260323180000 +0000" channel="EuroSport">
+    <title lang="it">Equitazione: Parigi - Saut Hermes</title>
+    <desc lang="it">Salto ostacoli ----- Parigi.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8199266bdh10am_Backdrop_W660.webp" />
+    <country lang="it">NL</country>
+  </programme>
+  <programme start="20260323180000 +0000" stop="20260323190000 +0000" channel="EuroSport">
+    <title lang="it">Equitazione: Parigi - Saut Hermes</title>
+    <desc lang="it">Salto ostacoli ----- Parigi.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8199266bdh10am_Backdrop_W660.webp" />
+    <country lang="it">NL</country>
+  </programme>
+  <programme start="20260323190000 +0000" stop="20260323200000 +0000" channel="EuroSport">
+    <title lang="it">UCI WorldTour: Uomini: Volta a Catalunya - 1a tappa</title>
+    <desc lang="it">Sette frazioni e tre arrivi in salita con finale classico sul circuito iridato di Montjuïc. Via alla 106a edizione della Volta Catalunya, la quarta corsa a tappe più antica del mondo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9085250bdh8ab_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260323200000 +0000" stop="20260323213000 +0000" channel="EuroSport">
+    <title lang="it">FIS Salto con gli sci Coppa del Mondo</title>
+    <sub-title lang="it">Vikersund - HS 240 uomini</sub-title>
+    <desc lang="it">Da Lillehammer alle finali di Planica, passando per il Gross-Titlis-Schanze e i Quattro Trampolini, occhi puntati sulla 48ª stagione di Coppa del Mondo di salto.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9833214ih10af_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260323213000 +0000" stop="20260323230000 +0000" channel="EuroSport">
+    <title lang="it">UCI WorldTour: Uomini: Volta a Catalunya - 1a tappa</title>
+    <desc lang="it">Sette frazioni e tre arrivi in salita con finale classico sul circuito iridato di Montjuïc. Via alla 106a edizione della Volta Catalunya, la quarta corsa a tappe più antica del mondo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9085250bdh8ab_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260323230000 +0000" stop="20260324003000 +0000" channel="EuroSport">
+    <title lang="it">World Snooker Tour: Scottish Open - Finale</title>
+    <desc lang="it">Tutte le azioni del World Snooker Tour.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24829502bdh8aa_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260324003000 +0000" stop="20260324020000 +0000" channel="EuroSport">
+    <title lang="it">FIS Salto con gli sci Coppa del Mondo</title>
+    <sub-title lang="it">Vikersund - HS 240 uomini</sub-title>
+    <desc lang="it">Da Lillehammer alle finali di Planica, passando per il Gross-Titlis-Schanze e i Quattro Trampolini, occhi puntati sulla 48ª stagione di Coppa del Mondo di salto.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9833214ih10af_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260324020000 +0000" stop="20260324033000 +0000" channel="EuroSport">
+    <title lang="it">UCI WorldTour: Uomini: Volta a Catalunya - 1a tappa</title>
+    <desc lang="it">Sette frazioni e tre arrivi in salita con finale classico sul circuito iridato di Montjuïc. Via alla 106a edizione della Volta Catalunya, la quarta corsa a tappe più antica del mondo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9085250bdh8ab_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260324033000 +0000" stop="20260324050000 +0000" channel="EuroSport">
+    <title lang="it">World Snooker Tour: Scottish Open - Finale</title>
+    <desc lang="it">Tutte le azioni del World Snooker Tour.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24829502bdh8aa_Backdrop_W660.webp" />
   </programme>
   <programme start="20260322033000 +0000" stop="20260322040000 +0000" channel="Eurosport 2">
     <title lang="it">FIS Sci alpino Coppa del Mondo: Lillehammer: Discesa femminile</title>
