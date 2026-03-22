@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com"><channel id="Discovery Channel">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com"><channel id="CNN International">
+    <display-name lang="it">CNN International</display-name>
+    <url>http://www.guidatv.sky.it</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="de">Eurosport 2</display-name>
+    <url>http://www.tv.blue.ch</url>
+  </channel>
+  <channel id="Discovery Channel">
     <display-name lang="de">Discovery Channel</display-name>
     <url>http://www.tv.blue.ch</url>
   </channel>
@@ -7,6 +15,686 @@
     <display-name lang="it">Twenty Seven</display-name>
     <url>http://www.guidatv.sky.it</url>
   </channel>
+  <programme start="20260322050000 +0000" stop="20260322053000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom</title>
+    <desc lang="it">S5 Ep128 - Sunday, March 22, 2026 1am ET - Live context and clarity to the day's top stories from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322053000 +0000" stop="20260322060000 +0000" channel="CNN International">
+    <title lang="it">Inside Africa</title>
+    <desc lang="it">S26 Ep721 - The Ebony Project: Cameroon - The Ebony Project is an initiative that has revealed a hidden ecological link in Cameroon's forests.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322060000 +0000" stop="20260322063000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom</title>
+    <desc lang="it">S5 Ep232 - Sunday, March 22, 2026 2am ET - Live context and clarity to the day's top stories from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322063000 +0000" stop="20260322070000 +0000" channel="CNN International">
+    <title lang="it">Connecting Africa</title>
+    <desc lang="it">S6 Ep3 - March 2026 - We profile the people, projects and companies revolutionizing African business and bringing the continent together.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322080000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom</title>
+    <desc lang="it">S5 Ep336 - Sunday, March 22, 2026 3am ET - Live context and clarity to the day's top stories from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322090000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom</title>
+    <desc lang="it">S5 Ep24 - Sunday, March 22, 2026 4am ET - Live context and clarity to the day's top stories from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322100000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom</title>
+    <desc lang="it">S5 Ep128 - Sunday, March 22, 2026 5am ET - Live context and clarity to the day's top stories from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322100000 +0000" stop="20260322110000 +0000" channel="CNN International">
+    <title lang="it">CNN This Morning Weekend</title>
+    <desc lang="it">S26 Ep47 - Sunday, March 22, 2026 6AM - Start your day with Victor Blackwell bringing you the latest headlines and analysis.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322110000 +0000" stop="20260322120000 +0000" channel="CNN International">
+    <title lang="it">CNN This Morning Weekend</title>
+    <desc lang="it">S26 Ep48 - Sunday, March 22, 2026 7AM - Start your day with Victor Blackwell bringing you the latest headlines and analysis.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322120000 +0000" stop="20260322130000 +0000" channel="CNN International">
+    <title lang="it">Inside Politics With Manu Raju</title>
+    <desc lang="it">S26 Ep12 - Sunday, March 22, 2026 8AM - Manu Raju leads an in-depth conversation on the week's most important political storylines, with a diverse set of analysts and news-making interviews.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322130000 +0000" stop="20260322140000 +0000" channel="CNN International">
+    <title lang="it">State of the Union with Jake Tapper and Dana Bash</title>
+    <desc lang="it">S26 Ep12 - Sunday, March 22, 2026 9AM - ... Tapper and Dana Bash. Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322140000 +0000" stop="20260322150000 +0000" channel="CNN International">
+    <title lang="it">Fareed Zakaria GPS</title>
+    <desc lang="it">S26 Ep12 - Sunday, March 22, 2026 10AM - Fareed Zakaria brings viewers his insights and analysis, and interviews world leaders.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322150000 +0000" stop="20260322160000 +0000" channel="CNN International">
+    <title lang="it">Inside Politics With Manu Raju</title>
+    <desc lang="it">S26 Ep12 - Sunday, March 22, 2026 8AM - Manu Raju leads an in-depth conversation on the week's most important political storylines, with a diverse set of analysts and news-making interviews.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322160000 +0000" stop="20260322163000 +0000" channel="CNN International">
+    <title lang="it">World Sport</title>
+    <desc lang="it">S5 Ep546 - Sunday, March 22, 2026 12pm ET - Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322163000 +0000" stop="20260322170000 +0000" channel="CNN International">
+    <title lang="it">Inside Africa</title>
+    <desc lang="it">S26 Ep721 - The Ebony Project: Cameroon - The Ebony Project is an initiative that has revealed a hidden ecological link in Cameroon's forests.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322170000 +0000" stop="20260322173000 +0000" channel="CNN International">
+    <title lang="it">African Voices Playmakers</title>
+    <desc lang="it">S4 Ep2 - March 2026 - African Voices Playmakers brings you the stories of athletes and sporting legends from the continent making an impact globally.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322173000 +0000" stop="20260322180000 +0000" channel="CNN International">
+    <title lang="it">Connecting Africa</title>
+    <desc lang="it">S6 Ep3 - March 2026 - We profile the people, projects and companies revolutionizing African business and bringing the continent together.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322180000 +0000" stop="20260322200000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom Sunday</title>
+    <desc lang="it">S26 Ep78 - Sunday, March 22, 2026 2PM - Updates of the latest news from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322200000 +0000" stop="20260322210000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom Sunday</title>
+    <desc lang="it">S26 Ep80 - Sunday, March 22, 2026 4PM - Updates of the latest news from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322210000 +0000" stop="20260322213000 +0000" channel="CNN International">
+    <title lang="it">World Sport</title>
+    <desc lang="it">S5 Ep650 - Sunday, March 22, 2026 5pm ET - Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322213000 +0000" stop="20260322220000 +0000" channel="CNN International">
+    <title lang="it">Mission Tiger</title>
+    <desc lang="it">S1 Ep1 - Mission Tiger.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322220000 +0000" stop="20260322230000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom Sunday</title>
+    <desc lang="it">S26 Ep82 - Sunday, March 22, 2026 6PM - Updates of the latest news from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322230000 +0000" stop="20260323000000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom Sunday</title>
+    <desc lang="it">S26 Ep83 - Sunday, March 22, 2026 7PM - Updates of the latest news from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323000000 +0000" stop="20260323010000 +0000" channel="CNN International">
+    <title lang="it">State of the Union with Jake Tapper and Dana Bash</title>
+    <desc lang="it">S26 Ep12 - Sunday, March 22, 2026 9AM - ... and Dana Bash. Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323010000 +0000" stop="20260323020000 +0000" channel="CNN International">
+    <title lang="it">Fareed Zakaria GPS</title>
+    <desc lang="it">S26 Ep12 - Sunday, March 22, 2026 10AM - Fareed Zakaria brings viewers his insights and analysis, and interviews world leaders.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323020000 +0000" stop="20260323023000 +0000" channel="CNN International">
+    <title lang="it">African Voices Playmakers</title>
+    <desc lang="it">S4 Ep2 - March 2026 - African Voices Playmakers brings you the stories of athletes and sporting legends from the continent making an impact globally.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323023000 +0000" stop="20260323024500 +0000" channel="CNN International">
+    <title lang="it">Marketplace Europe</title>
+    <desc lang="it">S4 Ep55 - Episode 55 - Every month, we delve into how innovation and technology are driving Europe's great recovery, speaking to top CEOs and exploring new trends.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323024500 +0000" stop="20260323030000 +0000" channel="CNN International">
+    <title lang="it">Marketplace Asia</title>
+    <desc lang="it">S4 Ep54 - Episode 54 - Marketplace Asia covers the macro business trends impacting the region.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323030000 +0000" stop="20260323033000 +0000" channel="CNN International">
+    <title lang="it">Seasons</title>
+    <desc lang="it">S1 Ep1 - Japan's Cultural Imagination - From psychedelic pop art to centuries-old weaving traditions, Japan's cultural imagination captivates.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323033000 +0000" stop="20260323040000 +0000" channel="CNN International">
+    <title lang="it">Inside Africa</title>
+    <desc lang="it">S26 Ep721 - The Ebony Project: Cameroon - The Ebony Project is an initiative that has revealed a hidden ecological link in Cameroon's forests.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323040000 +0000" stop="20260323050000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom</title>
+    <desc lang="it">S5 Ep24 - Monday, March 23, 2026 12am ET - Live context and clarity to the day's top stories from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323050000 +0000" stop="20260323054500 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom</title>
+    <desc lang="it">S5 Ep57 - Monday, March 23, 2026 1am ET - Live context and clarity to the day's top stories from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323054500 +0000" stop="20260323060000 +0000" channel="CNN International">
+    <title lang="it">World Sport</title>
+    <desc lang="it">S5 Ep317 - Monday, March 23, 2026 1245am ET - Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323060000 +0000" stop="20260323070000 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom</title>
+    <desc lang="it">S5 Ep289 - Monday, March 23, 2026 2am ET - Live context and clarity to the day's top stories from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323070000 +0000" stop="20260323074500 +0000" channel="CNN International">
+    <title lang="it">CNN Newsroom</title>
+    <desc lang="it">S5 Ep317 - Monday, March 23, 2026 3am ET - Live context and clarity to the day's top stories from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323074500 +0000" stop="20260323080000 +0000" channel="CNN International">
+    <title lang="it">World Sport</title>
+    <desc lang="it">S5 Ep317 - Monday, March 23, 2026 1245am ET - Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323080000 +0000" stop="20260323090000 +0000" channel="CNN International">
+    <title lang="it">The Amanpour Hour</title>
+    <desc lang="it">S26 Ep12 - Saturday, March 21, 2026 11AM - Christiane Amanpour, CNN's chief international anchor, brings valuable insight to the biggest global and domestic news stories of the week.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323090000 +0000" stop="20260323100000 +0000" channel="CNN International">
+    <title lang="it">Early Start</title>
+    <desc lang="it">S26 Ep58 - Monday, March 23, 2026 5AM - The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323100000 +0000" stop="20260323110000 +0000" channel="CNN International">
+    <title lang="it">CNN This Morning</title>
+    <desc lang="it">S26 Ep58 - Monday, March 23, 2026 6AM - Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323110000 +0000" stop="20260323120000 +0000" channel="CNN International">
+    <title lang="it">CNN News Central</title>
+    <desc lang="it">S26 Ep172 - Monday, March 23, 2026 7am ET - Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323120000 +0000" stop="20260323123000 +0000" channel="CNN International">
+    <title lang="it">CNN News Central</title>
+    <desc lang="it">S26 Ep58 - Monday, March 23, 2026 8am ET - Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323123000 +0000" stop="20260323130000 +0000" channel="CNN International">
+    <title lang="it">World Sport</title>
+    <desc lang="it">S5 Ep58 - Monday, March 23, 2026 830am ET - Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323130000 +0000" stop="20260323134500 +0000" channel="CNN International">
+    <title lang="it">Connect the World</title>
+    <desc lang="it">S5 Ep58 - Monday, March 23, 2026 9am ET - Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323134500 +0000" stop="20260323140000 +0000" channel="CNN International">
+    <title lang="it">World Sport</title>
+    <desc lang="it">S5 Ep58 - Monday, March 23, 2026 945am ET - Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323140000 +0000" stop="20260323150000 +0000" channel="CNN International">
+    <title lang="it">Connect the World</title>
+    <desc lang="it">S5 Ep319 - Monday, March 23, 2026 10am ET - Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323150000 +0000" stop="20260323160000 +0000" channel="CNN International">
+    <title lang="it">One World</title>
+    <desc lang="it">S5 Ep58 - Monday, March 23, 2026 11am ET - Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323160000 +0000" stop="20260323164500 +0000" channel="CNN International">
+    <title lang="it">One World</title>
+    <desc lang="it">S5 Ep58 - Monday, March 23, 2026 12pm ET - Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323164500 +0000" stop="20260323170000 +0000" channel="CNN International">
+    <title lang="it">African Voices Playmakers</title>
+    <desc lang="it">S1 Ep3 - March 2026 15m A - African Voices Playmakers brings you the stories of athletes and sporting legends from the continent making an impact globally.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323170000 +0000" stop="20260323180000 +0000" channel="CNN International">
+    <title lang="it">Amanpour</title>
+    <desc lang="it">S13 Ep45 - Monday, March 23, 2026 1pm ET - Christiane Amanpour provides her powerful interview skills and provocative analysis on global stories that matter to you.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323180000 +0000" stop="20260323200000 +0000" channel="CNN International">
+    <title lang="it">Isa Soares Tonight</title>
+    <desc lang="it">S5 Ep57 - Monday, March 23, 2026 2pm ET - Isa Soares deep dives into today's top stories with insightful conversations and reports from around the world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323200000 +0000" stop="20260323210000 +0000" channel="CNN International">
+    <title lang="it">Quest Means Business</title>
+    <desc lang="it">S5 Ep57 - Monday, March 23, 2026 4pm ET - Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323210000 +0000" stop="20260323213000 +0000" channel="CNN International">
+    <title lang="it">The Lead with Jake Tapper</title>
+    <desc lang="it">S26 Ep115 - Monday, March 23, 2026 5PM - Jake Tapper covers all the day's top stories around the country and the globe, from politics to money and sports to popular culture.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323213000 +0000" stop="20260323220000 +0000" channel="CNN International">
+    <title lang="it">World Sport</title>
+    <desc lang="it">S5 Ep58 - Monday, March 23, 2026 830am ET - Daily sports show features major stories and issues making news in the world of sports.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323220000 +0000" stop="20260323230000 +0000" channel="CNN International">
+    <title lang="it">The Brief with Jim Sciutto</title>
+    <desc lang="it">S2 Ep57 - Monday, March 23, 2026 6pm ET - The best of CNN's reporting from correspondents across the world, to guide global audiences through the fast-paced news cycle with insight, analysis and hard-hitting interviews.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260323230000 +0000" stop="20260324000000 +0000" channel="CNN International">
+    <title lang="it">Erin Burnett OutFront</title>
+    <desc lang="it">S26 Ep58 - Monday, March 23, 2026 7PM - Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260324000000 +0000" stop="20260324010000 +0000" channel="CNN International">
+    <title lang="it">Anderson Cooper 360</title>
+    <desc lang="it">S26 Ep58 - Monday, March 23, 2026 8PM - Anderson Cooper takes you beyond the headlines with in-depth reporting and investigations.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260324010000 +0000" stop="20260324020000 +0000" channel="CNN International">
+    <title lang="it">The Source with Kaitlan Collins</title>
+    <desc lang="it">S26 Ep58 - Monday, March 23, 2026 9PM - Kaitlan Collins goes straight to the source for the best reporting on the day's biggest stories.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260324020000 +0000" stop="20260324030000 +0000" channel="CNN International">
+    <title lang="it">CNN NewsNight</title>
+    <desc lang="it">S26 Ep58 - Monday, March 23, 2026 10PM - Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260324030000 +0000" stop="20260324040000 +0000" channel="CNN International">
+    <title lang="it">Laura Coates Live</title>
+    <desc lang="it">S26 Ep58 - Monday, March 23, 2026 11PM - Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri</category>
+    <icon src="https://guidatv.sky.it/uuid/News_Cover_HavWCIHQw.png" />
+  </programme>
+  <programme start="20260322033000 +0000" stop="20260322040000 +0000" channel="Eurosport 2">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Lillehammer: Discesa femminile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322043000 +0000" channel="Eurosport 2">
+    <title lang="it">IBU Biathlon Coppa del Mondo: Oslo - Inseguimento uomini</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo IBU Biathlon.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25740016bdh8ad_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260322043000 +0000" stop="20260322050000 +0000" channel="Eurosport 2">
+    <title lang="it">IBU Biathlon Coppa del Mondo: Oslo - Inseguimento donne</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo IBU Biathlon.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25740016bdh8ad_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322060000 +0000" channel="Eurosport 2">
+    <title lang="it">UCI WorldTour: Donne: Sanremo Women</title>
+    <desc lang="it">Tutte le gare del UCI Women's WorldTour, il ciclismo su strada femminile d'élite.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26272741bdh10ac_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260322060000 +0000" stop="20260322064500 +0000" channel="Eurosport 2">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Lillehammer: Discesa maschile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260322064500 +0000" stop="20260322072000 +0000" channel="Eurosport 2">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Lillehammer: Discesa femminile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260322072000 +0000" stop="20260322082000 +0000" channel="Eurosport 2">
+    <title lang="it">Formula E</title>
+    <desc lang="it">Formula E.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p12222467bdh8ac_Backdrop_W660.webp" />
+    <country lang="it">GB</country>
+    <country lang="it">ES</country>
+  </programme>
+  <programme start="20260322082000 +0000" stop="20260322094000 +0000" channel="Eurosport 2">
+    <title lang="it">FIS Salto con gli sci Coppa del Mondo: Vikersund - Donne HS240</title>
+    <desc lang="it">Segui la gara di salto con gli sci valevole per la Coppa del Mondo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p488856bdh8ae_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260322094000 +0000" stop="20260322110000 +0000" channel="Eurosport 2">
+    <title lang="it">UCI WorldTour: Uomini: Milano Sanremo</title>
+    <desc lang="it">Tutte le gare del UCI WorldTour, il ciclismo su strada maschile d'élite.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23581551bdh8ad_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260322110000 +0000" stop="20260322120000 +0000" channel="Eurosport 2">
+    <title lang="it">UCI WorldTour: Donne: Sanremo Women</title>
+    <desc lang="it">Tutte le gare del UCI Women's WorldTour, il ciclismo su strada femminile d'élite.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26272741bdh10ac_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260322120000 +0000" stop="20260322123000 +0000" channel="Eurosport 2">
+    <title lang="it">IBU Biathlon Coppa del Mondo: Oslo - Inseguimento donne</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo IBU Biathlon.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25740016bdh8ad_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260322123000 +0000" stop="20260322133000 +0000" channel="Eurosport 2">
+    <title lang="it">IBU Biathlon Coppa del Mondo: Oslo - Mass start donne</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo IBU Biathlon.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p25740016bdh8ad_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260322133000 +0000" stop="20260322153000 +0000" channel="Eurosport 2">
+    <title lang="it">UCI Europe Tour: Uomini: Grand Prix Monsere</title>
+    <desc lang="it">Le gare del UCI Europe Tour maschile.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26319497bdh10ad_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260322153000 +0000" stop="20260322162000 +0000" channel="Eurosport 2">
+    <title lang="it">UCI WorldTour: Donne: Sanremo Women</title>
+    <desc lang="it">Tutte le gare del UCI Women's WorldTour, il ciclismo su strada femminile d'élite.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26272741bdh10ac_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260322162000 +0000" stop="20260322173000 +0000" channel="Eurosport 2">
+    <title lang="it">FIS Sci di fondo: Lake Placid - Sprint TL</title>
+    <desc lang="it">Segui la gara di sci di fondo valevole per la Coppa del Mondo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9623958bdh10ad_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260322173000 +0000" stop="20260322220000 +0000" channel="Eurosport 2">
+    <title lang="it">PGA Tour: Valspar Championship - 4a giornata - Commento italiano</title>
+    <desc lang="it">Il meglio del golf mondiale, protagonista con appuntamenti di livello assoluto, in diretta dai green più prestigiosi del globo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p845788bdh8ab_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260322220000 +0000" stop="20260322224500 +0000" channel="Eurosport 2">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Lillehammer: Super G femminile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260322224500 +0000" stop="20260322233000 +0000" channel="Eurosport 2">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Lillehammer: Super G maschile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260322233000 +0000" stop="20260323003000 +0000" channel="Eurosport 2">
+    <title lang="it">FIS Salto con gli sci Coppa del Mondo</title>
+    <sub-title lang="it">Vikersund - HS 240 uomini</sub-title>
+    <desc lang="it">Da Lillehammer alle finali di Planica, passando per il Gross-Titlis-Schanze e i Quattro Trampolini, occhi puntati sulla 48ª stagione di Coppa del Mondo di salto.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9833214ih10af_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260323003000 +0000" stop="20260323020000 +0000" channel="Eurosport 2">
+    <title lang="it">World Snooker Tour: World Open - Finale</title>
+    <desc lang="it">Tutte le azioni del World Snooker Tour.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24829502bdh8aa_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260323020000 +0000" stop="20260323024500 +0000" channel="Eurosport 2">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Lillehammer: Super G femminile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260323024500 +0000" stop="20260323033000 +0000" channel="Eurosport 2">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Lillehammer: Super G maschile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260323033000 +0000" stop="20260323050000 +0000" channel="Eurosport 2">
+    <title lang="it">FIS Salto con gli sci Coppa del Mondo</title>
+    <sub-title lang="it">Vikersund - HS 240 uomini</sub-title>
+    <desc lang="it">Da Lillehammer alle finali di Planica, passando per il Gross-Titlis-Schanze e i Quattro Trampolini, occhi puntati sulla 48ª stagione di Coppa del Mondo di salto.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9833214ih10af_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260323050000 +0000" stop="20260323063000 +0000" channel="Eurosport 2">
+    <title lang="it">World Snooker Tour: World Open - Finale</title>
+    <desc lang="it">Tutte le azioni del World Snooker Tour.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24829502bdh8aa_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260323063000 +0000" stop="20260323070000 +0000" channel="Eurosport 2">
+    <title lang="it">FIS Sci alpino Coppa del Mondo: Lillehammer: Super G maschile</title>
+    <desc lang="it">Le gare del circuito internazionale di Coppa del Mondo FIS di sci alpino.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23022515bdh8ag_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260323070000 +0000" stop="20260323074500 +0000" channel="Eurosport 2">
+    <title lang="it">FIM Campionato mondiale di motocross: Andalusia - MX2 - Gara 1</title>
+    <desc lang="it">Le gare del Campionato mondiale di motocross.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10708282ih10ab_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260323074500 +0000" stop="20260323083000 +0000" channel="Eurosport 2">
+    <title lang="it">FIM Campionato mondiale di motocross: Andalusia - MXGP - Gara 1</title>
+    <desc lang="it">Le gare del Campionato mondiale di motocross.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10708282ih10ab_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260323083000 +0000" stop="20260323091500 +0000" channel="Eurosport 2">
+    <title lang="it">FIM Campionato mondiale di motocross: Andalusia - MX2 - Gara 2</title>
+    <desc lang="it">Le gare del Campionato mondiale di motocross.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10708282ih10ab_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260323091500 +0000" stop="20260323100000 +0000" channel="Eurosport 2">
+    <title lang="it">FIM Campionato mondiale di motocross: Andalusia - MXGP - Gara 2</title>
+    <desc lang="it">Le gare del Campionato mondiale di motocross.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p10708282ih10ab_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260323100000 +0000" stop="20260323113000 +0000" channel="Eurosport 2">
+    <title lang="it">FIS Salto con gli sci Coppa del Mondo</title>
+    <sub-title lang="it">Vikersund - HS 240 uomini</sub-title>
+    <desc lang="it">Da Lillehammer alle finali di Planica, passando per il Gross-Titlis-Schanze e i Quattro Trampolini, occhi puntati sulla 48ª stagione di Coppa del Mondo di salto.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9833214ih10af_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260323113000 +0000" stop="20260323130000 +0000" channel="Eurosport 2">
+    <title lang="it">Equitazione: Ocala</title>
+    <desc lang="it">Salto ostacoli ----- Ocala.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p8199266bdh10am_Backdrop_W660.webp" />
+    <country lang="it">NL</country>
+  </programme>
+  <programme start="20260323130000 +0000" stop="20260323142000 +0000" channel="Eurosport 2">
+    <title lang="it">UCI WorldTour: Uomini: Milano Sanremo</title>
+    <desc lang="it">Tutte le gare del UCI WorldTour, il ciclismo su strada maschile d'élite.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p23581551bdh8ad_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260323142000 +0000" stop="20260323161500 +0000" channel="Eurosport 2">
+    <title lang="it">UCI WorldTour: Uomini: Volta a Catalunya - 1a tappa</title>
+    <desc lang="it">Sette frazioni e tre arrivi in salita con finale classico sul circuito iridato di Montjuïc. Via alla 106a edizione della Volta Catalunya, la quarta corsa a tappe più antica del mondo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9085250bdh8ab_Backdrop_W660.webp" />
+    <premiere />
+  </programme>
+  <programme start="20260323161500 +0000" stop="20260323170000 +0000" channel="Eurosport 2">
+    <title lang="it">UCI Europe Tour: Uomini: Grand Prix Monsere</title>
+    <desc lang="it">Le gare del UCI Europe Tour maschile.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p26319497bdh10ad_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260323170000 +0000" stop="20260323180000 +0000" channel="Eurosport 2">
+    <title lang="it">FIS Salto con gli sci Coppa del Mondo</title>
+    <sub-title lang="it">Vikersund - HS 240 uomini</sub-title>
+    <desc lang="it">Da Lillehammer alle finali di Planica, passando per il Gross-Titlis-Schanze e i Quattro Trampolini, occhi puntati sulla 48ª stagione di Coppa del Mondo di salto.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9833214ih10af_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260323180000 +0000" stop="20260323190000 +0000" channel="Eurosport 2">
+    <title lang="it">World Snooker Tour: World Open - Finale</title>
+    <desc lang="it">Tutte le azioni del World Snooker Tour.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24829502bdh8aa_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260323190000 +0000" stop="20260323220000 +0000" channel="Eurosport 2">
+    <title lang="it">Powerlifting: Valletta - Sessione 2</title>
+    <desc lang="it">Diretta delle migliori competizione di powerlifting.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p20922774bdh8aa_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260323220000 +0000" stop="20260323230000 +0000" channel="Eurosport 2">
+    <title lang="it">FIS Salto con gli sci Coppa del Mondo</title>
+    <sub-title lang="it">Vikersund - HS 240 uomini</sub-title>
+    <desc lang="it">Da Lillehammer alle finali di Planica, passando per il Gross-Titlis-Schanze e i Quattro Trampolini, occhi puntati sulla 48ª stagione di Coppa del Mondo di salto.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9833214ih10af_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260323230000 +0000" stop="20260324003000 +0000" channel="Eurosport 2">
+    <title lang="it">UCI WorldTour: Uomini: Volta a Catalunya - 1a tappa</title>
+    <desc lang="it">Sette frazioni e tre arrivi in salita con finale classico sul circuito iridato di Montjuïc. Via alla 106a edizione della Volta Catalunya, la quarta corsa a tappe più antica del mondo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9085250bdh8ab_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260324003000 +0000" stop="20260324020000 +0000" channel="Eurosport 2">
+    <title lang="it">World Snooker Tour: Scottish Open - Finale</title>
+    <desc lang="it">Tutte le azioni del World Snooker Tour.</desc>
+    <date>2025</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p24829502bdh8aa_Backdrop_W660.webp" />
+  </programme>
+  <programme start="20260324020000 +0000" stop="20260324033000 +0000" channel="Eurosport 2">
+    <title lang="it">FIS Salto con gli sci Coppa del Mondo</title>
+    <sub-title lang="it">Vikersund - HS 240 uomini</sub-title>
+    <desc lang="it">Da Lillehammer alle finali di Planica, passando per il Gross-Titlis-Schanze e i Quattro Trampolini, occhi puntati sulla 48ª stagione di Coppa del Mondo di salto.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9833214ih10af_Iconic_W660.webp" />
+  </programme>
+  <programme start="20260324033000 +0000" stop="20260324050000 +0000" channel="Eurosport 2">
+    <title lang="it">UCI WorldTour: Uomini: Volta a Catalunya - 1a tappa</title>
+    <desc lang="it">Sette frazioni e tre arrivi in salita con finale classico sul circuito iridato di Montjuïc. Via alla 106a edizione della Volta Catalunya, la quarta corsa a tappe più antica del mondo.</desc>
+    <date>2026</date>
+    <icon src="https://services.sg101.prd.sctv.ch/content/imagestv/program/p9085250bdh8ab_Backdrop_W660.webp" />
+  </programme>
   <programme start="20260322034500 +0000" stop="20260322041000 +0000" channel="Discovery Channel">
     <title lang="it">Marchio di fabbrica</title>
     <desc lang="it">Scopriamo com'è gestito il carcere di Rikers Island, uno dei più grandi al mondo. Poi come vengono prodotte le famose buche delle lettere inglesi e come si trasforma la frutta in marmellata.</desc>
