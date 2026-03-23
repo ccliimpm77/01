@@ -20,6 +20,6 @@ jobs:
         run: |
           git config --global user.name "EPG-Bot"
           git config --global user.email "bot@epg.com"
-          git add 01.xml
+          git add 01.xmltv
           git commit -m "Aggiornamento" || exit 0
           git push
