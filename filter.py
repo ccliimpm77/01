@@ -7,7 +7,7 @@ def main():
     # Prova a usare l'URL diretto del file compresso
     EPG_URL = "https://www.epgitalia.tv/gzip"
     CHANNELS_FILE = "canali.txt"
-    OUTPUT_FILE = "epg.xml"
+    OUTPUT_FILE = "01.xml"
 
     # User-Agent molto realistico per evitare blocchi
     headers = {
